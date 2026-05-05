@@ -34,8 +34,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "evaluation",
           "rag",
@@ -44,8 +44,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "evaluation",
           "rag",
@@ -80,8 +80,8 @@
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "evaluation",
@@ -90,8 +90,8 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "evaluation",
@@ -137,8 +137,8 @@
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "voice ai",
           "agents",
@@ -147,13 +147,13 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "voice ai",
           "agents",
           "coding",
-          "closed models"
+          "evaluation"
         ]
       },
       {
@@ -185,11 +185,11 @@
       "rag",
       "coding",
       "enterprise ai",
-      "prompting"
+      "news"
     ],
     "dominantFormats": [
-      "interview",
       "analysis",
+      "interview",
       "news"
     ],
     "relatedChannels": [
@@ -204,23 +204,23 @@
         ]
       },
       {
+        "slug": "assemblyai",
+        "name": "AssemblyAI",
+        "overlapTopics": [
+          "agents",
+          "coding",
+          "enterprise ai",
+          "news"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
           "coding",
-          "prompting"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding",
-          "prompting"
+          "evaluation"
         ]
       }
     ]
@@ -250,16 +250,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "news",
-          "closed models",
-          "prompting"
-        ]
-      },
-      {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
@@ -277,6 +267,16 @@
           "news",
           "closed models",
           "prompting"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "news",
+          "prompting",
+          "coding"
         ]
       }
     ]
@@ -312,8 +312,8 @@
         "overlapTopics": [
           "agents",
           "prompting",
-          "closed models",
-          "rag"
+          "rag",
+          "evaluation"
         ]
       },
       {
