@@ -1,5 +1,10 @@
 # LLM YouTube Landscape Tracker Report
 
+## Public Links
+
+- Repository: [llm-youtube-landscape-tracker](https://github.com/jzy13357737150-eng/llm-youtube-landscape-tracker)
+- Live page: [public tracker page](https://cdn.jsdelivr.net/gh/jzy13357737150-eng/llm-youtube-landscape-tracker@main/docs/index.html)
+
 ## Problem Statement
 
 The goal of this exercise is to build a public, continuously updated tracker for popular YouTube channels that discuss large language models.
@@ -63,7 +68,7 @@ The project computes a lightweight relation signal based on overlap in extracted
 
 ### 6. Public hosting
 
-The final output is built as a static site and deployed through GitHub Pages. A scheduled GitHub Actions workflow regenerates the dataset and republishes the page every 6 hours.
+The final output is built as a static site under `docs/` and exposed publicly from the repository snapshot. A scheduled GitHub Actions workflow regenerates the dataset and commits refreshed `data/` and `docs/` files back to the repository every 6 hours, which keeps the public page current.
 
 ## Evaluation Dataset
 

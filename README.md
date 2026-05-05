@@ -2,6 +2,11 @@
 
 This repository contains a public, browser-friendly tracker for YouTube creators who discuss large language models.
 
+Live site:
+
+- [Public tracker page](https://cdn.jsdelivr.net/gh/jzy13357737150-eng/llm-youtube-landscape-tracker@main/docs/index.html)
+- [Repository report](https://github.com/jzy13357737150-eng/llm-youtube-landscape-tracker/blob/main/report/REPORT.md)
+
 The project is designed for a recruitment exercise and focuses on three things:
 
 - collecting recent videos from a curated set of LLM channels
@@ -14,7 +19,7 @@ The project is designed for a recruitment exercise and focuses on three things:
 - `scripts/`: ingestion, transcript, summarization, and build pipeline
 - `config/channels.json`: tracked channel registry
 - `data/`: generated site data
-- `docs/`: deployable static output for GitHub Pages
+- `docs/`: published static output for the public browser page
 - `report/REPORT.md`: submission report in markdown
 
 ## Architecture
@@ -25,7 +30,7 @@ The project is designed for a recruitment exercise and focuses on three things:
 4. Transcript text is converted into structured rows through a captions-first extraction pipeline.
 5. Optional LLM enrichment can improve summaries when `OPENAI_API_KEY` is configured.
 6. Relationship signals are computed from shared topic tags across channels.
-7. A static site is built into `docs/` and deployed with GitHub Pages.
+7. A static site is built into `docs/` and served publicly from the repository snapshot.
 
 ## Local setup
 
@@ -99,9 +104,13 @@ The included workflow under `.github/workflows/deploy.yml` is set up for:
 
 - manual runs
 - scheduled refreshes every 6 hours
-- GitHub Pages deployment from generated `docs/`
+- snapshot rebuilds that commit updated `data/` and `docs/` back into the repository
 
-If you want optional LLM enrichment in deployment, add `OPENAI_API_KEY` as a GitHub Actions secret. Otherwise the scheduled pipeline still runs in captions-first mode.
+The public browser page is served from the repository snapshot using a CDN-backed GitHub file URL:
+
+- `https://cdn.jsdelivr.net/gh/jzy13357737150-eng/llm-youtube-landscape-tracker@main/docs/index.html`
+
+If you want optional LLM enrichment in automation, add `OPENAI_API_KEY` as a GitHub Actions secret. Otherwise the scheduled pipeline still runs in captions-first mode.
 
 ## Demo mode
 
