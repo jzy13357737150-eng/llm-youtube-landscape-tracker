@@ -1,0 +1,22 @@
+{
+  "name": "llm-youtube-landscape-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Public tracker for LLM-focused YouTube channels with transcript-grounded summaries and scheduled updates.",
+  "scripts": {
+    "update:data": "node scripts/update-data.mjs",
+    "build:site": "node scripts/build-site.mjs",
+    "build": "npm run update:data && npm run build:site",
+    "preview": "python -m http.server 4173 -d docs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "fast-xml-parser": "^5.3.0",
+    "openai": "^6.6.0",
+    "youtube-transcript": "^1.2.1"
+  }
+}

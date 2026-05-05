@@ -1,0 +1,341 @@
+[
+  {
+    "slug": "andrej-karpathy",
+    "name": "Andrej Karpathy",
+    "url": "https://www.youtube.com/@AndrejKarpathy",
+    "category": "research",
+    "focusAreas": [
+      "llm internals",
+      "transformers",
+      "training",
+      "reasoning"
+    ],
+    "recentVideoCount": 8,
+    "latestThemes": [
+      "evaluation",
+      "rag",
+      "reasoning",
+      "fine-tuning",
+      "prompting"
+    ],
+    "dominantFormats": [
+      "interview",
+      "tutorial"
+    ],
+    "relatedChannels": [
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "evaluation",
+          "rag",
+          "reasoning",
+          "fine-tuning"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "evaluation",
+          "rag",
+          "reasoning",
+          "prompting"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "evaluation",
+          "rag",
+          "reasoning",
+          "prompting"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "langchain",
+    "name": "LangChain",
+    "url": "https://www.youtube.com/@LangChain",
+    "category": "developer-tools",
+    "focusAreas": [
+      "agents",
+      "rag",
+      "evaluation",
+      "orchestration"
+    ],
+    "recentVideoCount": 8,
+    "latestThemes": [
+      "agents",
+      "evaluation",
+      "rag",
+      "tutorial",
+      "prompting"
+    ],
+    "dominantFormats": [
+      "interview",
+      "analysis"
+    ],
+    "relatedChannels": [
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "rag",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "rag",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "assemblyai",
+        "name": "AssemblyAI",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "tutorial",
+          "prompting"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "assemblyai",
+    "name": "AssemblyAI",
+    "url": "https://www.youtube.com/@AssemblyAI",
+    "category": "developer-tools",
+    "focusAreas": [
+      "voice ai",
+      "llm apps",
+      "speech",
+      "production ai"
+    ],
+    "recentVideoCount": 8,
+    "latestThemes": [
+      "voice ai",
+      "agents",
+      "coding",
+      "closed models",
+      "evaluation"
+    ],
+    "dominantFormats": [
+      "analysis",
+      "interview",
+      "news"
+    ],
+    "relatedChannels": [
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "voice ai",
+          "agents",
+          "coding",
+          "closed models"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "voice ai",
+          "agents",
+          "coding",
+          "closed models"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "coding",
+          "closed models",
+          "evaluation"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "ibm-technology",
+    "name": "IBM Technology",
+    "url": "https://www.youtube.com/@IBMTechnology",
+    "category": "enterprise",
+    "focusAreas": [
+      "enterprise ai",
+      "rag",
+      "governance",
+      "agentic ai"
+    ],
+    "recentVideoCount": 8,
+    "latestThemes": [
+      "agents",
+      "rag",
+      "coding",
+      "enterprise ai",
+      "prompting"
+    ],
+    "dominantFormats": [
+      "interview",
+      "analysis",
+      "news"
+    ],
+    "relatedChannels": [
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "enterprise ai"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "prompting"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "prompting"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "matt-wolfe",
+    "name": "Matt Wolfe",
+    "url": "https://www.youtube.com/@mreflow",
+    "category": "creator-news",
+    "focusAreas": [
+      "ai tools",
+      "agent products",
+      "industry news",
+      "productivity"
+    ],
+    "recentVideoCount": 8,
+    "latestThemes": [
+      "agents",
+      "news",
+      "closed models",
+      "prompting",
+      "coding"
+    ],
+    "dominantFormats": [
+      "analysis",
+      "tutorial"
+    ],
+    "relatedChannels": [
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "news",
+          "closed models",
+          "prompting"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "news",
+          "closed models",
+          "prompting"
+        ]
+      },
+      {
+        "slug": "assemblyai",
+        "name": "AssemblyAI",
+        "overlapTopics": [
+          "agents",
+          "news",
+          "closed models",
+          "prompting"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "the-ai-advantage",
+    "name": "The AI Advantage",
+    "url": "https://www.youtube.com/@aiadvantage",
+    "category": "education",
+    "focusAreas": [
+      "automation",
+      "agents",
+      "prompting",
+      "workflows"
+    ],
+    "recentVideoCount": 8,
+    "latestThemes": [
+      "agents",
+      "prompting",
+      "closed models",
+      "rag",
+      "evaluation"
+    ],
+    "dominantFormats": [
+      "interview",
+      "tutorial",
+      "analysis"
+    ],
+    "relatedChannels": [
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "closed models",
+          "rag"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "closed models",
+          "rag"
+        ]
+      },
+      {
+        "slug": "assemblyai",
+        "name": "AssemblyAI",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "closed models",
+          "evaluation"
+        ]
+      }
+    ]
+  }
+]

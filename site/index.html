@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LLM YouTube Landscape Tracker</title>
+    <meta
+      name="description"
+      content="A public tracker for LLM-focused YouTube channels with transcript-grounded summaries, topic tags, and channel relationship signals."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Recruitment Exercise</p>
+          <h1>LLM YouTube Landscape Tracker</h1>
+          <p class="lede">
+            A continuously updated view of what popular YouTube creators are
+            actually saying about LLMs, based on captions or transcripts rather
+            than only titles and thumbnails.
+          </p>
+          <div class="hero-meta">
+            <span id="mode-badge" class="badge">Loading</span>
+            <span id="last-updated" class="meta-pill">Checking latest run...</span>
+          </div>
+        </div>
+        <aside class="hero-panel">
+          <h2>How it works</h2>
+          <ol class="pipeline-list">
+            <li>Watch selected LLM channels on a schedule.</li>
+            <li>Pull new uploads from channel feeds.</li>
+            <li>Fetch reliable captions or transcripts.</li>
+            <li>Summarize spoken content into structured tags.</li>
+            <li>Publish a public browser page with fresh rows.</li>
+          </ol>
+          <div class="hero-links">
+            <a href="./REPORT.md">Markdown report</a>
+            <a href="./data/meta.json">Run metadata</a>
+          </div>
+          <p id="processing-mode" class="processing-note">Inspecting processing mode...</p>
+        </aside>
+      </header>
+
+      <main>
+        <section class="stats-grid" id="stats-grid">
+          <article class="stat-card">
+            <span class="stat-label">Tracked channels</span>
+            <strong id="stat-channels">-</strong>
+          </article>
+          <article class="stat-card">
+            <span class="stat-label">Videos in table</span>
+            <strong id="stat-videos">-</strong>
+          </article>
+          <article class="stat-card">
+            <span class="stat-label">Transcript coverage</span>
+            <strong id="stat-transcripts">-</strong>
+          </article>
+          <article class="stat-card">
+            <span class="stat-label">Top theme</span>
+            <strong id="stat-top-topic">-</strong>
+          </article>
+        </section>
+
+        <section class="section">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Landscape Table</p>
+              <h2>What creators are saying</h2>
+            </div>
+            <p class="section-note">
+              Each row is designed to reflect spoken content. Click a row to inspect
+              the evidence snippet and processing notes.
+            </p>
+          </div>
+
+          <div class="toolbar">
+            <label>
+              <span>Search</span>
+              <input id="search-input" type="search" placeholder="Search title, summary, topics..." />
+            </label>
+            <label>
+              <span>Channel</span>
+              <select id="channel-filter">
+                <option value="">All channels</option>
+              </select>
+            </label>
+            <label>
+              <span>Topic</span>
+              <select id="topic-filter">
+                <option value="">All topics</option>
+              </select>
+            </label>
+            <label>
+              <span>Format</span>
+              <select id="stance-filter">
+                <option value="">All formats</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Published</th>
+                  <th>Channel</th>
+                  <th>Speaker</th>
+                  <th>Topics</th>
+                  <th>Summary</th>
+                  <th>Related channels</th>
+                  <th>Transcript</th>
+                </tr>
+              </thead>
+              <tbody id="videos-body"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="section split-section">
+          <div>
+            <div class="section-head compact">
+              <div>
+                <p class="eyebrow">Channel Relationships</p>
+                <h2>How channels connect on LLM themes</h2>
+              </div>
+            </div>
+            <div id="channel-grid" class="channel-grid"></div>
+          </div>
+          <div>
+            <div class="section-head compact">
+              <div>
+                <p class="eyebrow">Methodology</p>
+                <h2>Support material</h2>
+              </div>
+            </div>
+            <div class="support-card">
+              <p>
+                The pipeline is captions-first, transcript-grounded, and designed
+                for scheduled reruns. Rows store transcript status, summary source,
+                and short evidence snippets so reviewers can inspect how summaries
+                are produced.
+              </p>
+              <ul class="support-list">
+                <li>Watch source: YouTube channel feeds</li>
+                <li>Transcript source: captions via transcript fetcher</li>
+                <li>Structured output: captions-first extraction with optional LLM enrichment</li>
+                <li>Fallback mode: deterministic heuristics plus fixture preview</li>
+                <li>Deployment target: GitHub Pages via scheduled GitHub Actions</li>
+              </ul>
+              <div class="topic-cloud" id="topic-cloud"></div>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <dialog id="detail-dialog" class="detail-dialog">
+      <article class="detail-card">
+        <button class="detail-close" id="detail-close" aria-label="Close details">Close</button>
+        <div id="detail-content"></div>
+      </article>
+    </dialog>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
