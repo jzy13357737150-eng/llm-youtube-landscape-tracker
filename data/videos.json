@@ -1,5 +1,128 @@
 [
   {
+    "id": "z7EE9VWKrCA",
+    "videoId": "z7EE9VWKrCA",
+    "channelSlug": "matt-wolfe",
+    "channelName": "Matt Wolfe",
+    "channelCategory": "creator-news",
+    "title": "Your AI Setup Needs This",
+    "url": "https://www.youtube.com/shorts/z7EE9VWKrCA",
+    "thumbnailUrl": "https://i3.ytimg.com/vi/z7EE9VWKrCA/hqdefault.jpg",
+    "publishedAt": "2026-05-06T19:00:00+00:00",
+    "speaker": "Matt Wolfe",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "enterprise ai",
+      "automation",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "If you’re serious about AI, your laptop matters more than you think. Most people are running powerful AI tools on hardware that’s holding them back.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "error",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
+    "relatedChannels": [
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "enterprise ai",
+          "automation",
+          "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "enterprise ai",
+          "automation",
+          "news"
+        ]
+      },
+      {
+        "slug": "assemblyai",
+        "name": "AssemblyAI",
+        "overlapTopics": [
+          "agents",
+          "enterprise ai",
+          "automation",
+          "news"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "yke4fLQUsh4",
+    "videoId": "yke4fLQUsh4",
+    "channelSlug": "matt-wolfe",
+    "channelName": "Matt Wolfe",
+    "channelCategory": "creator-news",
+    "title": "Full Guide: Build An AI Second Brain With Codex",
+    "url": "https://www.youtube.com/watch?v=yke4fLQUsh4",
+    "thumbnailUrl": "https://i2.ytimg.com/vi/yke4fLQUsh4/hqdefault.jpg",
+    "publishedAt": "2026-05-06T18:19:41+00:00",
+    "speaker": "Matt Wolfe",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "coding",
+      "tutorial",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "chatgpt"
+    ],
+    "summary": "Here's how to build an AI second brain. Launch your own AI agents with OpenClaw at http://hostinger.com/mattopenclaw and get 10% off with code MATTWOLFE Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow 🧵 Threads: https://www.threads.net/@mr.eflow 🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/ 👍 Facebook: https://www.facebook.com/mattrwolfe Resources From Today's Video: Karpathy Tweet: https://x.com/karpathy/status/2039805659525644595 Karpathy GitHub Page: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f Obsidian: https://obsidian.md/ Obsidian Web Clipper: https://obsidian.md/clipper Codex App: https://chatgpt.com/codex/ Let’s work together!",
+    "stance": "tutorial",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "coding",
+          "tutorial",
+          "news"
+        ]
+      },
+      {
+        "slug": "assemblyai",
+        "name": "AssemblyAI",
+        "overlapTopics": [
+          "agents",
+          "coding",
+          "tutorial",
+          "news"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "coding",
+          "news"
+        ]
+      }
+    ]
+  },
+  {
     "id": "cx6_tb6HCeY",
     "videoId": "cx6_tb6HCeY",
     "channelSlug": "langchain",
@@ -55,13 +178,13 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
           "prompting",
-          "evaluation"
+          "evaluation",
+          "automation"
         ]
       }
     ]
@@ -168,8 +291,8 @@
         ]
       },
       {
-        "slug": "assemblyai",
-        "name": "AssemblyAI",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "closed models",
@@ -178,12 +301,13 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "assemblyai",
+        "name": "AssemblyAI",
         "overlapTopics": [
           "agents",
-          "rag",
-          "closed models"
+          "closed models",
+          "enterprise ai",
+          "news"
         ]
       }
     ]
@@ -230,8 +354,8 @@
         ]
       },
       {
-        "slug": "assemblyai",
-        "name": "AssemblyAI",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "evaluation",
@@ -240,13 +364,13 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "assemblyai",
+        "name": "AssemblyAI",
         "overlapTopics": [
           "agents",
           "evaluation",
           "coding",
-          "news"
+          "enterprise ai"
         ]
       }
     ]
@@ -273,65 +397,6 @@
       "langchain"
     ],
     "summary": "LangChain discusses LLM-related themes in \"LangChain Live Stream\".",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "zLw0IIbxNvw",
-    "videoId": "zLw0IIbxNvw",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "Interrupt 2026 Keynotes",
-    "url": "https://www.youtube.com/watch?v=zLw0IIbxNvw",
-    "thumbnailUrl": "https://i3.ytimg.com/vi/zLw0IIbxNvw/hqdefault.jpg",
-    "publishedAt": "2026-05-04T18:32:20+00:00",
-    "speaker": "LangChain",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "evaluation"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "langchain"
-    ],
-    "summary": "Hear from LangChain co-founder, Harrison Chase, on what's coming next for AI agents. Learn what's working in production today, where agents are headed, and get a first look at new product drops.",
     "stance": "analysis",
     "transcriptSource": "none",
     "transcriptStatus": "disabled",
@@ -422,13 +487,13 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
           "prompting",
-          "evaluation"
+          "evaluation",
+          "tutorial"
         ]
       }
     ]
@@ -539,8 +604,8 @@
         ]
       },
       {
-        "slug": "assemblyai",
-        "name": "AssemblyAI",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -549,13 +614,13 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "assemblyai",
+        "name": "AssemblyAI",
         "overlapTopics": [
           "agents",
-          "rag",
           "prompting",
-          "coding"
+          "coding",
+          "enterprise ai"
         ]
       }
     ]
@@ -657,8 +722,8 @@
         ]
       },
       {
-        "slug": "assemblyai",
-        "name": "AssemblyAI",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "coding",
@@ -667,13 +732,13 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "assemblyai",
+        "name": "AssemblyAI",
         "overlapTopics": [
           "agents",
           "coding",
-          "automation",
-          "news"
+          "enterprise ai",
+          "automation"
         ]
       }
     ]
@@ -724,6 +789,16 @@
         ]
       },
       {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "closed models",
+          "automation"
+        ]
+      },
+      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -731,16 +806,6 @@
           "rag",
           "prompting",
           "closed models"
-        ]
-      },
-      {
-        "slug": "assemblyai",
-        "name": "AssemblyAI",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "closed models",
-          "automation"
         ]
       }
     ]
@@ -862,13 +927,13 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
           "reasoning",
-          "prompting"
+          "prompting",
+          "evaluation"
         ]
       }
     ]
@@ -1122,13 +1187,13 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
           "reasoning",
-          "evaluation"
+          "evaluation",
+          "open-source models"
         ]
       }
     ]
@@ -1178,6 +1243,16 @@
         ]
       },
       {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "open-source models",
+          "closed models",
+          "coding"
+        ]
+      },
+      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -1185,16 +1260,6 @@
           "open-source models",
           "closed models",
           "voice ai"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "open-source models",
-          "voice ai",
-          "coding"
         ]
       }
     ]
@@ -1252,73 +1317,13 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "evaluation"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "KgtwlcHP6DM",
-    "videoId": "KgtwlcHP6DM",
-    "channelSlug": "matt-wolfe",
-    "channelName": "Matt Wolfe",
-    "channelCategory": "creator-news",
-    "title": "This AI Actually Surprised Me",
-    "url": "https://www.youtube.com/shorts/KgtwlcHP6DM",
-    "thumbnailUrl": "https://i4.ytimg.com/vi/KgtwlcHP6DM/hqdefault.jpg",
-    "publishedAt": "2026-04-30T12:34:33+00:00",
-    "speaker": "Matt Wolfe",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "prompting",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "chatgpt",
-      "openai"
-    ],
-    "summary": "ChatGPT’s new image model did something that blew me away 🤯 Usually, you'd have to download images from the source and drop them into ChatGPT with your prompt so the AI can use them in the output. But this new model was able to just grab them from the site using only the URL.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "error",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
-    "relatedChannels": [
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "prompting",
-          "news"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "news"
-        ]
-      },
-      {
-        "slug": "assemblyai",
-        "name": "AssemblyAI",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "news"
+          "evaluation",
+          "tutorial"
         ]
       }
     ]
@@ -1363,8 +1368,8 @@
         ]
       },
       {
-        "slug": "assemblyai",
-        "name": "AssemblyAI",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "enterprise ai",
@@ -1372,11 +1377,12 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "assemblyai",
+        "name": "AssemblyAI",
         "overlapTopics": [
           "agents",
-          "rag"
+          "enterprise ai",
+          "news"
         ]
       }
     ]
@@ -1442,67 +1448,6 @@
           "prompting",
           "closed models",
           "coding"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "Yt3UcL_EPus",
-    "videoId": "Yt3UcL_EPus",
-    "channelSlug": "matt-wolfe",
-    "channelName": "Matt Wolfe",
-    "channelCategory": "creator-news",
-    "title": "The AI Solution Nobody’s Talking About",
-    "url": "https://www.youtube.com/shorts/Yt3UcL_EPus",
-    "thumbnailUrl": "https://i2.ytimg.com/vi/Yt3UcL_EPus/hqdefault.jpg",
-    "publishedAt": "2026-04-29T19:38:21+00:00",
-    "speaker": "Matt Wolfe",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "coding",
-      "automation",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Hot take: AI isn’t hard to use anymore… Figuring out what to do with it is. That’s where most people get stuck.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "error",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
-    "relatedChannels": [
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "coding",
-          "automation",
-          "news"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "coding",
-          "automation",
-          "news"
-        ]
-      },
-      {
-        "slug": "assemblyai",
-        "name": "AssemblyAI",
-        "overlapTopics": [
-          "agents",
-          "coding",
-          "automation",
-          "news"
         ]
       }
     ]
@@ -1613,6 +1558,16 @@
         ]
       },
       {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "coding",
+          "tutorial",
+          "news"
+        ]
+      },
+      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -1620,16 +1575,6 @@
           "voice ai",
           "coding",
           "news"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "voice ai",
-          "coding",
-          "tutorial"
         ]
       }
     ]
@@ -2021,12 +1966,12 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
-          "evaluation"
+          "evaluation",
+          "tutorial"
         ]
       }
     ]
@@ -2271,6 +2216,16 @@
     "notes": "",
     "relatedChannels": [
       {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "evaluation",
+          "closed models"
+        ]
+      },
+      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -2283,16 +2238,6 @@
       {
         "slug": "assemblyai",
         "name": "AssemblyAI",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "evaluation",
-          "closed models"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -2354,12 +2299,12 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
-          "evaluation"
+          "evaluation",
+          "tutorial"
         ]
       }
     ]
@@ -2503,6 +2448,68 @@
     ]
   },
   {
+    "id": "DkNqgCz8cjE",
+    "videoId": "DkNqgCz8cjE",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "Make Your LangSmith Deployment Multi-Tenant",
+    "url": "https://www.youtube.com/watch?v=DkNqgCz8cjE",
+    "thumbnailUrl": "https://i1.ytimg.com/vi/DkNqgCz8cjE/hqdefault.jpg",
+    "publishedAt": "2026-04-14T16:27:08+00:00",
+    "speaker": "LangChain",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "evaluation",
+      "tutorial"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "langchain"
+    ],
+    "summary": "When you deploy an agent on LangSmith, you get a full agent server with 30+ API endpoints out of the box — threads, runs, assistants, a built-in store, A2A and MCP protocol support. But by default, everything is scoped to the API key.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "tutorial"
+        ]
+      }
+    ]
+  },
+  {
     "id": "EWvNQjAaOHw",
     "videoId": "EWvNQjAaOHw",
     "channelSlug": "andrej-karpathy",
@@ -2561,13 +2568,13 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
           "reasoning",
-          "prompting"
+          "prompting",
+          "evaluation"
         ]
       }
     ]
@@ -2764,13 +2771,13 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
-          "rag",
           "reasoning",
           "prompting",
-          "evaluation"
+          "evaluation",
+          "open-source models"
         ]
       }
     ]
@@ -2899,13 +2906,13 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
-          "rag",
           "reasoning",
           "prompting",
-          "evaluation"
+          "evaluation",
+          "coding"
         ]
       }
     ]
@@ -2962,12 +2969,12 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
-          "rag",
           "reasoning",
           "evaluation",
+          "coding",
           "automation"
         ]
       }
@@ -3015,18 +3022,18 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
           "reasoning",
-          "evaluation"
+          "evaluation",
+          "coding"
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
