@@ -6,7 +6,8 @@ import {
   extractGuestName,
   fallbackSummary,
   normalizeWhitespace,
-  pickEvidenceSnippet
+  pickEvidenceSnippet,
+  truncateText
 } from "./text.mjs";
 
 function createClient(apiKey) {
@@ -43,11 +44,12 @@ function heuristicSummary(video, transcript, channel) {
     summary: fallbackSummary({
       title: video.title,
       transcriptText: transcript.text,
+      transcriptSegments: transcript.segments,
       description: video.description,
       channelName: channel.name
     }),
     stance: detectStance(video.title, transcript.text),
-    evidenceSnippet: pickEvidenceSnippet(transcript.text),
+    evidenceSnippet: pickEvidenceSnippet(transcript.text, transcript.segments),
     source: transcript.status === "ok" ? "heuristic-transcript" : "heuristic-metadata",
     notes: transcript.status === "ok" ? "" : transcript.error || "Transcript unavailable."
   };
@@ -122,9 +124,9 @@ export async function summarizeVideo(video, transcript, channel, runtimeConfig) 
     modelsMentioned: Array.isArray(parsed.modelsMentioned) && parsed.modelsMentioned.length > 0
       ? parsed.modelsMentioned.map((item) => normalizeWhitespace(item)).filter(Boolean).slice(0, 6)
       : fallback.modelsMentioned,
-    summary: normalizeWhitespace(parsed.summary || fallback.summary),
+    summary: truncateText(normalizeWhitespace(parsed.summary || fallback.summary), 320),
     stance: normalizeWhitespace(parsed.stance || fallback.stance),
-    evidenceSnippet: normalizeWhitespace(parsed.evidenceSnippet || fallback.evidenceSnippet),
+    evidenceSnippet: truncateText(normalizeWhitespace(parsed.evidenceSnippet || fallback.evidenceSnippet), 320),
     source: "openai-transcript",
     notes: ""
   };

@@ -49,6 +49,50 @@ export function splitSentences(value) {
     .filter(Boolean);
 }
 
+export function truncateText(value, maxLength = 320) {
+  const text = normalizeWhitespace(value);
+
+  if (text.length <= maxLength) {
+    return text;
+  }
+
+  const clipped = text.slice(0, Math.max(0, maxLength - 3));
+  const safeBoundary = Math.max(
+    clipped.lastIndexOf(". "),
+    clipped.lastIndexOf("! "),
+    clipped.lastIndexOf("? "),
+    clipped.lastIndexOf(", "),
+    clipped.lastIndexOf("; "),
+    clipped.lastIndexOf(": "),
+    clipped.lastIndexOf(" ")
+  );
+
+  const finalText = safeBoundary > 80 ? clipped.slice(0, safeBoundary) : clipped;
+  return `${finalText.trim()}...`;
+}
+
+export function segmentExcerpt(segments = [], maxLength = 320, maxSegments = 8) {
+  let built = "";
+
+  for (const segment of segments.slice(0, maxSegments)) {
+    const next = normalizeWhitespace(segment?.text || "");
+
+    if (!next) {
+      continue;
+    }
+
+    const candidate = built ? `${built} ${next}` : next;
+
+    if (candidate.length > maxLength) {
+      return truncateText(candidate, maxLength);
+    }
+
+    built = candidate;
+  }
+
+  return truncateText(built, maxLength);
+}
+
 export function detectTopics(...parts) {
   const text = normalizeWhitespace(parts.filter(Boolean).join(" ")).toLowerCase();
   const topics = TOPIC_RULES
@@ -76,28 +120,45 @@ export function detectStance(title = "", transcript = "") {
   return "analysis";
 }
 
-export function fallbackSummary({ title, transcriptText, description, channelName }) {
+export function fallbackSummary({ title, transcriptText, transcriptSegments = [], description, channelName }) {
   const transcriptSentences = splitSentences(transcriptText);
   const descriptionSentences = splitSentences(description);
 
   if (transcriptSentences.length >= 2) {
-    return transcriptSentences.slice(0, 2).join(" ");
+    return truncateText(transcriptSentences.slice(0, 2).join(" "), 320);
   }
 
   if (transcriptSentences.length === 1) {
-    return transcriptSentences[0];
+    if (transcriptSentences[0].length > 320 && transcriptSegments.length > 0) {
+      return segmentExcerpt(transcriptSegments, 320, 8);
+    }
+
+    return truncateText(transcriptSentences[0], 320);
+  }
+
+  if (transcriptSegments.length > 0) {
+    return segmentExcerpt(transcriptSegments, 320, 8);
   }
 
   if (descriptionSentences.length > 0) {
-    return descriptionSentences.slice(0, 2).join(" ");
+    return truncateText(descriptionSentences.slice(0, 2).join(" "), 320);
   }
 
-  return `${channelName} discusses LLM-related themes in "${title}".`;
+  return truncateText(`${channelName} discusses LLM-related themes in "${title}".`, 320);
 }
 
-export function pickEvidenceSnippet(transcriptText = "") {
+export function pickEvidenceSnippet(transcriptText = "", transcriptSegments = []) {
   const sentences = splitSentences(transcriptText);
-  return sentences.slice(0, 2).join(" ").slice(0, 320);
+
+  if (sentences.length > 0) {
+    return truncateText(sentences.slice(0, 2).join(" "), 320);
+  }
+
+  if (transcriptSegments.length > 0) {
+    return segmentExcerpt(transcriptSegments, 320, 8);
+  }
+
+  return "";
 }
 
 export function extractGuestName(title = "") {

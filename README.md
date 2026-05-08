@@ -4,7 +4,7 @@ This repository contains a public, browser-friendly tracker for YouTube creators
 
 Live site:
 
-- [Public tracker page](https://cdn.jsdelivr.net/gh/jzy13357737150-eng/llm-youtube-landscape-tracker@main/docs/index.html)
+- [Public tracker page](https://raw.githack.com/jzy13357737150-eng/llm-youtube-landscape-tracker/main/docs/index.html)
 - [Repository report](https://github.com/jzy13357737150-eng/llm-youtube-landscape-tracker/blob/main/report/REPORT.md)
 
 The project is designed for a recruitment exercise and focuses on three things:
@@ -108,7 +108,7 @@ The included workflow under `.github/workflows/deploy.yml` is set up for:
 
 The public browser page is served from the repository snapshot using a CDN-backed GitHub file URL:
 
-- `https://cdn.jsdelivr.net/gh/jzy13357737150-eng/llm-youtube-landscape-tracker@main/docs/index.html`
+- `https://raw.githack.com/jzy13357737150-eng/llm-youtube-landscape-tracker/main/docs/index.html`
 
 If you want optional LLM enrichment in automation, add `OPENAI_API_KEY` as a GitHub Actions secret. Otherwise the scheduled pipeline still runs in captions-first mode.
 

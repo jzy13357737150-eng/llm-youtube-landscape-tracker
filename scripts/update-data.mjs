@@ -3,6 +3,7 @@ import { rootPath, writeJson, readJson, ensureDir } from "./lib/fs.mjs";
 import { buildLandscape } from "./lib/relationships.mjs";
 import { buildSeedDataset } from "./lib/seed.mjs";
 import { summarizeVideo } from "./lib/summarize.mjs";
+import { truncateText } from "./lib/text.mjs";
 import { fetchVideoTranscript } from "./lib/transcript.mjs";
 import { fetchLatestVideos } from "./lib/youtube.mjs";
 
@@ -34,17 +35,29 @@ function mergeNotes(...parts) {
   return [...new Set(parts.filter(Boolean).map((item) => String(item).trim()).filter(Boolean))].join(" | ");
 }
 
+function normalizeExistingRow(video) {
+  return {
+    ...video,
+    summary: truncateText(video.summary || "", 320),
+    transcriptSnippet: truncateText(video.transcriptSnippet || "", 320)
+  };
+}
+
 function shouldReuseExisting(existing, runtimeConfig) {
   if (!existing || existing.processingStatus !== "ok") {
     return false;
   }
+
+  const hasOversizedText =
+    (existing.summary || "").length > 320 ||
+    (existing.transcriptSnippet || "").length > 320;
 
   const canUpgradeToOpenAiSummary =
     Boolean(runtimeConfig.openAiApiKey) &&
     existing.transcriptStatus === "ok" &&
     existing.summarySource !== "openai-transcript";
 
-  return !canUpgradeToOpenAiSummary;
+  return !canUpgradeToOpenAiSummary && !hasOversizedText;
 }
 
 async function main() {
@@ -54,6 +67,14 @@ async function main() {
   const channels = await loadChannels();
   const previousVideos = await readJson(rootPath("data", "videos.json"), []);
   const previousById = new Map((Array.isArray(previousVideos) ? previousVideos : []).map((video) => [video.videoId, video]));
+  const previousByChannel = new Map();
+
+  for (const video of Array.isArray(previousVideos) ? previousVideos : []) {
+    const bucket = previousByChannel.get(video.channelSlug) || [];
+    bucket.push(video);
+    previousByChannel.set(video.channelSlug, bucket);
+  }
+
   const startedAt = new Date().toISOString();
   const liveRows = [];
   const notes = [];
@@ -73,7 +94,7 @@ async function main() {
         const existing = previousById.get(video.videoId);
 
         if (shouldReuseExisting(existing, runtimeConfig)) {
-          liveRows.push(existing);
+          liveRows.push(normalizeExistingRow(existing));
           continue;
         }
 
@@ -130,6 +151,12 @@ async function main() {
       }
     } catch (error) {
       errors.push(`Channel fetch failed for ${channel.name}: ${error instanceof Error ? error.message : String(error)}`);
+      const previousRows = previousByChannel.get(channel.slug) || [];
+
+      if (previousRows.length > 0) {
+        notes.push(`Reused ${previousRows.length} cached videos for ${channel.name} after fetch failure.`);
+        liveRows.push(...previousRows.map(normalizeExistingRow));
+      }
     }
   }
 

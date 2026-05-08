@@ -12,14 +12,14 @@
     ],
     "recentVideoCount": 8,
     "latestThemes": [
-      "evaluation",
-      "rag",
       "reasoning",
+      "coding",
+      "tutorial",
       "fine-tuning",
-      "prompting"
+      "open-source models"
     ],
     "dominantFormats": [
-      "interview",
+      "analysis",
       "tutorial"
     ],
     "relatedChannels": [
@@ -27,20 +27,30 @@
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
-          "evaluation",
-          "rag",
           "reasoning",
-          "prompting"
+          "coding",
+          "tutorial",
+          "open-source models"
         ]
       },
       {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
-          "evaluation",
-          "rag",
           "reasoning",
-          "prompting"
+          "coding",
+          "tutorial",
+          "open-source models"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "reasoning",
+          "coding",
+          "tutorial",
+          "open-source models"
         ]
       },
       {

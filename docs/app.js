@@ -103,7 +103,7 @@ function renderMeta() {
 
   refs.modeBadge.textContent = meta.mode === "live" ? "Live pipeline" : "Fixture preview";
   refs.modeBadge.classList.toggle("fixture", meta.mode !== "live");
-  refs.lastUpdated.textContent = `Last updated ${formatDate(meta.generatedAt)} • ${meta.processedVideos} videos`;
+  refs.lastUpdated.textContent = `Last updated ${formatDate(meta.generatedAt)} - ${meta.processedVideos} videos`;
   refs.processingMode.textContent = meta.openAiEnabled
     ? "Optional LLM enrichment is enabled for this snapshot."
     : "This snapshot is running in the default captions-first mode, without optional paid LLM enrichment.";
@@ -184,7 +184,7 @@ function renderChannels() {
       (channel) => `
         <article class="channel-card">
           <h3>${escapeHtml(channel.name)}</h3>
-          <p class="channel-meta">${escapeHtml(channel.category)} • ${channel.recentVideoCount} recent videos</p>
+          <p class="channel-meta">${escapeHtml(channel.category)} - ${channel.recentVideoCount} recent videos</p>
           <div class="detail-section">
             <h3>Latest themes</h3>
             <div class="topic-list">${topicPills(channel.latestThemes || [])}</div>
@@ -201,7 +201,7 @@ function renderChannels() {
 
 function renderTopics() {
   refs.topicCloud.innerHTML = state.topics
-    .map((topic) => `<span class="topic-pill">${escapeHtml(topic.topic)} • ${topic.count}</span>`)
+    .map((topic) => `<span class="topic-pill">${escapeHtml(topic.topic)} - ${topic.count}</span>`)
     .join("");
 }
 
@@ -214,7 +214,7 @@ function openDetails(videoId) {
     <p class="eyebrow">Video Detail</p>
     <h2>${escapeHtml(video.title)}</h2>
     <p class="detail-meta">
-      ${escapeHtml(video.channelName)} • ${escapeHtml(formatDate(video.publishedAt))} • ${escapeHtml(
+      ${escapeHtml(video.channelName)} - ${escapeHtml(formatDate(video.publishedAt))} - ${escapeHtml(
         video.summarySource || "unknown"
       )}
     </p>
