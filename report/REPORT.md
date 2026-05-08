@@ -3,7 +3,7 @@
 ## Public Links
 
 - Repository: [llm-youtube-landscape-tracker](https://github.com/jzy13357737150-eng/llm-youtube-landscape-tracker)
-- Live page: [public tracker page](https://raw.githack.com/jzy13357737150-eng/llm-youtube-landscape-tracker/main/docs/index.html)
+- Live page: [public tracker page](https://rawcdn.githack.com/jzy13357737150-eng/llm-youtube-landscape-tracker/main/docs/index.html)
 
 ## Problem Statement
 
