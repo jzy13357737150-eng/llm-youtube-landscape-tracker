@@ -24,6 +24,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "reasoning",
+          "coding",
+          "tutorial",
+          "fine-tuning"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -41,26 +51,6 @@
           "coding",
           "tutorial",
           "open-source models"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "reasoning",
-          "coding",
-          "tutorial",
-          "open-source models"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "evaluation",
-          "reasoning",
-          "prompting",
-          "agents"
         ]
       }
     ]
@@ -122,58 +112,57 @@
     ]
   },
   {
-    "slug": "assemblyai",
-    "name": "AssemblyAI",
-    "url": "https://www.youtube.com/@AssemblyAI",
+    "slug": "hugging-face",
+    "name": "Hugging Face",
+    "url": "https://www.youtube.com/@HuggingFace",
     "category": "developer-tools",
     "focusAreas": [
-      "voice ai",
-      "llm apps",
-      "speech",
-      "production ai"
+      "open-source models",
+      "transformers",
+      "fine-tuning",
+      "llm apps"
     ],
     "recentVideoCount": 8,
     "latestThemes": [
-      "voice ai",
+      "fine-tuning",
+      "open-source models",
       "agents",
       "coding",
-      "closed models",
-      "evaluation"
+      "tutorial"
     ],
     "dominantFormats": [
       "analysis",
-      "interview",
-      "news"
+      "tutorial"
     ],
     "relatedChannels": [
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "voice ai",
-          "agents",
-          "coding",
-          "closed models"
-        ]
-      },
       {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
+          "open-source models",
           "agents",
           "coding",
-          "closed models",
-          "evaluation"
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "open-source models",
+          "agents",
+          "coding",
+          "tutorial"
         ]
       },
       {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
+          "open-source models",
           "agents",
           "coding",
-          "closed models",
-          "evaluation"
+          "tutorial"
         ]
       }
     ]
@@ -224,13 +213,13 @@
         ]
       },
       {
-        "slug": "assemblyai",
-        "name": "AssemblyAI",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "enterprise ai",
-          "news",
-          "coding"
+          "rag",
+          "coding",
+          "evaluation"
         ]
       }
     ]
@@ -280,13 +269,13 @@
         ]
       },
       {
-        "slug": "assemblyai",
-        "name": "AssemblyAI",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "news",
           "closed models",
-          "automation"
+          "automation",
+          "coding"
         ]
       }
     ]
@@ -336,8 +325,8 @@
         ]
       },
       {
-        "slug": "assemblyai",
-        "name": "AssemblyAI",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "prompting",

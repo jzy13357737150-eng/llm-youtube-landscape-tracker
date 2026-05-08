@@ -33,11 +33,17 @@ const state = {
 
 function formatDate(value) {
   if (!value) return "Unknown";
+  const date = new Date(value);
+
+  if (Number.isNaN(date.getTime())) {
+    return String(value);
+  }
+
   return new Intl.DateTimeFormat("en", {
     year: "numeric",
     month: "short",
     day: "numeric"
-  }).format(new Date(value));
+  }).format(date);
 }
 
 function formatPercent(value) {
