@@ -1,26 +1,27 @@
 {
   "mode": "live",
-  "startedAt": "2026-05-08T19:00:03.130Z",
-  "generatedAt": "2026-05-08T19:00:50.423Z",
+  "startedAt": "2026-05-09T01:26:56.625Z",
+  "generatedAt": "2026-05-09T01:27:08.215Z",
   "openAiEnabled": false,
   "trackedChannels": 6,
   "processedVideos": 48,
   "transcriptCoverage": 0.14583333333333334,
   "summaryCoverage": 1,
   "notes": [
-    "Fetched 8 videos for Andrej Karpathy.",
-    "Resolved feed for Andrej Karpathy: https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ",
-    "Fetched 8 videos for LangChain.",
-    "Resolved feed for LangChain: https://www.youtube.com/feeds/videos.xml?channel_id=UCC-lyoTfSrcJzA1ab3APAgw",
-    "Fetched 8 videos for Hugging Face.",
-    "Resolved feed for Hugging Face: https://www.youtube.com/feeds/videos.xml?channel_id=UCHlNU7kIZhRgSbhHvFoy72w",
-    "Fetched 8 videos for IBM Technology.",
-    "Resolved feed for IBM Technology: https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+    "Reused 8 cached videos for Andrej Karpathy after fetch failure.",
+    "Reused 8 cached videos for LangChain after fetch failure.",
+    "Reused 8 cached videos for Hugging Face after fetch failure.",
+    "Reused 8 cached videos for IBM Technology after fetch failure.",
     "Fetched 8 videos for Matt Wolfe.",
     "Resolved feed for Matt Wolfe: https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
     "Fetched 8 videos for The AI Advantage.",
     "Resolved feed for The AI Advantage: https://www.youtube.com/feeds/videos.xml?channel_id=UCHhYXsLBEVVnbvsq57n1MTQ"
   ],
-  "errors": [],
+  "errors": [
+    "Channel fetch failed for Andrej Karpathy: Request failed 404 for https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ",
+    "Channel fetch failed for LangChain: Request failed 404 for https://www.youtube.com/feeds/videos.xml?channel_id=UCC-lyoTfSrcJzA1ab3APAgw",
+    "Channel fetch failed for Hugging Face: Request failed 404 for https://www.youtube.com/feeds/videos.xml?channel_id=UCHlNU7kIZhRgSbhHvFoy72w",
+    "Channel fetch failed for IBM Technology: Request failed 404 for https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ"
+  ],
   "topicCount": 12
 }
