@@ -80,8 +80,8 @@
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "evaluation",
@@ -90,8 +90,8 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "evaluation",
@@ -182,13 +182,12 @@
     "latestThemes": [
       "agents",
       "enterprise ai",
-      "rag",
       "news",
-      "coding"
+      "rag",
+      "tutorial"
     ],
     "dominantFormats": [
       "analysis",
-      "interview",
       "tutorial"
     ],
     "relatedChannels": [
@@ -198,8 +197,8 @@
         "overlapTopics": [
           "agents",
           "enterprise ai",
-          "rag",
-          "news"
+          "news",
+          "rag"
         ]
       },
       {
@@ -209,7 +208,7 @@
           "agents",
           "enterprise ai",
           "news",
-          "coding"
+          "tutorial"
         ]
       },
       {
@@ -218,8 +217,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "coding",
-          "tutorial"
+          "tutorial",
+          "coding"
         ]
       }
     ]
@@ -250,8 +249,8 @@
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "news",
@@ -260,8 +259,8 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "news",
@@ -307,21 +306,21 @@
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "automation",
-          "closed models"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "automation",
+          "closed models",
+          "news"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "prompting",
           "closed models",
           "news"
         ]
