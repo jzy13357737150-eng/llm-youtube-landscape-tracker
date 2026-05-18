@@ -99,11 +99,11 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
+          "evaluation",
           "tutorial",
           "coding"
         ]
@@ -194,9 +194,9 @@
         "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
-          "enterprise ai",
           "news",
-          "rag"
+          "rag",
+          "tutorial"
         ]
       },
       {
@@ -236,8 +236,8 @@
     "latestThemes": [
       "agents",
       "news",
-      "closed models",
       "coding",
+      "closed models",
       "tutorial"
     ],
     "dominantFormats": [
@@ -251,8 +251,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "closed models",
-          "coding"
+          "coding",
+          "closed models"
         ]
       },
       {
@@ -270,8 +270,8 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "closed models",
           "coding",
+          "closed models",
           "tutorial"
         ]
       }
@@ -291,15 +291,15 @@
     "recentVideoCount": 8,
     "latestThemes": [
       "agents",
-      "prompting",
       "automation",
-      "closed models",
-      "news"
+      "prompting",
+      "news",
+      "closed models"
     ],
     "dominantFormats": [
       "analysis",
-      "tutorial",
-      "news"
+      "news",
+      "tutorial"
     ],
     "relatedChannels": [
       {
@@ -308,8 +308,8 @@
         "overlapTopics": [
           "agents",
           "prompting",
-          "closed models",
-          "news"
+          "news",
+          "closed models"
         ]
       },
       {
@@ -317,8 +317,8 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "prompting",
           "automation",
+          "prompting",
           "closed models"
         ]
       },
@@ -329,7 +329,7 @@
           "agents",
           "prompting",
           "news",
-          "coding"
+          "tutorial"
         ]
       }
     ]
