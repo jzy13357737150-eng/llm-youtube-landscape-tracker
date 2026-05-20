@@ -100,11 +100,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
-          "agents",
           "evaluation",
+          "rag",
           "coding",
           "tutorial"
         ]
@@ -182,24 +182,14 @@
     "latestThemes": [
       "agents",
       "enterprise ai",
-      "news",
       "rag",
-      "tutorial"
+      "news",
+      "coding"
     ],
     "dominantFormats": [
       "analysis"
     ],
     "relatedChannels": [
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "news",
-          "rag",
-          "tutorial"
-        ]
-      },
       {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
@@ -207,7 +197,17 @@
           "agents",
           "enterprise ai",
           "news",
-          "tutorial"
+          "coding"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "news",
+          "coding"
         ]
       },
       {
@@ -215,9 +215,9 @@
         "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
-          "news",
           "rag",
-          "tutorial"
+          "news",
+          "coding"
         ]
       }
     ]
@@ -238,8 +238,8 @@
       "agents",
       "news",
       "coding",
-      "tutorial",
-      "prompting"
+      "prompting",
+      "tutorial"
     ],
     "dominantFormats": [
       "analysis",
@@ -253,7 +253,7 @@
           "agents",
           "news",
           "coding",
-          "tutorial"
+          "prompting"
         ]
       },
       {
@@ -272,8 +272,8 @@
         "overlapTopics": [
           "news",
           "coding",
-          "tutorial",
-          "prompting"
+          "prompting",
+          "tutorial"
         ]
       }
     ]
