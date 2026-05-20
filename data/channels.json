@@ -71,11 +71,12 @@
       "agents",
       "evaluation",
       "rag",
-      "tutorial",
-      "coding"
+      "coding",
+      "tutorial"
     ],
     "dominantFormats": [
-      "analysis"
+      "analysis",
+      "tutorial"
     ],
     "relatedChannels": [
       {
@@ -85,7 +86,7 @@
           "agents",
           "evaluation",
           "rag",
-          "tutorial"
+          "coding"
         ]
       },
       {
@@ -95,7 +96,7 @@
           "agents",
           "evaluation",
           "rag",
-          "tutorial"
+          "coding"
         ]
       },
       {
@@ -104,8 +105,8 @@
         "overlapTopics": [
           "agents",
           "evaluation",
-          "tutorial",
-          "coding"
+          "coding",
+          "tutorial"
         ]
       }
     ]
@@ -190,6 +191,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "news",
+          "rag",
+          "tutorial"
+        ]
+      },
+      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -207,16 +218,6 @@
           "news",
           "rag",
           "tutorial"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "tutorial",
-          "coding"
         ]
       }
     ]
@@ -260,9 +261,9 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
+          "news",
           "coding",
-          "tutorial",
-          "prompting"
+          "tutorial"
         ]
       },
       {
@@ -317,9 +318,9 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "automation",
-          "prompting",
-          "closed models"
+          "news",
+          "closed models",
+          "tutorial"
         ]
       },
       {
