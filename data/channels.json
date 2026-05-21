@@ -39,17 +39,16 @@
         "overlapTopics": [
           "coding",
           "tutorial",
-          "open-source models",
           "closed models"
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "coding",
           "tutorial",
-          "closed models"
+          "open-source models"
         ]
       }
     ]
@@ -135,8 +134,8 @@
     ],
     "relatedChannels": [
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "open-source models",
           "agents",
@@ -155,12 +154,12 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
-          "open-source models",
           "agents",
           "coding",
+          "evaluation",
           "tutorial"
         ]
       }
@@ -190,23 +189,13 @@
     ],
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai",
-          "news",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "agents",
+          "enterprise ai",
           "rag",
-          "news",
-          "tutorial"
+          "news"
         ]
       },
       {
@@ -215,6 +204,16 @@
         "overlapTopics": [
           "agents",
           "rag",
+          "news",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "enterprise ai",
           "news",
           "tutorial"
         ]
@@ -293,8 +292,8 @@
       "agents",
       "automation",
       "prompting",
-      "closed models",
-      "news"
+      "news",
+      "closed models"
     ],
     "dominantFormats": [
       "analysis",
@@ -309,7 +308,7 @@
           "agents",
           "automation",
           "prompting",
-          "closed models"
+          "news"
         ]
       },
       {
