@@ -34,21 +34,22 @@
         ]
       },
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "coding",
+          "tutorial",
+          "open-source models",
+          "closed models"
+        ]
+      },
+      {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
           "coding",
           "tutorial",
           "closed models"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "coding",
-          "tutorial",
-          "open-source models"
         ]
       }
     ]
@@ -78,16 +79,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "rag",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -95,6 +86,16 @@
           "rag",
           "tutorial",
           "coding"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "rag",
+          "tutorial"
         ]
       },
       {
@@ -154,12 +155,12 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
+          "open-source models",
           "agents",
           "coding",
-          "evaluation",
           "tutorial"
         ]
       }
@@ -189,16 +190,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai",
-          "rag",
-          "news"
-        ]
-      },
-      {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
@@ -206,6 +197,16 @@
           "rag",
           "news",
           "tutorial"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "enterprise ai",
+          "rag",
+          "news"
         ]
       },
       {
@@ -245,8 +246,8 @@
     ],
     "relatedChannels": [
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "news",
@@ -255,8 +256,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "news",
@@ -302,8 +303,8 @@
     ],
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "automation",
@@ -312,13 +313,13 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
+          "automation",
           "prompting",
-          "news",
-          "coding"
+          "news"
         ]
       },
       {
