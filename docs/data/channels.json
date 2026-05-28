@@ -34,8 +34,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "coding",
           "tutorial",
@@ -44,8 +44,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "coding",
           "tutorial",
@@ -199,7 +199,7 @@
           "agents",
           "enterprise ai",
           "rag",
-          "news"
+          "tutorial"
         ]
       },
       {
@@ -253,9 +253,9 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "news",
           "closed models",
-          "coding"
+          "coding",
+          "tutorial"
         ]
       },
       {
@@ -328,9 +328,9 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "news",
           "prompting",
-          "closed models"
+          "closed models",
+          "coding"
         ]
       }
     ]
