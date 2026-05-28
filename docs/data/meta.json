@@ -1,7 +1,7 @@
 {
   "mode": "live",
-  "startedAt": "2026-05-27T19:53:51.657Z",
-  "generatedAt": "2026-05-27T19:54:47.463Z",
+  "startedAt": "2026-05-28T01:29:22.537Z",
+  "generatedAt": "2026-05-28T01:29:49.003Z",
   "openAiEnabled": false,
   "trackedChannels": 6,
   "processedVideos": 48,
@@ -10,17 +10,18 @@
   "notes": [
     "Fetched 8 videos for Andrej Karpathy.",
     "Resolved feed for Andrej Karpathy: https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ",
-    "Fetched 8 videos for LangChain.",
-    "Resolved feed for LangChain: https://www.youtube.com/feeds/videos.xml?channel_id=UCC-lyoTfSrcJzA1ab3APAgw",
+    "Reused 8 cached videos for LangChain after fetch failure.",
     "Fetched 8 videos for Hugging Face.",
     "Resolved feed for Hugging Face: https://www.youtube.com/feeds/videos.xml?channel_id=UCHlNU7kIZhRgSbhHvFoy72w",
-    "Fetched 8 videos for IBM Technology.",
-    "Resolved feed for IBM Technology: https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+    "Reused 8 cached videos for IBM Technology after fetch failure.",
     "Fetched 8 videos for Matt Wolfe.",
     "Resolved feed for Matt Wolfe: https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
-    "Fetched 8 videos for The AI Advantage.",
-    "Resolved feed for The AI Advantage: https://www.youtube.com/feeds/videos.xml?channel_id=UCHhYXsLBEVVnbvsq57n1MTQ"
+    "Reused 8 cached videos for The AI Advantage after fetch failure."
   ],
-  "errors": [],
+  "errors": [
+    "Channel fetch failed for LangChain: Request failed 500 for https://www.youtube.com/feeds/videos.xml?channel_id=UCC-lyoTfSrcJzA1ab3APAgw",
+    "Channel fetch failed for IBM Technology: Request failed 404 for https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+    "Channel fetch failed for The AI Advantage: Request failed 404 for https://www.youtube.com/feeds/videos.xml?channel_id=UCHhYXsLBEVVnbvsq57n1MTQ"
+  ],
   "topicCount": 12
 }
