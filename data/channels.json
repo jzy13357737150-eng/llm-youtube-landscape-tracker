@@ -186,7 +186,7 @@
       "enterprise ai",
       "rag",
       "news",
-      "automation"
+      "prompting"
     ],
     "dominantFormats": [
       "analysis",
@@ -200,7 +200,7 @@
           "agents",
           "enterprise ai",
           "news",
-          "automation"
+          "prompting"
         ]
       },
       {
@@ -214,12 +214,12 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
+          "rag",
           "news",
-          "automation",
           "prompting"
         ]
       }
@@ -317,8 +317,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -327,13 +327,13 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "prompting",
-          "automation",
-          "closed models"
+          "closed models",
+          "news"
         ]
       }
     ]
