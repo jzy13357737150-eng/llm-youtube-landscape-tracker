@@ -50,7 +50,6 @@
         "overlapTopics": [
           "coding",
           "tutorial",
-          "closed models",
           "evaluation"
         ]
       }
@@ -189,16 +188,15 @@
       "prompting"
     ],
     "dominantFormats": [
-      "analysis",
-      "tutorial"
+      "analysis"
     ],
     "relatedChannels": [
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
-          "enterprise ai",
+          "rag",
           "news",
           "prompting"
         ]
@@ -214,11 +212,11 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
-          "rag",
+          "enterprise ai",
           "news",
           "prompting"
         ]
