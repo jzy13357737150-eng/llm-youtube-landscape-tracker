@@ -28,10 +28,10 @@
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
-          "reasoning",
           "coding",
           "tutorial",
-          "fine-tuning"
+          "fine-tuning",
+          "closed models"
         ]
       },
       {
@@ -45,12 +45,12 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "coding",
           "tutorial",
-          "closed models"
+          "evaluation"
         ]
       }
     ]
@@ -72,7 +72,7 @@
       "evaluation",
       "rag",
       "tutorial",
-      "coding"
+      "enterprise ai"
     ],
     "dominantFormats": [
       "analysis",
@@ -80,6 +80,16 @@
       "tutorial"
     ],
     "relatedChannels": [
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "tutorial",
+          "enterprise ai"
+        ]
+      },
       {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
@@ -93,16 +103,6 @@
       {
         "slug": "hugging-face",
         "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "tutorial",
-          "coding"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "evaluation",
@@ -127,8 +127,8 @@
     "latestThemes": [
       "fine-tuning",
       "open-source models",
-      "agents",
       "coding",
+      "agents",
       "tutorial"
     ],
     "dominantFormats": [
@@ -137,33 +137,33 @@
     ],
     "relatedChannels": [
       {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "open-source models",
+          "coding",
+          "agents",
+          "tutorial"
+        ]
+      },
+      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
           "fine-tuning",
           "open-source models",
-          "agents",
-          "coding"
+          "coding",
+          "agents"
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
-          "open-source models",
-          "agents",
           "coding",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "open-source models",
           "agents",
-          "coding",
-          "tutorial"
+          "tutorial",
+          "automation"
         ]
       }
     ]
@@ -295,8 +295,8 @@
       "agents",
       "prompting",
       "automation",
-      "closed models",
-      "news"
+      "news",
+      "closed models"
     ],
     "dominantFormats": [
       "analysis",
@@ -304,16 +304,6 @@
       "tutorial"
     ],
     "relatedChannels": [
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "automation",
-          "closed models",
-          "news"
-        ]
-      },
       {
         "slug": "hugging-face",
         "name": "Hugging Face",
@@ -325,13 +315,23 @@
         ]
       },
       {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "automation",
+          "news",
+          "closed models"
+        ]
+      },
+      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "prompting",
-          "closed models",
-          "news"
+          "news",
+          "closed models"
         ]
       }
     ]
