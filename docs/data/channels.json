@@ -35,6 +35,16 @@
         ]
       },
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "reasoning",
+          "coding",
+          "tutorial",
+          "evaluation"
+        ]
+      },
+      {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
@@ -42,15 +52,6 @@
           "tutorial",
           "closed models",
           "evaluation"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "reasoning",
-          "coding",
-          "tutorial"
         ]
       }
     ]
@@ -71,8 +72,8 @@
       "agents",
       "evaluation",
       "rag",
-      "tutorial",
-      "enterprise ai"
+      "enterprise ai",
+      "tutorial"
     ],
     "dominantFormats": [
       "analysis",
@@ -86,8 +87,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "tutorial",
-          "enterprise ai"
+          "enterprise ai",
+          "tutorial"
         ]
       },
       {
@@ -96,8 +97,8 @@
         "overlapTopics": [
           "agents",
           "evaluation",
-          "tutorial",
-          "enterprise ai"
+          "enterprise ai",
+          "tutorial"
         ]
       },
       {
@@ -128,8 +129,8 @@
       "fine-tuning",
       "open-source models",
       "coding",
-      "agents",
-      "tutorial"
+      "tutorial",
+      "agents"
     ],
     "dominantFormats": [
       "analysis",
@@ -142,8 +143,18 @@
         "overlapTopics": [
           "open-source models",
           "coding",
-          "agents",
-          "tutorial"
+          "tutorial",
+          "agents"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "open-source models",
+          "coding",
+          "tutorial",
+          "agents"
         ]
       },
       {
@@ -153,17 +164,7 @@
           "fine-tuning",
           "open-source models",
           "coding",
-          "agents"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "coding",
-          "agents",
-          "tutorial",
-          "automation"
+          "tutorial"
         ]
       }
     ]
@@ -192,22 +193,22 @@
     ],
     "relatedChannels": [
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai",
-          "news",
-          "prompting"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "agents",
           "enterprise ai",
           "rag",
+          "prompting"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "enterprise ai",
+          "news",
           "prompting"
         ]
       },
@@ -239,8 +240,8 @@
       "agents",
       "news",
       "closed models",
-      "tutorial",
-      "coding"
+      "coding",
+      "tutorial"
     ],
     "dominantFormats": [
       "analysis",
@@ -248,13 +249,23 @@
     ],
     "relatedChannels": [
       {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "news",
+          "closed models",
+          "coding"
+        ]
+      },
+      {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "news",
           "closed models",
-          "tutorial"
+          "coding"
         ]
       },
       {
@@ -264,16 +275,6 @@
           "agents",
           "news",
           "closed models",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "tutorial",
           "coding"
         ]
       }
@@ -311,7 +312,7 @@
           "agents",
           "prompting",
           "automation",
-          "closed models"
+          "news"
         ]
       },
       {
