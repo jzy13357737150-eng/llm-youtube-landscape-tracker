@@ -25,6 +25,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "reasoning",
+          "coding",
+          "tutorial",
+          "closed models"
+        ]
+      },
+      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -32,16 +42,6 @@
           "tutorial",
           "fine-tuning",
           "closed models"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "reasoning",
-          "coding",
-          "tutorial",
-          "evaluation"
         ]
       },
       {
@@ -72,13 +72,12 @@
       "agents",
       "evaluation",
       "rag",
-      "enterprise ai",
-      "tutorial"
+      "coding",
+      "enterprise ai"
     ],
     "dominantFormats": [
       "analysis",
-      "interview",
-      "tutorial"
+      "interview"
     ],
     "relatedChannels": [
       {
@@ -87,8 +86,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "enterprise ai",
-          "tutorial"
+          "coding",
+          "enterprise ai"
         ]
       },
       {
@@ -97,8 +96,8 @@
         "overlapTopics": [
           "agents",
           "evaluation",
-          "enterprise ai",
-          "tutorial"
+          "coding",
+          "enterprise ai"
         ]
       },
       {
@@ -108,7 +107,7 @@
           "agents",
           "evaluation",
           "rag",
-          "tutorial"
+          "coding"
         ]
       }
     ]
@@ -138,8 +137,8 @@
     ],
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "open-source models",
           "coding",
@@ -148,8 +147,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "open-source models",
           "coding",
@@ -269,13 +268,13 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "news",
           "closed models",
-          "coding"
+          "coding",
+          "tutorial"
         ]
       }
     ]
@@ -316,21 +315,21 @@
         ]
       },
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "automation",
+          "closed models"
+        ]
+      },
+      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "automation",
-          "news",
-          "closed models"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "prompting",
           "news",
           "closed models"
         ]

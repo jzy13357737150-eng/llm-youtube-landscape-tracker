@@ -1,15 +1,14 @@
 {
   "mode": "live",
-  "startedAt": "2026-06-03T16:07:59.343Z",
-  "generatedAt": "2026-06-03T16:08:46.808Z",
+  "startedAt": "2026-06-03T20:43:28.916Z",
+  "generatedAt": "2026-06-03T20:44:08.912Z",
   "openAiEnabled": false,
   "trackedChannels": 6,
   "processedVideos": 48,
   "transcriptCoverage": 0.0625,
   "summaryCoverage": 1,
   "notes": [
-    "Fetched 8 videos for Andrej Karpathy.",
-    "Resolved feed for Andrej Karpathy: https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ",
+    "Reused 8 cached videos for Andrej Karpathy after fetch failure.",
     "Fetched 8 videos for LangChain.",
     "Resolved feed for LangChain: https://www.youtube.com/feeds/videos.xml?channel_id=UCC-lyoTfSrcJzA1ab3APAgw",
     "Fetched 8 videos for Hugging Face.",
@@ -21,6 +20,8 @@
     "Fetched 8 videos for The AI Advantage.",
     "Resolved feed for The AI Advantage: https://www.youtube.com/feeds/videos.xml?channel_id=UCHhYXsLBEVVnbvsq57n1MTQ"
   ],
-  "errors": [],
+  "errors": [
+    "Channel fetch failed for Andrej Karpathy: Could not resolve feed URL for Andrej Karpathy"
+  ],
   "topicCount": 12
 }
