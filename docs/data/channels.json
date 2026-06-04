@@ -129,7 +129,7 @@
       "open-source models",
       "coding",
       "tutorial",
-      "agents"
+      "news"
     ],
     "dominantFormats": [
       "analysis",
@@ -137,13 +137,13 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
+          "fine-tuning",
           "open-source models",
           "coding",
-          "tutorial",
-          "agents"
+          "tutorial"
         ]
       },
       {
@@ -153,17 +153,17 @@
           "open-source models",
           "coding",
           "tutorial",
-          "agents"
+          "news"
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
-          "fine-tuning",
           "open-source models",
           "coding",
-          "tutorial"
+          "tutorial",
+          "agents"
         ]
       }
     ]
