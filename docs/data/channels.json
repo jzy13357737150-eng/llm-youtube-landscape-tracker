@@ -31,7 +31,7 @@
           "reasoning",
           "coding",
           "tutorial",
-          "closed models"
+          "fine-tuning"
         ]
       },
       {
@@ -77,7 +77,8 @@
     ],
     "dominantFormats": [
       "analysis",
-      "interview"
+      "interview",
+      "tutorial"
     ],
     "relatedChannels": [
       {
@@ -147,22 +148,22 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "open-source models",
-          "coding",
-          "tutorial",
-          "news"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
+          "fine-tuning",
           "open-source models",
           "coding",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "coding",
           "tutorial",
+          "news",
           "agents"
         ]
       }
