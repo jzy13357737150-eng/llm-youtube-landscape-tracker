@@ -239,13 +239,14 @@
     "latestThemes": [
       "agents",
       "news",
+      "tutorial",
       "closed models",
-      "coding",
-      "tutorial"
+      "coding"
     ],
     "dominantFormats": [
       "analysis",
-      "news"
+      "news",
+      "tutorial"
     ],
     "relatedChannels": [
       {
@@ -254,8 +255,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "closed models",
-          "coding"
+          "tutorial",
+          "closed models"
         ]
       },
       {
@@ -264,8 +265,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "closed models",
-          "coding"
+          "tutorial",
+          "closed models"
         ]
       },
       {
@@ -273,9 +274,9 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
+          "tutorial",
           "closed models",
-          "coding",
-          "tutorial"
+          "coding"
         ]
       }
     ]
