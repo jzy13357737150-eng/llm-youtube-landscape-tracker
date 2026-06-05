@@ -35,22 +35,22 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "coding",
-          "tutorial",
-          "closed models",
-          "evaluation"
-        ]
-      },
-      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
           "coding",
           "tutorial",
           "fine-tuning",
+          "closed models"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "reasoning",
+          "coding",
+          "tutorial",
           "closed models"
         ]
       }
@@ -72,8 +72,8 @@
       "agents",
       "evaluation",
       "rag",
-      "enterprise ai",
-      "coding"
+      "coding",
+      "enterprise ai"
     ],
     "dominantFormats": [
       "analysis",
@@ -87,8 +87,8 @@
         "overlapTopics": [
           "agents",
           "evaluation",
-          "enterprise ai",
-          "coding"
+          "coding",
+          "enterprise ai"
         ]
       },
       {
@@ -97,8 +97,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "enterprise ai",
-          "coding"
+          "coding",
+          "enterprise ai"
         ]
       },
       {
@@ -148,12 +148,12 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
+          "fine-tuning",
           "coding",
           "tutorial",
-          "news",
           "agents"
         ]
       },
@@ -203,22 +203,22 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai",
-          "rag",
-          "coding"
-        ]
-      },
-      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "rag",
           "news",
+          "coding"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "enterprise ai",
+          "rag",
           "coding"
         ]
       }
@@ -241,7 +241,7 @@
       "news",
       "tutorial",
       "coding",
-      "closed models"
+      "automation"
     ],
     "dominantFormats": [
       "analysis",
@@ -250,8 +250,8 @@
     ],
     "relatedChannels": [
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "news",
@@ -260,8 +260,8 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "news",
@@ -276,7 +276,7 @@
           "agents",
           "tutorial",
           "coding",
-          "closed models"
+          "automation"
         ]
       }
     ]
@@ -327,12 +327,12 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "prompting",
-          "automation",
+          "news",
           "closed models"
         ]
       }
