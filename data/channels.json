@@ -25,13 +25,21 @@
     ],
     "relatedChannels": [
       {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "reasoning",
+          "coding",
+          "tutorial"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "coding",
           "tutorial",
-          "fine-tuning",
-          "closed models"
+          "evaluation"
         ]
       },
       {
@@ -40,17 +48,7 @@
         "overlapTopics": [
           "coding",
           "tutorial",
-          "closed models",
-          "evaluation"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "coding",
-          "tutorial",
-          "fine-tuning"
+          "closed models"
         ]
       }
     ]
@@ -75,8 +73,7 @@
       "tutorial"
     ],
     "dominantFormats": [
-      "analysis",
-      "tutorial"
+      "analysis"
     ],
     "relatedChannels": [
       {
@@ -90,16 +87,6 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "coding",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -107,6 +94,16 @@
           "rag",
           "coding",
           "tutorial"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "coding",
+          "tutorial",
+          "prompting"
         ]
       }
     ]
@@ -146,18 +143,17 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
-          "fine-tuning",
           "tutorial",
           "coding",
           "news"
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "tutorial",
           "coding",
@@ -242,8 +238,8 @@
     ],
     "dominantFormats": [
       "analysis",
-      "tutorial",
-      "news"
+      "news",
+      "tutorial"
     ],
     "relatedChannels": [
       {
@@ -292,15 +288,15 @@
     "recentVideoCount": 8,
     "latestThemes": [
       "agents",
-      "prompting",
       "automation",
+      "prompting",
       "news",
       "closed models"
     ],
     "dominantFormats": [
       "analysis",
-      "news",
-      "tutorial"
+      "tutorial",
+      "news"
     ],
     "relatedChannels": [
       {
@@ -308,8 +304,8 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "prompting",
           "automation",
+          "prompting",
           "news"
         ]
       },
@@ -318,8 +314,8 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "prompting",
           "automation",
+          "prompting",
           "news"
         ]
       },
