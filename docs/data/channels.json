@@ -183,15 +183,15 @@
       "enterprise ai",
       "rag",
       "news",
-      "coding"
+      "closed models"
     ],
     "dominantFormats": [
       "analysis"
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "enterprise ai",
@@ -200,8 +200,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "enterprise ai",
@@ -216,7 +216,7 @@
           "agents",
           "rag",
           "news",
-          "coding"
+          "closed models"
         ]
       }
     ]
@@ -308,9 +308,9 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "automation",
           "prompting",
-          "news"
+          "news",
+          "closed models"
         ]
       },
       {
