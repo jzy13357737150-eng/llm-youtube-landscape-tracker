@@ -35,13 +35,13 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
-          "reasoning",
           "coding",
           "tutorial",
-          "closed models"
+          "fine-tuning",
+          "evaluation"
         ]
       },
       {
@@ -72,36 +72,36 @@
       "agents",
       "evaluation",
       "rag",
-      "prompting",
-      "tutorial"
+      "tutorial",
+      "coding"
     ],
     "dominantFormats": [
       "analysis"
     ],
     "relatedChannels": [
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "rag",
-          "prompting"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting",
-          "tutorial"
+          "tutorial",
+          "coding"
         ]
       },
       {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "rag",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "evaluation",
@@ -161,7 +161,8 @@
         "overlapTopics": [
           "tutorial",
           "coding",
-          "news"
+          "news",
+          "agents"
         ]
       }
     ]
