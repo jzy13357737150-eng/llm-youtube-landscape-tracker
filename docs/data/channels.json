@@ -80,6 +80,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "tutorial",
+          "coding"
+        ]
+      },
+      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -97,16 +107,6 @@
           "evaluation",
           "rag",
           "tutorial"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "tutorial",
-          "coding"
         ]
       }
     ]
@@ -156,8 +156,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "tutorial",
           "coding",
@@ -201,16 +201,6 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai",
-          "rag",
-          "news"
-        ]
-      },
-      {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
@@ -218,6 +208,16 @@
           "rag",
           "news",
           "coding"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "enterprise ai",
+          "rag",
+          "news"
         ]
       }
     ]
@@ -258,16 +258,6 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "news",
-          "coding",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
@@ -275,6 +265,16 @@
           "news",
           "coding",
           "closed models"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "news",
+          "coding",
+          "tutorial"
         ]
       }
     ]
@@ -296,7 +296,7 @@
       "prompting",
       "automation",
       "closed models",
-      "news"
+      "rag"
     ],
     "dominantFormats": [
       "analysis",
@@ -311,7 +311,7 @@
           "agents",
           "automation",
           "closed models",
-          "news"
+          "rag"
         ]
       },
       {
@@ -321,7 +321,7 @@
           "agents",
           "prompting",
           "automation",
-          "news"
+          "rag"
         ]
       },
       {
@@ -331,7 +331,7 @@
           "agents",
           "prompting",
           "closed models",
-          "news"
+          "rag"
         ]
       }
     ]
