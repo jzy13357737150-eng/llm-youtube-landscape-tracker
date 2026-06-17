@@ -28,10 +28,10 @@
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
-          "reasoning",
           "coding",
           "tutorial",
-          "closed models"
+          "closed models",
+          "evaluation"
         ]
       },
       {
@@ -80,13 +80,13 @@
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
+          "evaluation",
           "rag",
-          "coding",
-          "tutorial"
+          "coding"
         ]
       },
       {
@@ -100,13 +100,13 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "evaluation",
           "rag",
-          "coding"
+          "coding",
+          "tutorial"
         ]
       }
     ]
@@ -156,13 +156,13 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
+          "open-source models",
           "tutorial",
           "agents",
-          "coding",
-          "prompting"
+          "coding"
         ]
       }
     ]
@@ -237,14 +237,13 @@
     "latestThemes": [
       "agents",
       "news",
-      "coding",
       "closed models",
+      "coding",
       "tutorial"
     ],
     "dominantFormats": [
       "analysis",
-      "news",
-      "tutorial"
+      "news"
     ],
     "relatedChannels": [
       {
@@ -253,8 +252,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "coding",
-          "closed models"
+          "closed models",
+          "coding"
         ]
       },
       {
@@ -263,8 +262,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "coding",
-          "closed models"
+          "closed models",
+          "coding"
         ]
       },
       {
@@ -273,8 +272,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "coding",
-          "closed models"
+          "closed models",
+          "coding"
         ]
       }
     ]
@@ -305,6 +304,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "automation",
+          "rag"
+        ]
+      },
+      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -321,16 +330,6 @@
           "agents",
           "prompting",
           "closed models",
-          "rag"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "automation",
           "rag"
         ]
       }
