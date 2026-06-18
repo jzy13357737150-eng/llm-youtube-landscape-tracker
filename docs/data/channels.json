@@ -25,23 +25,13 @@
     ],
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "coding",
-          "tutorial",
-          "closed models",
-          "evaluation"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "coding",
           "tutorial",
           "fine-tuning",
-          "evaluation"
+          "closed models"
         ]
       },
       {
@@ -52,6 +42,16 @@
           "coding",
           "tutorial",
           "closed models"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "coding",
+          "tutorial",
+          "closed models",
+          "evaluation"
         ]
       }
     ]
@@ -72,13 +72,23 @@
       "agents",
       "evaluation",
       "rag",
-      "coding",
-      "tutorial"
+      "tutorial",
+      "coding"
     ],
     "dominantFormats": [
       "analysis"
     ],
     "relatedChannels": [
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "rag",
+          "tutorial"
+        ]
+      },
       {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
@@ -86,7 +96,7 @@
           "agents",
           "evaluation",
           "rag",
-          "coding"
+          "tutorial"
         ]
       },
       {
@@ -95,18 +105,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "coding",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding",
-          "tutorial"
+          "tutorial",
+          "coding"
         ]
       }
     ]
@@ -136,8 +136,8 @@
     ],
     "relatedChannels": [
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "fine-tuning",
           "open-source models",
@@ -146,13 +146,13 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "fine-tuning",
+          "open-source models",
           "tutorial",
-          "agents",
-          "coding"
+          "agents"
         ]
       },
       {
@@ -191,6 +191,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "enterprise ai",
+          "rag",
+          "coding"
+        ]
+      },
+      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -203,16 +213,6 @@
       {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "news",
-          "coding"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "rag",
@@ -257,18 +257,18 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "news",
           "closed models",
-          "coding"
+          "coding",
+          "enterprise ai"
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "news",
@@ -310,7 +310,7 @@
           "agents",
           "prompting",
           "automation",
-          "rag"
+          "closed models"
         ]
       },
       {
