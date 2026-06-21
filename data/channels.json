@@ -184,7 +184,7 @@
       "enterprise ai",
       "rag",
       "news",
-      "coding"
+      "tutorial"
     ],
     "dominantFormats": [
       "analysis"
@@ -197,7 +197,17 @@
           "agents",
           "rag",
           "news",
-          "coding"
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "enterprise ai",
+          "rag",
+          "tutorial"
         ]
       },
       {
@@ -208,16 +218,6 @@
           "enterprise ai",
           "rag",
           "news"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai",
-          "rag",
-          "coding"
         ]
       }
     ]
@@ -247,16 +247,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "news",
-          "closed models",
-          "coding"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -274,6 +264,16 @@
           "news",
           "closed models",
           "coding"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "news",
+          "coding",
+          "enterprise ai"
         ]
       }
     ]
@@ -304,16 +304,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "automation",
-          "closed models",
-          "rag"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -331,6 +321,16 @@
           "prompting",
           "closed models",
           "rag"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "automation",
+          "rag",
+          "news"
         ]
       }
     ]
