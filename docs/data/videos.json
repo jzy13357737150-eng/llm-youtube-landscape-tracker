@@ -1,5 +1,68 @@
 [
   {
+    "id": "4wMRXmLpdA8",
+    "videoId": "4wMRXmLpdA8",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "AI in the SDLC: Rethinking AI Coding Tools & AI Agents",
+    "url": "https://www.youtube.com/watch?v=4wMRXmLpdA8",
+    "thumbnailUrl": "https://i1.ytimg.com/vi/4wMRXmLpdA8/hqdefault.jpg",
+    "publishedAt": "2026-06-22T11:00:22+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "coding",
+      "enterprise ai",
+      "automation",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Learn more about AI in the SDLC here → https://ibm.biz/~naNTyKNWO AI promises speed, but where are the real gains? Cedric Clyburn breaks down why productivity stalls across the software development lifecycle despite faster coding.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "automation"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "enterprise ai"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "enterprise ai"
+        ]
+      }
+    ]
+  },
+  {
     "id": "WJzsX32qMJY",
     "videoId": "WJzsX32qMJY",
     "channelSlug": "ibm-technology",
@@ -1346,71 +1409,6 @@
     ]
   },
   {
-    "id": "Gh1E9VgXZWs",
-    "videoId": "Gh1E9VgXZWs",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "Bridging Design Systems and Code with MCP and AI Agents",
-    "url": "https://www.youtube.com/watch?v=Gh1E9VgXZWs",
-    "thumbnailUrl": "https://i4.ytimg.com/vi/Gh1E9VgXZWs/hqdefault.jpg",
-    "publishedAt": "2026-06-14T11:00:31+00:00",
-    "speaker": "IBM Technology",
-    "guests": [
-      "MCP"
-    ],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "reasoning",
-      "coding",
-      "enterprise ai",
-      "tutorial"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Learn more about Context Engineering here → https://ibm.biz/~Ep1sRClsw AI agents are changing how modern software gets designed. Will Scott explains how design systems and context engineering guide intelligent agents.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding",
-          "enterprise ai"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "reasoning",
-          "coding"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding",
-          "tutorial"
-        ]
-      }
-    ]
-  },
-  {
     "id": "HCL5f267840",
     "videoId": "HCL5f267840",
     "channelSlug": "langchain",
@@ -2508,10 +2506,10 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
-          "reasoning",
+          "closed models",
           "coding"
         ]
       }
@@ -2563,21 +2561,20 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "reasoning",
-          "tutorial",
-          "news"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "fine-tuning",
           "open-source models",
           "tutorial"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "tutorial",
+          "news"
         ]
       }
     ]
@@ -2617,7 +2614,6 @@
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
-          "reasoning",
           "evaluation",
           "coding",
           "tutorial"
@@ -2757,22 +2753,21 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "reasoning",
-          "evaluation"
-        ]
-      },
-      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "prompting",
           "fine-tuning",
+          "evaluation"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
           "evaluation"
         ]
       }
@@ -2823,21 +2818,20 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "rag",
-          "reasoning",
-          "evaluation",
-          "coding"
-        ]
-      },
-      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
           "prompting",
           "fine-tuning",
+          "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "rag",
           "evaluation",
           "coding"
         ]
@@ -2876,7 +2870,6 @@
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
-          "reasoning",
           "coding",
           "tutorial"
         ]
@@ -2931,7 +2924,6 @@
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
-          "reasoning",
           "coding",
           "tutorial"
         ]

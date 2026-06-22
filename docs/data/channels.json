@@ -48,7 +48,6 @@
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
-          "reasoning",
           "coding",
           "tutorial",
           "evaluation"
@@ -184,7 +183,7 @@
       "enterprise ai",
       "rag",
       "news",
-      "tutorial"
+      "automation"
     ],
     "dominantFormats": [
       "analysis"
@@ -197,17 +196,7 @@
           "agents",
           "rag",
           "news",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai",
-          "rag",
-          "tutorial"
+          "automation"
         ]
       },
       {
@@ -218,6 +207,16 @@
           "enterprise ai",
           "rag",
           "news"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "enterprise ai",
+          "rag",
+          "automation"
         ]
       }
     ]
