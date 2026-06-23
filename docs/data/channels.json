@@ -41,7 +41,7 @@
           "coding",
           "tutorial",
           "evaluation",
-          "fine-tuning"
+          "prompting"
         ]
       },
       {
@@ -71,8 +71,8 @@
       "agents",
       "evaluation",
       "rag",
-      "tutorial",
-      "coding"
+      "coding",
+      "tutorial"
     ],
     "dominantFormats": [
       "analysis"
@@ -85,7 +85,7 @@
           "agents",
           "evaluation",
           "rag",
-          "tutorial"
+          "coding"
         ]
       },
       {
@@ -94,8 +94,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "tutorial",
-          "coding"
+          "coding",
+          "tutorial"
         ]
       },
       {
@@ -105,7 +105,7 @@
           "agents",
           "evaluation",
           "rag",
-          "tutorial"
+          "coding"
         ]
       }
     ]
@@ -148,10 +148,10 @@
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
-          "fine-tuning",
           "open-source models",
           "tutorial",
-          "agents"
+          "agents",
+          "coding"
         ]
       },
       {
@@ -190,6 +190,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "enterprise ai",
+          "rag",
+          "automation"
+        ]
+      },
+      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -206,16 +216,6 @@
           "agents",
           "rag",
           "news",
-          "automation"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai",
-          "rag",
           "automation"
         ]
       }
@@ -246,16 +246,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "news",
-          "closed models",
-          "coding"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -263,6 +253,16 @@
           "closed models",
           "coding",
           "enterprise ai"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "news",
+          "closed models",
+          "coding"
         ]
       },
       {
@@ -303,6 +303,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "automation",
+          "prompting",
+          "rag"
+        ]
+      },
+      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
@@ -318,16 +328,6 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "closed models",
-          "news"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "prompting",
           "closed models",
           "news"
         ]
