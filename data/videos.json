@@ -1,5 +1,67 @@
 [
   {
+    "id": "VKFKyrrK-Iw",
+    "videoId": "VKFKyrrK-Iw",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "The Agent for Your Agent.",
+    "url": "https://www.youtube.com/watch?v=VKFKyrrK-Iw",
+    "thumbnailUrl": "https://i3.ytimg.com/vi/VKFKyrrK-Iw/hqdefault.jpg",
+    "publishedAt": "2026-06-23T21:18:55+00:00",
+    "speaker": "LangChain",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "evaluation",
+      "tutorial"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "langchain"
+    ],
+    "summary": "Learn more about building agents in our LangChain Academy courses. Enroll for free ➡️ https://academy.langchain.com/...",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "tutorial"
+        ]
+      }
+    ]
+  },
+  {
     "id": "i_Tf956Yh0U",
     "videoId": "i_Tf956Yh0U",
     "channelSlug": "langchain",
@@ -390,11 +452,11 @@
     "summary": "Want to save time, get more leverage, and stop figuring this AI stuff out from scratch? I put the clearest map and support inside the AI Advantage Club: https://joinaiaclub.com/igor OpenAI added some new features to ChatGPT that can help you in your job search.",
     "stance": "tutorial",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -809,21 +871,21 @@
     "primaryTopics": [
       "agents",
       "rag",
+      "evaluation",
       "coding",
       "enterprise ai",
-      "automation",
-      "news"
+      "automation"
     ],
     "secondaryTopics": [],
     "modelsMentioned": [],
-    "summary": "Learn more about AI in the SDLC here → https://ibm.biz/~naNTyKNWO AI promises speed, but where are the real gains? Cedric Clyburn breaks down why productivity stalls across the software development lifecycle despite faster coding.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "summary": "When I talk to developers, a lot of folks are worried about how AI might take their job. Maybe they've been pressured to pick up a new AI-assisted coding tool, or they're being told to become AI native.",
+    "stance": "tutorial",
+    "transcriptSource": "youtube-captions",
+    "transcriptStatus": "ok",
+    "transcriptSnippet": "When I talk to developers, a lot of folks are worried about how AI might take their job. Maybe they've been pressured to pick up a new AI-assisted coding tool, or they're being told to become AI native.",
+    "summarySource": "heuristic-transcript",
+    "processingStatus": "ok",
+    "notes": "",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -831,8 +893,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "coding",
-          "enterprise ai"
+          "evaluation",
+          "coding"
         ]
       },
       {
@@ -948,11 +1010,11 @@
     "summary": "Want to save time, get more leverage, and stop figuring this AI stuff out from scratch? I put the clearest map and support inside the AI Advantage Club: https://joinaiaclub.com/igor In this week's AI News You Can Use, Igor shows you everything that's changed with ChatGPT in the past couple weeks including new...",
     "stance": "news",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -1956,71 +2018,6 @@
     ]
   },
   {
-    "id": "1joT5yyEwm4",
-    "videoId": "1joT5yyEwm4",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "Why AI Won't Cure Cancer by Thinking Harder | Max Agency",
-    "url": "https://www.youtube.com/shorts/1joT5yyEwm4",
-    "thumbnailUrl": "https://i2.ytimg.com/vi/1joT5yyEwm4/hqdefault.jpg",
-    "publishedAt": "2026-06-15T12:00:08+00:00",
-    "speaker": "LangChain",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "evaluation",
-      "coding",
-      "automation",
-      "tutorial"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "langchain"
-    ],
-    "summary": "If AI is going to accelerate scientific research, what's actually in the way — the models or the systems around them? Harrison Chase asks the question directly, and Nicholas Larus-Stone's answer is both: the models still lack deep understanding of physical and biological reality, and even if they improve, they'll...",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "error",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
-    "relatedChannels": [
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "coding"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding",
-          "automation"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "coding"
-        ]
-      }
-    ]
-  },
-  {
     "id": "g5gTUyMUmAs",
     "videoId": "g5gTUyMUmAs",
     "channelSlug": "the-ai-advantage",
@@ -2049,11 +2046,11 @@
     "summary": "Want to save time, get more leverage, and stop figuring this AI stuff out from scratch? I put the clearest map and support inside the AI Advantage Club: https://joinaiaclub.com/igor In this video, Igor breaks down the new releases from Anthropic: Claude Fable 5 and Mythos 5.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -2118,11 +2115,11 @@
     "summary": "Here's the AI News you probably missed this week. Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow 🧵 Threads: https://www.threads.net/@mr.eflow 🟦...",
     "stance": "news",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -2414,11 +2411,11 @@
     "summary": "Want to save time, get more leverage, and stop figuring this AI stuff out from scratch? I put the clearest map and support inside the AI Advantage Club: https://joinaiaclub.com/igor In this video, Igor shows off a prompt we created to make Claude's visuals even more useful.",
     "stance": "tutorial",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "langchain",
