@@ -45,12 +45,12 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "coding",
           "tutorial",
-          "evaluation"
+          "prompting"
         ]
       }
     ]
@@ -72,7 +72,7 @@
       "evaluation",
       "rag",
       "tutorial",
-      "coding"
+      "voice ai"
     ],
     "dominantFormats": [
       "analysis"
@@ -89,13 +89,13 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
-          "evaluation",
           "rag",
-          "tutorial"
+          "tutorial",
+          "closed models"
         ]
       },
       {
@@ -105,7 +105,7 @@
           "agents",
           "rag",
           "tutorial",
-          "coding"
+          "closed models"
         ]
       }
     ]
@@ -155,13 +155,13 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
-          "open-source models",
           "tutorial",
           "agents",
-          "coding"
+          "coding",
+          "prompting"
         ]
       }
     ]
@@ -201,16 +201,6 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai",
-          "rag",
-          "news"
-        ]
-      },
-      {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
@@ -218,6 +208,16 @@
           "rag",
           "news",
           "automation"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "enterprise ai",
+          "rag",
+          "news"
         ]
       }
     ]
@@ -237,8 +237,8 @@
     "latestThemes": [
       "agents",
       "news",
-      "closed models",
       "coding",
+      "closed models",
       "enterprise ai"
     ],
     "dominantFormats": [
@@ -251,8 +251,8 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "closed models",
           "coding",
+          "closed models",
           "enterprise ai"
         ]
       },
@@ -262,8 +262,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "closed models",
-          "coding"
+          "coding",
+          "closed models"
         ]
       },
       {
@@ -272,8 +272,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "closed models",
-          "coding"
+          "coding",
+          "closed models"
         ]
       }
     ]
@@ -299,8 +299,8 @@
     ],
     "dominantFormats": [
       "analysis",
-      "tutorial",
-      "news"
+      "news",
+      "tutorial"
     ],
     "relatedChannels": [
       {
@@ -324,12 +324,12 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "automation",
           "rag",
+          "closed models",
           "news"
         ]
       }
