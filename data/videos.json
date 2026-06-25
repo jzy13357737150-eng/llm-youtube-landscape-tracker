@@ -1,5 +1,70 @@
 [
   {
+    "id": "STH929HARLo",
+    "videoId": "STH929HARLo",
+    "channelSlug": "matt-wolfe",
+    "channelName": "Matt Wolfe",
+    "channelCategory": "creator-news",
+    "title": "9 Free AI Skills That Feel Like Cheat Codes",
+    "url": "https://www.youtube.com/watch?v=STH929HARLo",
+    "thumbnailUrl": "https://i4.ytimg.com/vi/STH929HARLo/hqdefault.jpg",
+    "publishedAt": "2026-06-24T20:31:00+00:00",
+    "speaker": "Matt Wolfe",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "prompting",
+      "closed models",
+      "coding",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "claude",
+      "anthropic"
+    ],
+    "summary": "9 free skills and plug-ins that make Claude Code, Codex, and other AI coding agents dramatically more useful, and yes, all of them are free. Skills and plug-ins are reusable instruction files that give your AI agent a repeatable behavior instead of starting from scratch every time.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "closed models",
+          "coding"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "closed models",
+          "coding"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "closed models",
+          "coding"
+        ]
+      }
+    ]
+  },
+  {
     "id": "50mrigdOm2U",
     "videoId": "50mrigdOm2U",
     "channelSlug": "the-ai-advantage",
@@ -118,7 +183,7 @@
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
+          "prompting",
           "closed models",
           "tutorial"
         ]
@@ -373,12 +438,12 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
-          "closed models",
+          "evaluation",
           "tutorial"
         ]
       }
@@ -420,7 +485,6 @@
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
           "enterprise ai",
           "news"
         ]
@@ -677,8 +741,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "open-source models",
@@ -687,8 +751,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "open-source models",
@@ -732,7 +796,6 @@
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
           "enterprise ai",
           "news"
         ]
@@ -793,15 +856,15 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "open-source models"
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "open-source models"
         ]
@@ -860,11 +923,12 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "prompting",
+          "open-source models",
           "coding"
         ]
       }
@@ -978,7 +1042,6 @@
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
           "enterprise ai"
         ]
       },
@@ -1097,16 +1160,6 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding",
-          "enterprise ai"
-        ]
-      },
-      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
@@ -1114,6 +1167,16 @@
           "rag",
           "evaluation",
           "coding"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "coding",
+          "enterprise ai",
+          "tutorial"
         ]
       }
     ]
@@ -1354,13 +1417,13 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "rag",
-          "coding",
-          "enterprise ai"
+          "evaluation",
+          "coding"
         ]
       }
     ]
@@ -1400,9 +1463,9 @@
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
           "enterprise ai",
-          "tutorial"
+          "tutorial",
+          "news"
         ]
       },
       {
@@ -1595,7 +1658,6 @@
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
           "enterprise ai",
           "news"
         ]
@@ -1669,21 +1731,20 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "open-source models",
-          "closed models"
-        ]
-      },
-      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "evaluation",
+          "open-source models",
+          "closed models"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
           "open-source models",
           "closed models"
         ]
@@ -1742,12 +1803,12 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "rag",
-          "enterprise ai",
+          "evaluation",
           "tutorial"
         ]
       }
@@ -1909,19 +1970,19 @@
         ]
       },
       {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "prompting"
+        ]
+      },
+      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "automation"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "prompting"
         ]
       }
     ]
@@ -1960,7 +2021,6 @@
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
           "enterprise ai",
           "news"
         ]
@@ -2026,8 +2086,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -2036,11 +2096,12 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "prompting",
+          "open-source models",
           "tutorial"
         ]
       }
@@ -2088,8 +2149,8 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -2097,8 +2158,8 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -2143,15 +2204,15 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "open-source models"
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "open-source models"
         ]
@@ -2271,78 +2332,9 @@
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
+          "prompting",
           "closed models",
           "news"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "nydHKXjwu0U",
-    "videoId": "nydHKXjwu0U",
-    "channelSlug": "matt-wolfe",
-    "channelName": "Matt Wolfe",
-    "channelCategory": "creator-news",
-    "title": "AI News: An INSANE Week… Here’s What Matters",
-    "url": "https://www.youtube.com/watch?v=nydHKXjwu0U",
-    "thumbnailUrl": "https://i3.ytimg.com/vi/nydHKXjwu0U/hqdefault.jpg",
-    "publishedAt": "2026-06-12T15:00:18+00:00",
-    "speaker": "Matt Wolfe",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "closed models",
-      "coding",
-      "enterprise ai",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "chatgpt",
-      "claude",
-      "gemini",
-      "openai",
-      "anthropic"
-    ],
-    "summary": "Here's the AI News you probably missed this week. Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow 🧵 Threads: https://www.threads.net/@mr.eflow 🟦...",
-    "stance": "news",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "closed models",
-          "coding"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "closed models",
-          "coding"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding",
-          "enterprise ai"
         ]
       }
     ]
@@ -2387,16 +2379,16 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "open-source models",
           "tutorial"
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "open-source models",
           "tutorial"
@@ -2444,16 +2436,16 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "open-source models",
           "tutorial"
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "open-source models",
           "tutorial"
@@ -2507,16 +2499,16 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "closed models",
           "coding"
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "closed models",
           "coding"
@@ -2694,8 +2686,8 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "prompting",
           "open-source models",
@@ -2704,10 +2696,11 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "prompting",
+          "open-source models",
           "closed models",
           "coding"
         ]
@@ -2876,6 +2869,14 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "coding",
+          "tutorial"
+        ]
+      },
+      {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
@@ -2886,14 +2887,6 @@
       {
         "slug": "langchain",
         "name": "LangChain",
-        "overlapTopics": [
-          "coding",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
         "overlapTopics": [
           "coding",
           "tutorial"
@@ -2930,6 +2923,14 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "coding",
+          "tutorial"
+        ]
+      },
+      {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
@@ -2940,14 +2941,6 @@
       {
         "slug": "langchain",
         "name": "LangChain",
-        "overlapTopics": [
-          "coding",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
         "overlapTopics": [
           "coding",
           "tutorial"
