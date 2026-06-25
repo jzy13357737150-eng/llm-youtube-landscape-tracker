@@ -1,5 +1,128 @@
 [
   {
+    "id": "12lB1Cz7gUw",
+    "videoId": "12lB1Cz7gUw",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "Data Science Periodic Table Explained: ML, ETL, Analytics & Workflow",
+    "url": "https://www.youtube.com/watch?v=12lB1Cz7gUw",
+    "thumbnailUrl": "https://i2.ytimg.com/vi/12lB1Cz7gUw/hqdefault.jpg",
+    "publishedAt": "2026-06-25T11:00:06+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "enterprise ai",
+      "automation",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Learn more about Data Science here → https://ibm.biz/~KwNQPSByh Data science feels complex—until you see the whole system. Aaron Baughman breaks down data science concepts using a “periodic table” to connect workflows, models, and techniques.",
+    "stance": "demo",
+    "transcriptSource": "none",
+    "transcriptStatus": "rate-limited",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Transcript provider rate limited the request.",
+    "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai",
+          "automation"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "automation",
+          "news"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "enterprise ai",
+          "news"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Rnjad4p62bE",
+    "videoId": "Rnjad4p62bE",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "What is an agent harness?",
+    "url": "https://www.youtube.com/shorts/Rnjad4p62bE",
+    "thumbnailUrl": "https://i3.ytimg.com/vi/Rnjad4p62bE/hqdefault.jpg",
+    "publishedAt": "2026-06-25T10:45:30+00:00",
+    "speaker": "LangChain",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "evaluation",
+      "coding"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "langchain"
+    ],
+    "summary": "Sydney Runkle, Software Engineer at LangChain, breaks down what \"harness\" actually means in the context of Deep Agents. It's the surrounding support layered onto the core model and tool-calling loop — all the complex engineering that needs to be present at every stage, available out of the box.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "error",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
+    "relatedChannels": [
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding"
+        ]
+      }
+    ]
+  },
+  {
     "id": "STH929HARLo",
     "videoId": "STH929HARLo",
     "channelSlug": "matt-wolfe",
@@ -26,11 +149,11 @@
     "summary": "9 free skills and plug-ins that make Claude Code, Codex, and other AI coding agents dramatically more useful, and yes, all of them are free. Skills and plug-ins are reusable instruction files that give your AI agent a repeatable behavior instead of starting from scratch every time.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "the-ai-advantage",
@@ -152,11 +275,11 @@
     "summary": "Want to save time, get more leverage, and stop figuring this AI stuff out from scratch? I put the clearest map and support inside the AI Advantage Club: https://joinaiaclub.com/ In this video, Igor teaches you how to get the most out of your Claude subscription.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -179,12 +302,12 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "prompting",
-          "closed models",
+          "rag",
+          "automation",
           "tutorial"
         ]
       }
@@ -215,11 +338,11 @@
     "summary": "Most agents don't learn from their mistakes, they just leave traces. Jake Broekhuizen walks through how to close that loop using LangSmith Engine and Context Hub, turning production traces into durable memory updates that continuously improve your agent's behavior.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "ibm-technology",
@@ -287,12 +410,12 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "closed models",
           "coding",
+          "enterprise ai",
           "tutorial"
         ]
       },
@@ -307,12 +430,12 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
+          "closed models",
           "coding",
-          "enterprise ai",
           "tutorial"
         ]
       }
@@ -344,11 +467,11 @@
     "summary": "Jeff Barg, Head of AI at Clay, breaks down what it actually takes to run go-to-market agents at production scale — not just one agent, but 350 million a month across an entire addressable market. He covers the four hard problems Clay solved: infrastructure reliability, throughput under spiky workloads, cost...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "ibm-technology",
@@ -428,22 +551,22 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "closed models",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
           "evaluation",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "closed models",
           "tutorial"
         ]
       }
@@ -474,12 +597,21 @@
     "summary": "Read more about IBM joining OpenAI Daybreak → https://ibm.biz/~GzeMjCEBd Social engineering has plagued human beings since time immemorial. We’ve simply never been able to stop it.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai"
+        ]
+      },
       {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
@@ -496,15 +628,6 @@
           "agents",
           "rag",
           "news"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai"
         ]
       }
     ]
@@ -534,11 +657,11 @@
     "summary": "Learn more about building agents in our LangChain Academy courses. Enroll for free ➡️ https://academy.langchain.com/...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "ibm-technology",
@@ -599,11 +722,11 @@
     "summary": "Caroline di Vittorio, software engineer at LangChain, walks through how to take an existing LangGraph multi-agent system and wire it into a fully functional voice agent using Pipecat — without rebuilding your graph from scratch. She covers the key architectural change required (dropping the checkpointer and making...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "andrej-karpathy",
@@ -616,22 +739,22 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "coding"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
           "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
           "coding"
         ]
       }
@@ -669,8 +792,8 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "coding",
@@ -678,8 +801,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "coding",
@@ -724,11 +847,11 @@
     "summary": "A livestream for everyone starting out with open models. We walk through the most robust stack for running AI on your own laptop or server, and answer your questions live.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "andrej-karpathy",
@@ -755,7 +878,6 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "open-source models",
           "closed models",
           "coding"
         ]
@@ -785,12 +907,21 @@
     "summary": "Learn more about AI Agents here → https://ibm.biz/~dXkrYnDwR Frontier AI agents rely on more than just large language models to function effectively. Martin Keen explains five essential concepts in agentic AI, including agents.md, agent skills, MCP, agent‑to‑agent communication, and sub‑agents.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai"
+        ]
+      },
       {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
@@ -807,15 +938,6 @@
           "agents",
           "rag",
           "news"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai"
         ]
       }
     ]
@@ -861,13 +983,6 @@
         "overlapTopics": [
           "open-source models"
         ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "open-source models"
-        ]
       }
     ]
   },
@@ -896,11 +1011,11 @@
     "summary": "Training Agents, Session 1: from raw agent traces to a supervised fine-tuning baseline. In this live session, I’ll set up the first rung of an agentic post-training workflow: SFT.",
     "stance": "tutorial",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "andrej-karpathy",
@@ -919,7 +1034,7 @@
           "agents",
           "prompting",
           "evaluation",
-          "open-source models"
+          "coding"
         ]
       },
       {
@@ -962,22 +1077,12 @@
     "summary": "Want to save time, get more leverage, and stop figuring this AI stuff out from scratch? I put the clearest map and support inside the AI Advantage Club: https://joinaiaclub.com/igor OpenAI added some new features to ChatGPT that can help you in your job search.",
     "stance": "tutorial",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "automation"
-        ]
-      },
       {
         "slug": "ibm-technology",
         "name": "IBM Technology",
@@ -986,6 +1091,16 @@
           "rag",
           "automation",
           "tutorial"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "automation"
         ]
       },
       {
@@ -1143,11 +1258,11 @@
     "summary": "Philipp Comans, software engineer at Chime, explains how his team built Jade — Chime's always-on financial co-pilot — and solved one of the hardest problems in production AI: getting non-engineers to meaningfully participate in evals. By structuring compliance risk as a taxonomy, using Giskard to generate...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "ibm-technology",
@@ -1204,11 +1319,11 @@
     "summary": "One year ago thousands of people worked for 48h to build something cool with LeRobot library: https://huggingface.co/lerobot LeRobot Worldwide Hackathon was a global AI robotics challenge that took place June 14-15, 2025. Discover how one weekend of open-source building launched careers, inspired new research, and...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "andrej-karpathy",
@@ -1230,8 +1345,8 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "tutorial",
           "news"
@@ -1292,8 +1407,8 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "coding",
@@ -1452,12 +1567,22 @@
     "summary": "Learn more about Data Resiliency here → https://ibm.biz/~AJvRqYRiS Three, two, one—liftoff or disaster? 🚀 Jeff Crume breaks down backups, immutability, and disaster recovery so you can build resilient systems.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai",
+          "tutorial"
+        ]
+      },
       {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
@@ -1476,16 +1601,6 @@
           "rag",
           "tutorial",
           "news"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai",
-          "tutorial"
         ]
       }
     ]
@@ -1519,22 +1634,12 @@
     "summary": "Want to save time, get more leverage, and stop figuring this AI stuff out from scratch? I put the clearest map and support inside the AI Advantage Club: https://joinaiaclub.com/igor In this week's AI News You Can Use, Igor shows you everything that's changed with ChatGPT in the past couple weeks including new...",
     "stance": "news",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "coding"
-        ]
-      },
       {
         "slug": "ibm-technology",
         "name": "IBM Technology",
@@ -1543,6 +1648,16 @@
           "rag",
           "coding",
           "automation"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "coding"
         ]
       },
       {
@@ -1586,19 +1701,19 @@
     "summary": "Here's The AI News You Probably Missed This Week. Learn more about how Box AI can unlock key insights for your business here: https://www.box.com/ai?utm_source=youtube&utm_medium=paidinfluencer&utm_theme=icm&utm_campaign=FY27_Q2_MattWolfe_June19 Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰...",
     "stance": "news",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "closed models",
           "coding",
+          "enterprise ai",
           "news"
         ]
       },
@@ -1613,12 +1728,12 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
+          "closed models",
           "coding",
-          "enterprise ai",
           "news"
         ]
       }
@@ -1647,12 +1762,21 @@
     "summary": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~P2MwO1Liq Are AI agents taking over the internet? This week on Mixture of Experts, Tim Hwang is joined by Ambhi Ganesan, Rynne Whitnah and Sandi Besen.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai"
+        ]
+      },
       {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
@@ -1669,84 +1793,6 @@
           "agents",
           "rag",
           "news"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "uCKhOmth2ms",
-    "videoId": "uCKhOmth2ms",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "The best AI agents are simpler than you think",
-    "url": "https://www.youtube.com/watch?v=uCKhOmth2ms",
-    "thumbnailUrl": "https://i2.ytimg.com/vi/uCKhOmth2ms/hqdefault.jpg",
-    "publishedAt": "2026-06-18T14:00:08+00:00",
-    "speaker": "LangChain",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "evaluation",
-      "open-source models",
-      "closed models",
-      "voice ai"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "chatgpt",
-      "claude",
-      "gemini",
-      "langchain",
-      "openai",
-      "anthropic"
-    ],
-    "summary": "Zack Reneau-Wedeen is the Head of Product at Sierra, the conversational AI platform behind customer-facing agents for most of the Fortune 20. Before Sierra, he spent seven years at Google as the founding PM for Google Lens and Google Podcasts, then led product at Robinhood and CoinTracker.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "open-source models"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "open-source models",
-          "closed models"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "open-source models",
-          "closed models"
         ]
       }
     ]
@@ -1776,11 +1822,11 @@
     "summary": "Learn more about Building and evaluating AI agents that work in the real world here → https://ibm.biz/~M1R5rMq8K AI agents are powerful, but production is different. Shailaja Patel-Pranav explains how AI agents operate in real-world systems with workflows, policies, and orchestration.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -1842,16 +1888,16 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "news"
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "news"
@@ -1895,11 +1941,11 @@
     "summary": "Try Recraft V4.1 now and experience an image generation model with exceptional visual taste : https://go.recraft.ai/MattWolfe PewDiePie built an open source AI workspace called Project Odysseus and I put it through its paces so you don't have to. Odysseus is a self-hosted AI platform that lets you run local AI...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -1970,77 +2016,19 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "prompting"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "automation"
         ]
-      }
-    ]
-  },
-  {
-    "id": "ATIwByZ4nUA",
-    "videoId": "ATIwByZ4nUA",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "AI agents can manage your passwords. Should we let them? Plus: The biggest Patch Tuesday ever.",
-    "url": "https://www.youtube.com/watch?v=ATIwByZ4nUA",
-    "thumbnailUrl": "https://i2.ytimg.com/vi/ATIwByZ4nUA/hqdefault.jpg",
-    "publishedAt": "2026-06-17T10:00:32+00:00",
-    "speaker": "IBM Technology",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "enterprise ai",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Explore the podcast →https://ibm.biz/~1RGiVfNK3 Apple unveiled an AI agent that can detect if your password’s been compromised and change it for you. The question is: Should you let it?",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
+      },
       {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "enterprise ai",
-          "news"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "news"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai"
+          "prompting"
         ]
       }
     ]
@@ -2069,11 +2057,11 @@
     "summary": "Hermes is an always-on AI agent with a simple but useful architecture: an agent loop, memory, context construction, gateway integrations, and scheduled cron jobs. In this video, I walk through how Hermes builds context, talks to external services like Telegram and Slack, compresses long conversations, and learns...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "andrej-karpathy",
@@ -2101,7 +2089,6 @@
         "overlapTopics": [
           "agents",
           "prompting",
-          "open-source models",
           "tutorial"
         ]
       }
@@ -2209,13 +2196,6 @@
         "overlapTopics": [
           "open-source models"
         ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "open-source models"
-        ]
       }
     ]
   },
@@ -2247,16 +2227,16 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "news"
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "news"
@@ -2301,11 +2281,11 @@
     "summary": "Want to save time, get more leverage, and stop figuring this AI stuff out from scratch? I put the clearest map and support inside the AI Advantage Club: https://joinaiaclub.com/igor In this video, Igor breaks down the new releases from Anthropic: Claude Fable 5 and Mythos 5.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -2328,12 +2308,12 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "prompting",
-          "closed models",
+          "rag",
+          "automation",
           "news"
         ]
       }
@@ -2363,11 +2343,11 @@
     "summary": "As part of the Build Small hackathon we are inviting our partners to share their knowledge on how to get the most out of their platform. Today we are joined by Modal who will walk us through some use-case for Modal's cloud compute as well as taking questions from the community!",
     "stance": "tutorial",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "andrej-karpathy",
@@ -2387,10 +2367,9 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
-          "open-source models",
           "tutorial"
         ]
       }
@@ -2420,11 +2399,11 @@
     "summary": "As part of the Build Small hackathon we are inviting our partners to share their knowledge on how to get the most out of the tiny models available today. Today we are joined by OpenBMB who will walk us through some of the best real-world uses cases for their family of tiny models and answer any questions from the...",
     "stance": "tutorial",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "andrej-karpathy",
@@ -2444,10 +2423,9 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
-          "open-source models",
           "tutorial"
         ]
       }
@@ -2483,11 +2461,11 @@
     "summary": "The example-driven, practical walkthrough of Large Language Models and their growing list of related features, as a new entry to my general audience series on LLMs. In this more practical followup, I take you through the many ways I use LLMs in my own life.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -2545,11 +2523,11 @@
     "summary": "This is a general audience deep dive into the Large Language Model (LLM) AI technology that powers ChatGPT and related products. It is covers the full training stack of how the models are developed, along with mental models of how to think about their \"psychology\", and how to get the best use them in practical...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -2571,8 +2549,8 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "tutorial",
           "news"
@@ -2605,15 +2583,15 @@
     "summary": "We reproduce the GPT-2 (124M) from scratch. This video covers the whole process: First we build the GPT-2 network, then we optimize its training to be really fast, then we set up the training run following the GPT-2 and GPT-3 paper and their hyperparameters, then we hit run, and come back the next morning to see...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "evaluation",
           "coding",
@@ -2621,8 +2599,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "evaluation",
           "coding",
@@ -2669,20 +2647,20 @@
     "summary": "The Tokenizer is a necessary and pervasive component of Large Language Models (LLMs), where it translates between strings and tokens (text chunks). Tokenizers are a completely separate stage of the LLM pipeline: they have their own training sets, training algorithms (Byte Pair Encoding), and after training...",
     "stance": "tutorial",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "prompting",
-          "open-source models",
           "closed models",
-          "voice ai"
+          "voice ai",
+          "coding"
         ]
       },
       {
@@ -2765,12 +2743,12 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting"
+          "evaluation"
         ]
       }
     ]
@@ -2830,11 +2808,11 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "rag",
-          "prompting",
+          "evaluation",
           "coding"
         ]
       }
@@ -2862,23 +2840,15 @@
     "summary": "We take the 2-layer MLP from previous video and make it deeper with a tree-like structure, arriving at a convolutional neural network architecture similar to the WaveNet (2016) from DeepMind. In the WaveNet paper, the same hierarchical architecture is implemented more efficiently using causal dilated convolutions...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "coding",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "coding",
           "tutorial"
@@ -2887,6 +2857,14 @@
       {
         "slug": "langchain",
         "name": "LangChain",
+        "overlapTopics": [
+          "coding",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "coding",
           "tutorial"
@@ -2916,23 +2894,15 @@
     "summary": "We take the 2-layer MLP (with BatchNorm) from the previous video and backpropagate through it manually without using PyTorch autograd's loss.backward(): through the cross entropy loss, 2nd linear layer, tanh, batchnorm, 1st linear layer, and the embedding table. Along the way, we get a strong intuitive...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "coding",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "coding",
           "tutorial"
@@ -2941,6 +2911,14 @@
       {
         "slug": "langchain",
         "name": "LangChain",
+        "overlapTopics": [
+          "coding",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "coding",
           "tutorial"
