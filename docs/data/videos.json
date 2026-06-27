@@ -934,12 +934,14 @@
     "channelSlug": "langchain",
     "channelName": "LangChain",
     "channelCategory": "developer-tools",
-    "title": "How LangSmith Engine Turns Agent Traces Into Durable Memory",
+    "title": "How To Build a Self-Improving Agent with LangSmith Engine and Context Hub",
     "url": "https://www.youtube.com/watch?v=y6WUw2_Hhrs",
     "thumbnailUrl": "https://i2.ytimg.com/vi/y6WUw2_Hhrs/hqdefault.jpg",
     "publishedAt": "2026-06-24T16:01:37+00:00",
     "speaker": "LangChain",
-    "guests": [],
+    "guests": [
+      "LangSmith Engine"
+    ],
     "primaryTopics": [
       "agents",
       "rag",
@@ -951,7 +953,7 @@
       "langchain"
     ],
     "summary": "Most agents don't learn from their mistakes, they just leave traces. Jake Broekhuizen walks through how to close that loop using LangSmith Engine and Context Hub, turning production traces into durable memory updates that continuously improve your agent's behavior.",
-    "stance": "analysis",
+    "stance": "tutorial",
     "transcriptSource": "none",
     "transcriptStatus": "disabled",
     "transcriptSnippet": "",
