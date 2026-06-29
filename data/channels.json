@@ -91,21 +91,21 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "tutorial",
-          "coding"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "evaluation",
+          "tutorial",
+          "coding"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
           "tutorial",
           "coding"
         ]
@@ -245,7 +245,8 @@
     ],
     "dominantFormats": [
       "analysis",
-      "news"
+      "news",
+      "tutorial"
     ],
     "relatedChannels": [
       {

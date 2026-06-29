@@ -203,8 +203,8 @@
       "prompting",
       "evaluation",
       "closed models",
-      "coding",
-      "tutorial"
+      "voice ai",
+      "coding"
     ],
     "secondaryTopics": [],
     "modelsMentioned": [
@@ -214,14 +214,14 @@
       "openai",
       "anthropic"
     ],
-    "summary": "Stop losing money on separate AI subscriptions. Get ChatGPT, Claude, Gemini, and 200+ models in one place for one price with Nexos.",
-    "stance": "news",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "summary": "Here's the AI news you probably missed this week. In fact, for this one, let's change up the scenery a little bit.",
+    "stance": "tutorial",
+    "transcriptSource": "youtube-captions",
+    "transcriptStatus": "ok",
+    "transcriptSnippet": "Here's the AI news you probably missed this week. In fact, for this one, let's change up the scenery a little bit.",
+    "summarySource": "heuristic-transcript",
+    "processingStatus": "ok",
+    "notes": "",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -234,8 +234,8 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -244,8 +244,8 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -1225,21 +1225,21 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "closed models",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "evaluation",
+          "closed models",
+          "voice ai"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
           "closed models",
           "tutorial"
         ]
@@ -1412,22 +1412,22 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "coding"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "prompting",
           "evaluation",
+          "voice ai"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
           "coding"
         ]
       }
@@ -2469,16 +2469,17 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "closed models",
+          "voice ai",
           "coding"
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "closed models",
           "coding"
@@ -2646,22 +2647,22 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "prompting",
-          "closed models",
-          "voice ai",
-          "coding"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "prompting",
           "open-source models",
           "closed models",
+          "voice ai"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "prompting",
+          "closed models",
+          "voice ai",
           "coding"
         ]
       },
