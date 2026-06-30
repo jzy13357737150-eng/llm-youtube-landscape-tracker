@@ -192,22 +192,22 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai",
-          "rag",
-          "automation"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "enterprise ai",
           "news",
+          "automation"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "enterprise ai",
+          "rag",
           "automation"
         ]
       },
@@ -239,12 +239,11 @@
       "agents",
       "coding",
       "news",
-      "closed models",
-      "tutorial"
+      "tutorial",
+      "closed models"
     ],
     "dominantFormats": [
       "analysis",
-      "news",
       "tutorial"
     ],
     "relatedChannels": [
@@ -255,7 +254,7 @@
           "agents",
           "coding",
           "news",
-          "closed models"
+          "tutorial"
         ]
       },
       {
@@ -265,7 +264,7 @@
           "agents",
           "coding",
           "news",
-          "closed models"
+          "tutorial"
         ]
       },
       {
@@ -275,7 +274,7 @@
           "agents",
           "coding",
           "news",
-          "closed models"
+          "tutorial"
         ]
       }
     ]
@@ -316,22 +315,22 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "automation",
-          "rag",
-          "closed models"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "automation",
           "prompting",
+          "closed models"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "rag",
           "closed models"
         ]
       }
