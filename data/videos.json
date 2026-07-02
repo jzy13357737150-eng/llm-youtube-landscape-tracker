@@ -5,7 +5,7 @@
     "channelSlug": "matt-wolfe",
     "channelName": "Matt Wolfe",
     "channelCategory": "creator-news",
-    "title": "GLM-5.2 - The Open Model That's As Good As Opus!",
+    "title": "GLM-5.2 Proves Open-Source AI is Finally Good Now!",
     "url": "https://www.youtube.com/watch?v=XbHeJL45USQ",
     "thumbnailUrl": "https://i1.ytimg.com/vi/XbHeJL45USQ/hqdefault.jpg",
     "publishedAt": "2026-07-01T18:30:22+00:00",
@@ -13,11 +13,11 @@
     "guests": [],
     "primaryTopics": [
       "agents",
+      "open-source models",
       "closed models",
       "coding",
       "automation",
-      "tutorial",
-      "news"
+      "tutorial"
     ],
     "secondaryTopics": [],
     "modelsMentioned": [
@@ -25,7 +25,7 @@
       "claude",
       "gemini"
     ],
-    "summary": "Z.ai's GLM-5.2 is a 1 million token, MIT-licensed open weight model that costs a fraction of frontier AI prices, and I put it through real tests to show you exactly where it holds up and where it doesn't. I cover the three ways to actually use it (hosted web app, API and agent harness, or self-hosted if you have...",
+    "summary": "Z.ai's GLM-5.2 is a 1 million token, MIT-licensed open weight model that costs a fraction of frontier AI prices, and I put it through real tests to show you exactly where it holds up and where it doesn't. Also join my newsletter: https://futuretools.io/newsletter I cover the three ways to actually use it (hosted...",
     "stance": "analysis",
     "transcriptSource": "none",
     "transcriptStatus": "rate-limited",
@@ -34,16 +34,6 @@
     "processingStatus": "partial",
     "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "coding",
-          "automation"
-        ]
-      },
       {
         "slug": "langchain",
         "name": "LangChain",
@@ -55,13 +45,23 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "closed models",
           "coding",
           "automation"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "open-source models",
+          "closed models",
+          "coding"
         ]
       }
     ]
@@ -459,7 +459,7 @@
     "channelSlug": "matt-wolfe",
     "channelName": "Matt Wolfe",
     "channelCategory": "creator-news",
-    "title": "Why OpenAI Is Worth LESS Than Anthropic",
+    "title": "How OpenAI LOST To Anthropic's Valuation",
     "url": "https://www.youtube.com/shorts/Qt0oRFQm_3U",
     "thumbnailUrl": "https://i2.ytimg.com/vi/Qt0oRFQm_3U/hqdefault.jpg",
     "publishedAt": "2026-07-01T12:42:32+00:00",
@@ -577,7 +577,7 @@
     "channelSlug": "matt-wolfe",
     "channelName": "Matt Wolfe",
     "channelCategory": "creator-news",
-    "title": "I Can't Believe This Is A Real Product",
+    "title": "WTF is China building now 😂",
     "url": "https://www.youtube.com/shorts/VUh3HDSsS5g",
     "thumbnailUrl": "https://i3.ytimg.com/vi/VUh3HDSsS5g/hqdefault.jpg",
     "publishedAt": "2026-06-30T18:43:44+00:00",
@@ -585,6 +585,7 @@
     "guests": [],
     "primaryTopics": [
       "agents",
+      "tutorial",
       "news"
     ],
     "secondaryTopics": [],
@@ -603,14 +604,7 @@
         "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
-          "news"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
+          "tutorial",
           "news"
         ]
       },
@@ -619,6 +613,16 @@
         "name": "Hugging Face",
         "overlapTopics": [
           "agents",
+          "tutorial",
+          "news"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "tutorial",
           "news"
         ]
       }
@@ -915,6 +919,7 @@
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
+          "open-source models",
           "tutorial"
         ]
       },
@@ -1167,6 +1172,7 @@
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
+          "open-source models",
           "coding",
           "tutorial"
         ]
@@ -1710,6 +1716,7 @@
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
+          "open-source models",
           "closed models",
           "coding"
         ]
@@ -2011,6 +2018,13 @@
           "fine-tuning",
           "open-source models"
         ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "open-source models"
+        ]
       }
     ]
   },
@@ -2062,7 +2076,7 @@
           "agents",
           "prompting",
           "evaluation",
-          "coding"
+          "open-source models"
         ]
       },
       {
@@ -2246,6 +2260,7 @@
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
+          "open-source models",
           "tutorial",
           "news"
         ]
@@ -2373,6 +2388,7 @@
         "overlapTopics": [
           "agents",
           "prompting",
+          "open-source models",
           "tutorial"
         ]
       },
@@ -2419,6 +2435,13 @@
         "name": "Andrej Karpathy",
         "overlapTopics": [
           "fine-tuning",
+          "open-source models"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
           "open-source models"
         ]
       }
@@ -2537,6 +2560,7 @@
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
+          "open-source models",
           "tutorial",
           "news"
         ]
@@ -2651,9 +2675,9 @@
         "name": "Matt Wolfe",
         "overlapTopics": [
           "prompting",
+          "open-source models",
           "closed models",
-          "voice ai",
-          "coding"
+          "voice ai"
         ]
       },
       {
