@@ -184,11 +184,10 @@
       "enterprise ai",
       "rag",
       "news",
-      "automation"
+      "coding"
     ],
     "dominantFormats": [
-      "analysis",
-      "demo"
+      "analysis"
     ],
     "relatedChannels": [
       {
@@ -198,7 +197,7 @@
           "agents",
           "enterprise ai",
           "news",
-          "automation"
+          "coding"
         ]
       },
       {
@@ -208,7 +207,7 @@
           "agents",
           "rag",
           "news",
-          "automation"
+          "coding"
         ]
       },
       {
@@ -217,8 +216,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "automation",
-          "coding"
+          "coding",
+          "automation"
         ]
       }
     ]
@@ -258,22 +257,22 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "tutorial",
-          "coding"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "closed models",
           "news",
+          "coding"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "closed models",
+          "tutorial",
           "coding"
         ]
       }
