@@ -184,7 +184,7 @@
       "enterprise ai",
       "rag",
       "news",
-      "coding"
+      "closed models"
     ],
     "dominantFormats": [
       "analysis"
@@ -197,7 +197,7 @@
           "agents",
           "enterprise ai",
           "news",
-          "coding"
+          "closed models"
         ]
       },
       {
@@ -207,17 +207,17 @@
           "agents",
           "rag",
           "news",
-          "coding"
+          "closed models"
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "rag",
-          "coding",
-          "automation"
+          "news",
+          "closed models"
         ]
       }
     ]
@@ -257,22 +257,22 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "tutorial",
-          "coding"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "closed models",
           "news",
+          "coding"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "closed models",
+          "tutorial",
           "coding"
         ]
       }
