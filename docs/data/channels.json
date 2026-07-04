@@ -90,21 +90,21 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "evaluation",
+          "coding",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
           "coding",
           "tutorial"
         ]
@@ -191,21 +191,21 @@
     ],
     "relatedChannels": [
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "news",
-          "closed models"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "enterprise ai",
+          "news",
+          "closed models"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
           "news",
           "closed models"
         ]
@@ -238,13 +238,13 @@
       "agents",
       "closed models",
       "news",
-      "tutorial",
-      "coding"
+      "coding",
+      "tutorial"
     ],
     "dominantFormats": [
       "analysis",
-      "news",
-      "tutorial"
+      "benchmark",
+      "news"
     ],
     "relatedChannels": [
       {
@@ -254,7 +254,7 @@
           "agents",
           "closed models",
           "news",
-          "tutorial"
+          "coding"
         ]
       },
       {
@@ -273,8 +273,8 @@
         "overlapTopics": [
           "agents",
           "closed models",
-          "tutorial",
-          "coding"
+          "coding",
+          "tutorial"
         ]
       }
     ]
