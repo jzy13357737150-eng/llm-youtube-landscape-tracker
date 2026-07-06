@@ -45,12 +45,12 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "coding",
           "tutorial",
-          "prompting"
+          "evaluation"
         ]
       }
     ]
@@ -69,13 +69,14 @@
     "recentVideoCount": 8,
     "latestThemes": [
       "agents",
+      "coding",
       "evaluation",
       "rag",
-      "coding",
       "tutorial"
     ],
     "dominantFormats": [
       "analysis",
+      "benchmark",
       "tutorial"
     ],
     "relatedChannels": [
@@ -84,19 +85,9 @@
         "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
-          "evaluation",
-          "rag",
-          "coding"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
           "coding",
-          "tutorial"
+          "evaluation",
+          "rag"
         ]
       },
       {
@@ -104,8 +95,18 @@
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "evaluation",
           "coding",
+          "evaluation",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "coding",
+          "evaluation",
           "tutorial"
         ]
       }
@@ -236,15 +237,14 @@
     "recentVideoCount": 8,
     "latestThemes": [
       "agents",
-      "closed models",
       "news",
-      "coding",
-      "tutorial"
+      "tutorial",
+      "closed models",
+      "coding"
     ],
     "dominantFormats": [
       "analysis",
-      "news",
-      "tutorial"
+      "news"
     ],
     "relatedChannels": [
       {
@@ -252,8 +252,18 @@
         "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
-          "closed models",
           "news",
+          "tutorial",
+          "closed models"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "tutorial",
+          "closed models",
           "coding"
         ]
       },
@@ -262,18 +272,8 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "closed models",
           "news",
-          "coding"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
           "closed models",
-          "news",
           "coding"
         ]
       }
@@ -305,16 +305,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "automation",
-          "prompting",
-          "rag"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -332,6 +322,16 @@
           "automation",
           "rag",
           "closed models"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "automation",
+          "prompting",
+          "rag"
         ]
       }
     ]
