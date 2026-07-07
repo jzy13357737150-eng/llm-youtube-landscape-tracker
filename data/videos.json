@@ -5,7 +5,7 @@
     "channelSlug": "matt-wolfe",
     "channelName": "Matt Wolfe",
     "channelCategory": "creator-news",
-    "title": "I Built A Social Media Factory With AI",
+    "title": "Building An Automated Video Production Factory",
     "url": "https://www.youtube.com/shorts/1CAy_mB6E-g",
     "thumbnailUrl": "https://i2.ytimg.com/vi/1CAy_mB6E-g/hqdefault.jpg",
     "publishedAt": "2026-07-06T17:48:05+00:00",
@@ -317,17 +317,14 @@
     "channelSlug": "matt-wolfe",
     "channelName": "Matt Wolfe",
     "channelCategory": "creator-news",
-    "title": "I Prompted Gary Busey with Every AI Model Ever!",
+    "title": "I Built a Time Machine for AI Models",
     "url": "https://www.youtube.com/shorts/hUH4HD6Ah9c",
     "thumbnailUrl": "https://i1.ytimg.com/vi/hUH4HD6Ah9c/hqdefault.jpg",
     "publishedAt": "2026-07-04T03:21:50+00:00",
     "speaker": "Matt Wolfe",
-    "guests": [
-      "Every AI Model Ever"
-    ],
+    "guests": [],
     "primaryTopics": [
       "agents",
-      "prompting",
       "evaluation",
       "news"
     ],
@@ -347,7 +344,6 @@
         "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "prompting",
           "evaluation",
           "news"
         ]
@@ -357,18 +353,16 @@
         "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
-          "prompting",
           "evaluation",
           "news"
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "prompting",
-          "news"
+          "evaluation"
         ]
       }
     ]
