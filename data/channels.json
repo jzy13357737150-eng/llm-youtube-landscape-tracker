@@ -76,8 +76,8 @@
     ],
     "dominantFormats": [
       "analysis",
-      "benchmark",
-      "tutorial"
+      "tutorial",
+      "benchmark"
     ],
     "relatedChannels": [
       {
@@ -157,13 +157,13 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
+          "open-source models",
           "agents",
           "tutorial",
-          "coding",
-          "news"
+          "coding"
         ]
       }
     ]
@@ -202,18 +202,18 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
+          "enterprise ai",
           "rag",
-          "news",
           "closed models"
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "rag",
