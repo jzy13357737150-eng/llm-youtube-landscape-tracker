@@ -238,9 +238,9 @@
     "latestThemes": [
       "agents",
       "news",
-      "tutorial",
+      "closed models",
       "coding",
-      "closed models"
+      "tutorial"
     ],
     "dominantFormats": [
       "analysis",
@@ -249,12 +249,12 @@
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "news",
-          "tutorial",
+          "closed models",
           "coding"
         ]
       },
@@ -264,18 +264,18 @@
         "overlapTopics": [
           "agents",
           "news",
-          "tutorial",
+          "closed models",
           "coding"
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
-          "tutorial",
-          "coding",
-          "closed models"
+          "news",
+          "closed models",
+          "coding"
         ]
       }
     ]
@@ -306,22 +306,22 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "automation",
-          "rag",
-          "closed models"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "automation",
           "prompting",
+          "closed models"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "automation",
+          "rag",
           "closed models"
         ]
       },
