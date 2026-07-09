@@ -1,5 +1,133 @@
 [
   {
+    "id": "Zq5Yj8yCiqY",
+    "videoId": "Zq5Yj8yCiqY",
+    "channelSlug": "matt-wolfe",
+    "channelName": "Matt Wolfe",
+    "channelCategory": "creator-news",
+    "title": "Anyone Can Make Insane Visual Effects Now!",
+    "url": "https://www.youtube.com/watch?v=Zq5Yj8yCiqY",
+    "thumbnailUrl": "https://i3.ytimg.com/vi/Zq5Yj8yCiqY/hqdefault.jpg",
+    "publishedAt": "2026-07-08T20:28:53+00:00",
+    "speaker": "Matt Wolfe",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "closed models",
+      "coding",
+      "tutorial",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "gemini"
+    ],
+    "summary": "How to add AI visual effects to your videos without making everything look AI-generated. Every Friday, my news videos start with some wild AI intro and it's the thing I get asked about the most.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "closed models",
+          "coding",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "closed models",
+          "coding",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "closed models",
+          "coding",
+          "tutorial"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "_iGxqQ2J2hc",
+    "videoId": "_iGxqQ2J2hc",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "NemoClaw + dcode: A governed blueprint for AI coding agents",
+    "url": "https://www.youtube.com/watch?v=_iGxqQ2J2hc",
+    "thumbnailUrl": "https://i4.ytimg.com/vi/_iGxqQ2J2hc/hqdefault.jpg",
+    "publishedAt": "2026-07-08T19:22:49+00:00",
+    "speaker": "LangChain",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "evaluation",
+      "coding",
+      "automation"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "langchain"
+    ],
+    "summary": "In this demo, we run dcode (LangChain's Deep Agents Code) inside a NemoClaw-managed OpenShell sandbox, with Nemotron 3 Ultra served through Baseten for inference. We walk through onboarding, provisioning the sandbox, handing dcode a failing test to fix, and then inspecting the sandbox's policy and logs to see how...",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "automation"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "coding"
+        ]
+      }
+    ]
+  },
+  {
     "id": "MxgUMBGeF14",
     "videoId": "MxgUMBGeF14",
     "channelSlug": "langchain",
@@ -235,7 +363,7 @@
           "agents",
           "rag",
           "closed models",
-          "enterprise ai"
+          "news"
         ]
       },
       {
@@ -301,8 +429,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "open-source models",
@@ -311,8 +439,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "open-source models",
@@ -545,8 +673,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "enterprise ai",
-          "tutorial"
+          "tutorial",
+          "news"
         ]
       },
       {
@@ -737,7 +865,7 @@
           "agents",
           "rag",
           "coding",
-          "enterprise ai"
+          "news"
         ]
       },
       {
@@ -860,7 +988,6 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "enterprise ai",
           "news"
         ]
       },
@@ -1126,8 +1253,7 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "closed models",
-          "enterprise ai"
+          "closed models"
         ]
       },
       {
@@ -1246,7 +1372,6 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "enterprise ai",
           "news"
         ]
       },
@@ -1468,71 +1593,6 @@
     ]
   },
   {
-    "id": "5_LLMZfKI6w",
-    "videoId": "5_LLMZfKI6w",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "How to use RLMs in Deep Agents",
-    "url": "https://www.youtube.com/watch?v=5_LLMZfKI6w",
-    "thumbnailUrl": "https://i2.ytimg.com/vi/5_LLMZfKI6w/hqdefault.jpg",
-    "publishedAt": "2026-07-01T15:57:26+00:00",
-    "speaker": "LangChain",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "evaluation",
-      "coding",
-      "automation",
-      "tutorial"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "langchain"
-    ],
-    "summary": "Sydney Runkle, an open source engineer at LangChain walks through Recursive Language Models (RLMs), a pattern where a model can call itself, and shows how deep agents uses them to tackle large-scale data tasks that break standard agents. She demos the full RLM workflow using dcode, LangChain's terminal coding...",
-    "stance": "tutorial",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "coding"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding",
-          "automation"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "coding"
-        ]
-      }
-    ]
-  },
-  {
     "id": "UHPzp8aOVwM",
     "videoId": "UHPzp8aOVwM",
     "channelSlug": "the-ai-advantage",
@@ -1595,70 +1655,6 @@
     ]
   },
   {
-    "id": "Qt0oRFQm_3U",
-    "videoId": "Qt0oRFQm_3U",
-    "channelSlug": "matt-wolfe",
-    "channelName": "Matt Wolfe",
-    "channelCategory": "creator-news",
-    "title": "The Truth About Anthropic's Valuation",
-    "url": "https://www.youtube.com/shorts/Qt0oRFQm_3U",
-    "thumbnailUrl": "https://i2.ytimg.com/vi/Qt0oRFQm_3U/hqdefault.jpg",
-    "publishedAt": "2026-07-01T12:42:32+00:00",
-    "speaker": "Matt Wolfe",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "closed models",
-      "enterprise ai",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "chatgpt",
-      "claude",
-      "openai",
-      "anthropic"
-    ],
-    "summary": "The market seems to think Anthropic just won the AI war against OpenAI. But what's the real story?",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "error",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
-    "relatedChannels": [
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "enterprise ai",
-          "news"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "enterprise ai"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "news"
-        ]
-      }
-    ]
-  },
-  {
     "id": "RYUR9BdDgyI",
     "videoId": "RYUR9BdDgyI",
     "channelSlug": "ibm-technology",
@@ -1700,8 +1696,7 @@
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
-          "enterprise ai"
+          "rag"
         ]
       },
       {
@@ -1751,7 +1746,7 @@
           "agents",
           "rag",
           "coding",
-          "enterprise ai"
+          "news"
         ]
       },
       {
@@ -1814,16 +1809,16 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "open-source models",
           "tutorial"
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "open-source models",
           "tutorial"
@@ -2003,8 +1998,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "open-source models",
@@ -2013,8 +2008,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "open-source models",
@@ -2186,15 +2181,15 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "open-source models"
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "open-source models"
         ]
@@ -2291,12 +2286,12 @@
     ],
     "summary": "Want to save time, get more leverage, and stop figuring this AI stuff out from scratch? I put the clearest map and support inside the AI Advantage Club: https://joinaiaclub.com/igor OpenAI added some new features to ChatGPT that can help you in your job search.",
     "stance": "tutorial",
-    "transcriptSource": "youtube-captions",
-    "transcriptStatus": "missing",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Transcript unavailable.",
+    "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
         "slug": "matt-wolfe",
@@ -2669,8 +2664,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "evaluation",
           "coding",
@@ -2678,8 +2673,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "evaluation",
           "coding",
@@ -2925,16 +2920,16 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "coding",
           "tutorial"
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "coding",
           "tutorial"
@@ -2979,16 +2974,16 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "coding",
           "tutorial"
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "coding",
           "tutorial"
