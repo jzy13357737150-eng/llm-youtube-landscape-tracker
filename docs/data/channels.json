@@ -77,8 +77,8 @@
     ],
     "dominantFormats": [
       "analysis",
-      "benchmark",
-      "tutorial"
+      "tutorial",
+      "benchmark"
     ],
     "relatedChannels": [
       {
@@ -92,21 +92,21 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "evaluation",
           "rag",
-          "coding"
+          "coding",
+          "tutorial"
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
-          "evaluation",
+          "rag",
           "coding",
           "tutorial"
         ]
@@ -199,7 +199,7 @@
           "agents",
           "enterprise ai",
           "rag",
-          "closed models"
+          "news"
         ]
       },
       {
@@ -245,10 +245,20 @@
     ],
     "dominantFormats": [
       "analysis",
-      "news",
-      "benchmark"
+      "benchmark",
+      "news"
     ],
     "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "news",
+          "coding",
+          "tutorial"
+        ]
+      },
       {
         "slug": "hugging-face",
         "name": "Hugging Face",
@@ -262,16 +272,6 @@
       {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "news",
-          "coding",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "news",
