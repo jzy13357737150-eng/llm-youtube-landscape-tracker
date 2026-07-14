@@ -72,8 +72,8 @@
       "agents",
       "evaluation",
       "rag",
-      "tutorial",
-      "coding"
+      "coding",
+      "tutorial"
     ],
     "dominantFormats": [
       "analysis",
@@ -87,7 +87,7 @@
           "agents",
           "evaluation",
           "rag",
-          "tutorial"
+          "coding"
         ]
       },
       {
@@ -97,7 +97,7 @@
           "agents",
           "evaluation",
           "rag",
-          "tutorial"
+          "coding"
         ]
       },
       {
@@ -106,8 +106,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "tutorial",
-          "coding"
+          "coding",
+          "tutorial"
         ]
       }
     ]
@@ -193,18 +193,18 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "enterprise ai",
           "rag",
-          "news"
+          "news",
+          "tutorial"
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
@@ -240,13 +240,13 @@
       "agents",
       "news",
       "tutorial",
-      "closed models",
-      "coding"
+      "coding",
+      "prompting"
     ],
     "dominantFormats": [
       "analysis",
-      "news",
-      "tutorial"
+      "tutorial",
+      "news"
     ],
     "relatedChannels": [
       {
@@ -256,7 +256,7 @@
           "agents",
           "news",
           "tutorial",
-          "closed models"
+          "coding"
         ]
       },
       {
@@ -266,7 +266,7 @@
           "agents",
           "news",
           "tutorial",
-          "closed models"
+          "coding"
         ]
       },
       {
@@ -276,7 +276,7 @@
           "agents",
           "news",
           "tutorial",
-          "closed models"
+          "coding"
         ]
       }
     ]
@@ -307,8 +307,8 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -317,8 +317,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "prompting",
