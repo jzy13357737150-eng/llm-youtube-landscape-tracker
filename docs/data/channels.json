@@ -45,12 +45,13 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
+          "reasoning",
           "coding",
-          "tutorial",
-          "prompting"
+          "evaluation",
+          "tutorial"
         ]
       }
     ]
@@ -159,10 +160,10 @@
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
-          "open-source models",
           "tutorial",
           "agents",
-          "coding"
+          "coding",
+          "news"
         ]
       }
     ]
@@ -306,8 +307,8 @@
     ],
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -316,8 +317,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "prompting",
