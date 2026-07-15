@@ -50,8 +50,7 @@
         "overlapTopics": [
           "coding",
           "evaluation",
-          "tutorial",
-          "prompting"
+          "tutorial"
         ]
       }
     ]
@@ -101,11 +100,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "rag",
+          "evaluation",
           "tutorial",
           "coding"
         ]
@@ -127,9 +126,9 @@
     "latestThemes": [
       "fine-tuning",
       "open-source models",
-      "tutorial",
       "agents",
-      "coding"
+      "coding",
+      "tutorial"
     ],
     "dominantFormats": [
       "analysis",
@@ -142,8 +141,8 @@
         "overlapTopics": [
           "fine-tuning",
           "open-source models",
-          "tutorial",
-          "agents"
+          "agents",
+          "coding"
         ]
       },
       {
@@ -151,9 +150,9 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "open-source models",
-          "tutorial",
           "agents",
-          "coding"
+          "coding",
+          "tutorial"
         ]
       },
       {
@@ -161,9 +160,9 @@
         "name": "Matt Wolfe",
         "overlapTopics": [
           "open-source models",
-          "tutorial",
           "agents",
-          "coding"
+          "coding",
+          "tutorial"
         ]
       }
     ]
@@ -197,9 +196,9 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
+          "enterprise ai",
           "rag",
-          "news",
-          "tutorial"
+          "news"
         ]
       },
       {
@@ -250,8 +249,8 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "news",
@@ -270,8 +269,8 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "news",
@@ -327,8 +326,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "prompting",
