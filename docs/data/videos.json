@@ -1,5 +1,69 @@
 [
   {
+    "id": "EOK_haQSMIA",
+    "videoId": "EOK_haQSMIA",
+    "channelSlug": "hugging-face",
+    "channelName": "Hugging Face",
+    "channelCategory": "developer-tools",
+    "title": "New Model: Inkling by Thinking Machine on Hugging Face",
+    "url": "https://www.youtube.com/watch?v=EOK_haQSMIA",
+    "thumbnailUrl": "https://i2.ytimg.com/vi/EOK_haQSMIA/hqdefault.jpg",
+    "publishedAt": "2026-07-16T07:07:24+00:00",
+    "speaker": "Hugging Face",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "reasoning",
+      "prompting",
+      "fine-tuning",
+      "evaluation",
+      "open-source models"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "llama"
+    ],
+    "summary": "Inkling by Thinking Machines is here, a 1 TRILLION parameter open model that natively understands images, text, AND audio, with a 1M token context window. In this video, we break down the architecture, show you how to run it, and share our vibe-eval results.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "reasoning",
+          "prompting",
+          "fine-tuning"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "reasoning",
+          "evaluation",
+          "open-source models"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "open-source models"
+        ]
+      }
+    ]
+  },
+  {
     "id": "MDy_b9F7oUc",
     "videoId": "MDy_b9F7oUc",
     "channelSlug": "matt-wolfe",
@@ -67,70 +131,6 @@
     ]
   },
   {
-    "id": "EOK_haQSMIA",
-    "videoId": "EOK_haQSMIA",
-    "channelSlug": "hugging-face",
-    "channelName": "Hugging Face",
-    "channelCategory": "developer-tools",
-    "title": "New Model: Inkling by Thinking Machine on Hugging Face",
-    "url": "https://www.youtube.com/watch?v=EOK_haQSMIA",
-    "thumbnailUrl": "https://i2.ytimg.com/vi/EOK_haQSMIA/hqdefault.jpg",
-    "publishedAt": "2026-07-15T18:02:16+00:00",
-    "speaker": "Hugging Face",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "reasoning",
-      "prompting",
-      "fine-tuning",
-      "evaluation",
-      "open-source models"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "llama"
-    ],
-    "summary": "Inkling by Thinking Machines is here, a 1 TRILLION parameter open model that natively understands images, text, AND audio, with a 1M token context window. In this video, we break down the architecture, show you how to run it, and share our vibe-eval results.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "reasoning",
-          "prompting",
-          "fine-tuning"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "reasoning",
-          "evaluation",
-          "open-source models"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "open-source models"
-        ]
-      }
-    ]
-  },
-  {
     "id": "Z4DoEXhrPC8",
     "videoId": "Z4DoEXhrPC8",
     "channelSlug": "langchain",
@@ -185,11 +185,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "rag",
+          "evaluation",
           "coding",
           "tutorial"
         ]
@@ -247,11 +247,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "rag"
+          "evaluation"
         ]
       }
     ]
@@ -370,11 +370,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "rag",
+          "evaluation",
           "tutorial"
         ]
       }
@@ -495,11 +495,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "rag",
+          "evaluation",
           "closed models",
           "coding"
         ]
@@ -558,11 +558,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "rag",
+          "evaluation",
           "coding"
         ]
       }
@@ -619,11 +619,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "rag",
+          "reasoning",
           "news"
         ]
       }
@@ -745,11 +745,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "rag",
+          "evaluation",
           "tutorial",
           "news"
         ]
@@ -808,11 +808,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "rag",
+          "evaluation",
           "coding",
           "tutorial"
         ]
@@ -1184,11 +1184,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "rag",
+          "evaluation",
           "tutorial"
         ]
       }
@@ -1380,11 +1380,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "rag",
+          "evaluation",
           "tutorial",
           "news"
         ]
@@ -2560,20 +2560,20 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "closed models",
-          "voice ai",
-          "coding"
-        ]
-      },
-      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
           "reasoning",
           "closed models",
+          "coding"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "closed models",
+          "voice ai",
           "coding"
         ]
       },
@@ -2752,16 +2752,6 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "prompting",
-          "open-source models",
-          "closed models",
-          "voice ai"
-        ]
-      },
-      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -2769,6 +2759,16 @@
           "prompting",
           "open-source models",
           "closed models"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "prompting",
+          "open-source models",
+          "closed models",
+          "voice ai"
         ]
       },
       {
