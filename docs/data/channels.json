@@ -35,8 +35,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "reasoning",
           "coding",
@@ -45,12 +45,13 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
+          "reasoning",
           "coding",
-          "tutorial",
-          "prompting"
+          "evaluation",
+          "tutorial"
         ]
       }
     ]
@@ -71,12 +72,11 @@
       "agents",
       "evaluation",
       "rag",
-      "tutorial",
-      "coding"
+      "coding",
+      "tutorial"
     ],
     "dominantFormats": [
-      "analysis",
-      "tutorial"
+      "analysis"
     ],
     "relatedChannels": [
       {
@@ -86,7 +86,7 @@
           "agents",
           "evaluation",
           "rag",
-          "tutorial"
+          "coding"
         ]
       },
       {
@@ -96,17 +96,17 @@
           "agents",
           "evaluation",
           "rag",
-          "tutorial"
+          "coding"
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "evaluation",
-          "tutorial",
-          "coding"
+          "rag",
+          "coding",
+          "tutorial"
         ]
       }
     ]
@@ -146,8 +146,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "open-source models",
           "agents",
@@ -156,8 +156,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "open-source models",
           "agents",
@@ -238,9 +238,9 @@
     "latestThemes": [
       "agents",
       "news",
+      "prompting",
       "tutorial",
-      "coding",
-      "prompting"
+      "coding"
     ],
     "dominantFormats": [
       "analysis",
@@ -254,8 +254,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "tutorial",
-          "coding"
+          "prompting",
+          "tutorial"
         ]
       },
       {
@@ -264,8 +264,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "tutorial",
-          "coding"
+          "prompting",
+          "tutorial"
         ]
       },
       {
@@ -274,8 +274,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "tutorial",
-          "coding"
+          "prompting",
+          "tutorial"
         ]
       }
     ]
