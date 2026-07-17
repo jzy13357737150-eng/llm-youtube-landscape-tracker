@@ -35,8 +35,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "reasoning",
           "coding",
@@ -45,8 +45,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "reasoning",
           "coding",
@@ -181,8 +181,8 @@
     "recentVideoCount": 8,
     "latestThemes": [
       "agents",
-      "enterprise ai",
       "rag",
+      "enterprise ai",
       "news",
       "tutorial"
     ],
@@ -196,8 +196,8 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "enterprise ai",
           "rag",
+          "enterprise ai",
           "news"
         ]
       },
@@ -249,6 +249,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "news",
+          "prompting",
+          "tutorial"
+        ]
+      },
+      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -261,16 +271,6 @@
       {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "news",
-          "prompting",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "news",
@@ -320,9 +320,9 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
+          "prompting",
           "rag",
-          "automation",
-          "closed models"
+          "automation"
         ]
       },
       {
