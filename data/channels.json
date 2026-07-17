@@ -35,8 +35,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "reasoning",
           "coding",
@@ -45,8 +45,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "reasoning",
           "coding",
@@ -90,8 +90,8 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "evaluation",
@@ -100,13 +100,13 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
+          "evaluation",
           "rag",
-          "coding",
-          "tutorial"
+          "coding"
         ]
       }
     ]
@@ -156,8 +156,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "open-source models",
           "agents",
@@ -192,16 +192,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -214,6 +204,16 @@
       {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "news",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "rag",
@@ -238,8 +238,8 @@
     "latestThemes": [
       "agents",
       "news",
-      "prompting",
       "tutorial",
+      "closed models",
       "coding"
     ],
     "dominantFormats": [
@@ -254,8 +254,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "prompting",
-          "tutorial"
+          "tutorial",
+          "closed models"
         ]
       },
       {
@@ -264,8 +264,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "prompting",
-          "tutorial"
+          "tutorial",
+          "closed models"
         ]
       },
       {
@@ -274,8 +274,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "prompting",
-          "tutorial"
+          "tutorial",
+          "closed models"
         ]
       }
     ]
@@ -306,8 +306,8 @@
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -316,8 +316,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -330,9 +330,9 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
+          "prompting",
           "rag",
-          "automation",
-          "closed models"
+          "automation"
         ]
       }
     ]
