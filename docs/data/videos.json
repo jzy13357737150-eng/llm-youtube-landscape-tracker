@@ -1,5 +1,69 @@
 [
   {
+    "id": "MpVX4fMXv0A",
+    "videoId": "MpVX4fMXv0A",
+    "channelSlug": "the-ai-advantage",
+    "channelName": "The AI Advantage",
+    "channelCategory": "education",
+    "title": "ChatGPT Work: Everything You Need to Know to Get Started!",
+    "url": "https://www.youtube.com/watch?v=MpVX4fMXv0A",
+    "thumbnailUrl": "https://i2.ytimg.com/vi/MpVX4fMXv0A/hqdefault.jpg",
+    "publishedAt": "2026-07-18T14:00:19+00:00",
+    "speaker": "The AI Advantage",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "prompting",
+      "coding",
+      "automation",
+      "tutorial"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "chatgpt"
+    ],
+    "summary": "This video takes you from \"why does my ChatGPT look different??\" to \"Oh my gosh this is the best update ever and I can't wait to start using it!\". In it, Igor breaks down the new ChatGPT Work and gives you a quick-start tutorial on how to use it.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "coding",
+          "automation"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "coding",
+          "automation"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "coding",
+          "automation"
+        ]
+      }
+    ]
+  },
+  {
     "id": "Nq3S_vNjw5E",
     "videoId": "Nq3S_vNjw5E",
     "channelSlug": "the-ai-advantage",
@@ -791,45 +855,46 @@
     "guests": [],
     "primaryTopics": [
       "agents",
+      "rag",
       "prompting",
+      "evaluation",
       "closed models",
-      "voice ai",
-      "coding",
-      "tutorial"
+      "voice ai"
     ],
     "secondaryTopics": [],
     "modelsMentioned": [
       "gpt-5",
       "chatgpt",
-      "openai"
+      "openai",
+      "anthropic"
     ],
-    "summary": "Here's your complete guide to the new ChatGPT app - Download it free here: https://chatgpt.com/download/?utm_source=creator&utm_campaign=youtube&utm_content=partnership-mattwolfe The complete guide to ChatGPT 5.6 and the new ChatGPT app, from someone who used 6.8 billion tokens on it in the last two weeks. OpenAI...",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "summary": "In this video, I'm going to share with you the ultimate guide to Chat GPT 5.6 and the updated Chat GPT app that combines [music] all of OpenAI's offerings into one place. I'm going to walk you through the features, the how-to, and then get into some detailed prompts of some of the crazy things you can do with this...",
+    "stance": "interview",
+    "transcriptSource": "youtube-captions",
+    "transcriptStatus": "ok",
+    "transcriptSnippet": "In this video, I'm going to share with you the ultimate guide to Chat GPT 5.6 and the updated Chat GPT app that combines [music] all of OpenAI's offerings into one place. I'm going to walk you through the features, the how-to, and then get into some detailed prompts of some of the crazy things you can do with this...",
+    "summarySource": "heuristic-transcript",
+    "processingStatus": "ok",
+    "notes": "",
     "relatedChannels": [
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "closed models",
-          "voice ai"
-        ]
-      },
       {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
+          "rag",
           "prompting",
-          "closed models",
-          "voice ai"
+          "evaluation"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "closed models"
         ]
       },
       {
@@ -837,9 +902,9 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
+          "rag",
           "prompting",
-          "closed models",
-          "coding"
+          "evaluation"
         ]
       }
     ]
@@ -2357,71 +2422,6 @@
       {
         "slug": "ibm-technology",
         "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "automation"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "bruDxPBMN7I",
-    "videoId": "bruDxPBMN7I",
-    "channelSlug": "the-ai-advantage",
-    "channelName": "The AI Advantage",
-    "channelCategory": "education",
-    "title": "10 Ways to 10x Your Claude Usage",
-    "url": "https://www.youtube.com/watch?v=bruDxPBMN7I",
-    "thumbnailUrl": "https://i3.ytimg.com/vi/bruDxPBMN7I/hqdefault.jpg",
-    "publishedAt": "2026-06-24T18:33:06+00:00",
-    "speaker": "The AI Advantage",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "prompting",
-      "closed models",
-      "automation",
-      "tutorial"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "claude"
-    ],
-    "summary": "Want to save time, get more leverage, and stop figuring this AI stuff out from scratch? I put the clearest map and support inside the AI Advantage Club: https://joinaiaclub.com/igor In this video, Igor teaches you how to get the most out of your Claude subscription.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "closed models"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "closed models"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
