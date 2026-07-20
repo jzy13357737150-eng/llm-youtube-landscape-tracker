@@ -35,8 +35,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "reasoning",
           "coding",
@@ -45,8 +45,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "reasoning",
           "coding",
@@ -101,13 +101,13 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
-          "evaluation",
           "rag",
-          "coding"
+          "coding",
+          "tutorial"
         ]
       }
     ]
@@ -127,8 +127,8 @@
     "latestThemes": [
       "fine-tuning",
       "open-source models",
-      "tutorial",
       "agents",
+      "tutorial",
       "coding"
     ],
     "dominantFormats": [
@@ -142,8 +142,18 @@
         "overlapTopics": [
           "fine-tuning",
           "open-source models",
+          "agents",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "open-source models",
+          "agents",
           "tutorial",
-          "agents"
+          "coding"
         ]
       },
       {
@@ -151,18 +161,8 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "open-source models",
-          "tutorial",
           "agents",
-          "coding"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "open-source models",
           "tutorial",
-          "agents",
           "coding"
         ]
       }
@@ -185,7 +185,7 @@
       "rag",
       "enterprise ai",
       "news",
-      "closed models"
+      "evaluation"
     ],
     "dominantFormats": [
       "analysis",
@@ -193,13 +193,23 @@
     ],
     "relatedChannels": [
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai",
+          "evaluation"
+        ]
+      },
+      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "rag",
           "news",
-          "closed models"
+          "evaluation"
         ]
       },
       {
@@ -209,16 +219,6 @@
           "agents",
           "rag",
           "news",
-          "closed models"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "news",
-          "closed models",
           "evaluation"
         ]
       }
@@ -250,8 +250,8 @@
     ],
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "news",
@@ -260,8 +260,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "news",
@@ -306,8 +306,8 @@
     ],
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -321,13 +321,13 @@
         "overlapTopics": [
           "agents",
           "prompting",
-          "rag",
-          "closed models"
+          "automation",
+          "rag"
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "prompting",
