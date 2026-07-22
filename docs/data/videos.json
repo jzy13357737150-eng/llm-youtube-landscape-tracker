@@ -1,11 +1,77 @@
 [
   {
+    "id": "g4CNcUAqM4Q",
+    "videoId": "g4CNcUAqM4Q",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "GPT-Red: Can AI read teams stop prompt injections?",
+    "url": "https://www.youtube.com/watch?v=g4CNcUAqM4Q",
+    "thumbnailUrl": "https://i4.ytimg.com/vi/g4CNcUAqM4Q/hqdefault.jpg",
+    "publishedAt": "2026-07-22T10:00:36+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "prompting",
+      "open-source models",
+      "closed models",
+      "enterprise ai"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "gpt-5",
+      "openai"
+    ],
+    "summary": "Explore the podcast→ https://ibm.biz/~eYVvjNfA0 Cybersecurity researchers have had a heck of a time trying to stop prompt injections. Maybe we should just let the AI handle the problem itself.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "closed models"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "open-source models"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "open-source models"
+        ]
+      }
+    ]
+  },
+  {
     "id": "90k2HRT8Ito",
     "videoId": "90k2HRT8Ito",
     "channelSlug": "hugging-face",
     "channelName": "Hugging Face",
     "channelCategory": "developer-tools",
-    "title": "Local AI 201",
+    "title": "Local AI 201: Inference Engines, Hardware Stack",
     "url": "https://www.youtube.com/watch?v=90k2HRT8Ito",
     "thumbnailUrl": "https://i2.ytimg.com/vi/90k2HRT8Ito/hqdefault.jpg",
     "publishedAt": "2026-07-21T17:05:30+00:00",
@@ -17,7 +83,7 @@
     ],
     "secondaryTopics": [],
     "modelsMentioned": [],
-    "summary": "Local AI 201",
+    "summary": "- Link to Introduction to Local AI (101) https://www.youtube.com/watch?v=wRcByxXkJCQ - ODS https://github.com/osmantic/ods - Inference Engines blog series http://thelocalaibook.osmantic.com/ Find our speakers below: - https://x.com/TheAhmadOsman - https://x.com/MikeBradleyAI - https://x.com/alexocheema",
     "stance": "analysis",
     "transcriptSource": "none",
     "transcriptStatus": "disabled",
@@ -389,8 +455,8 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -399,8 +465,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -460,8 +526,8 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -469,8 +535,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -768,8 +834,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -778,8 +844,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -835,8 +901,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -845,8 +911,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
@@ -1229,8 +1295,8 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -1239,8 +1305,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -1431,8 +1497,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -1441,8 +1507,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
@@ -1544,6 +1610,16 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "tutorial",
+          "news"
+        ]
+      },
+      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -1556,16 +1632,6 @@
       {
         "slug": "langchain",
         "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "tutorial",
-          "news"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -1672,16 +1738,6 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "open-source models",
-          "coding"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -1692,75 +1748,22 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "prompting",
           "open-source models",
           "coding"
         ]
-      }
-    ]
-  },
-  {
-    "id": "oanQrXEiCy4",
-    "videoId": "oanQrXEiCy4",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "What is an AI Code Generator? LLM Coding, Productivity, & Risk",
-    "url": "https://www.youtube.com/watch?v=oanQrXEiCy4",
-    "thumbnailUrl": "https://i4.ytimg.com/vi/oanQrXEiCy4/hqdefault.jpg",
-    "publishedAt": "2026-07-13T11:00:00+00:00",
-    "speaker": "IBM Technology",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "evaluation",
-      "coding",
-      "enterprise ai",
-      "tutorial"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Learn more about Code Generator here → https://ibm.biz/~LHD1dHK4l AI can write code but can you trust what it generates? Bri Kopecki explains how AI code generators work and why developers are both more productive and more cautious.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "coding"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "coding"
-        ]
       },
       {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
-          "rag",
-          "evaluation",
+          "prompting",
+          "open-source models",
           "coding"
         ]
       }
@@ -1796,8 +1799,8 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -1806,8 +1809,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
@@ -1863,6 +1866,16 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "closed models",
+          "coding"
+        ]
+      },
+      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -1875,16 +1888,6 @@
       {
         "slug": "langchain",
         "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "closed models",
-          "coding"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -1951,8 +1954,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2181,8 +2184,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2191,8 +2194,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2243,8 +2246,8 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2253,8 +2256,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2366,8 +2369,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2376,8 +2379,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2429,8 +2432,8 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2439,8 +2442,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2562,8 +2565,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "reasoning",
           "closed models",
@@ -2571,8 +2574,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "reasoning",
           "closed models",
@@ -2626,8 +2629,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "reasoning",
           "fine-tuning",
@@ -2636,8 +2639,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "reasoning",
           "fine-tuning",
@@ -2688,8 +2691,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "reasoning",
           "evaluation",
@@ -2698,8 +2701,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "reasoning",
           "evaluation",
@@ -2754,8 +2757,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "reasoning",
           "prompting",
@@ -2764,8 +2767,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "reasoning",
           "prompting",
@@ -2949,8 +2952,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "reasoning",
           "coding",
@@ -2958,8 +2961,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "reasoning",
           "coding",
