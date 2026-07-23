@@ -38,10 +38,10 @@
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
-          "reasoning",
           "coding",
           "evaluation",
-          "tutorial"
+          "tutorial",
+          "fine-tuning"
         ]
       },
       {
@@ -73,7 +73,7 @@
       "evaluation",
       "rag",
       "coding",
-      "automation"
+      "tutorial"
     ],
     "dominantFormats": [
       "analysis",
@@ -107,7 +107,7 @@
           "agents",
           "rag",
           "coding",
-          "automation"
+          "tutorial"
         ]
       }
     ]
@@ -182,10 +182,10 @@
     "recentVideoCount": 8,
     "latestThemes": [
       "agents",
-      "rag",
       "enterprise ai",
+      "rag",
       "news",
-      "closed models"
+      "tutorial"
     ],
     "dominantFormats": [
       "analysis"
@@ -196,9 +196,9 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
+          "enterprise ai",
           "rag",
-          "news",
-          "closed models"
+          "news"
         ]
       },
       {
@@ -208,7 +208,7 @@
           "agents",
           "rag",
           "news",
-          "closed models"
+          "tutorial"
         ]
       },
       {
@@ -217,7 +217,7 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "closed models",
+          "tutorial",
           "automation"
         ]
       }
