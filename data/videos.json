@@ -1,5 +1,137 @@
 [
   {
+    "id": "lXZb21CfeIY",
+    "videoId": "lXZb21CfeIY",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "How Bridgewater Built Pat, The AI Pocket Analyst Tool | Interrupt 26",
+    "url": "https://www.youtube.com/watch?v=lXZb21CfeIY",
+    "thumbnailUrl": "https://i1.ytimg.com/vi/lXZb21CfeIY/hqdefault.jpg",
+    "publishedAt": "2026-07-24T12:52:17+00:00",
+    "speaker": "LangChain",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "evaluation",
+      "coding",
+      "enterprise ai",
+      "automation"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "langchain"
+    ],
+    "summary": "Brendan McManus, Michael Ran, and Santi Weight from Bridgewater Associates' applied AI team walk through PAT, the Pocket Analyst Tool — an internal AI analyst deployed to hundreds of investors that performs hours of deep exploratory research in minutes. Brendan explains how 50 years of written-down investment logic...",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "automation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7eCM7jsfbeA",
+    "videoId": "7eCM7jsfbeA",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "Hugging Face breach: OpenAI’s model breaks containment",
+    "url": "https://www.youtube.com/watch?v=7eCM7jsfbeA",
+    "thumbnailUrl": "https://i4.ytimg.com/vi/7eCM7jsfbeA/hqdefault.jpg",
+    "publishedAt": "2026-07-24T10:00:11+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "open-source models",
+      "closed models",
+      "enterprise ai",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "claude",
+      "gemini",
+      "openai"
+    ],
+    "summary": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~TrulX65PE AI can escape its sandbox, should we be worried? This week on Mixture of Experts, join host Tim Hwang and panelists Olivia Buzek, Kaoutar El Maghraoui, and Ambhi Ganesan.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "open-source models",
+          "closed models"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "open-source models",
+          "closed models"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "closed models",
+          "enterprise ai"
+        ]
+      }
+    ]
+  },
+  {
     "id": "jPPiZ22DY3g",
     "videoId": "jPPiZ22DY3g",
     "channelSlug": "langchain",
@@ -656,11 +788,18 @@
     "guests": [],
     "primaryTopics": [
       "fine-tuning",
-      "open-source models"
+      "evaluation",
+      "open-source models",
+      "closed models",
+      "coding"
     ],
     "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "- Link to Introduction to Local AI (101) https://www.youtube.com/watch?v=wRcByxXkJCQ - ODS https://github.com/osmantic/ods - Inference Engines blog series http://thelocalaibook.osmantic.com/ Find our speakers below: - https://x.com/TheAhmadOsman - https://x.com/MikeBradleyAI - https://x.com/alexocheema",
+    "modelsMentioned": [
+      "gpt-5",
+      "llama",
+      "qwen"
+    ],
+    "summary": "- Link to Introduction to Local AI (101) https://www.youtube.com/watch?v=wRcByxXkJCQ - ODS https://github.com/osmantic/ods - Inference Engines blog series http://thelocalaibook.osmantic.com/ Find our speakers below: - https://x.com/TheAhmadOsman - https://x.com/MikeBradleyAI - https://x.com/alexocheema 00:00...",
     "stance": "analysis",
     "transcriptSource": "none",
     "transcriptStatus": "disabled",
@@ -674,7 +813,9 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "fine-tuning",
-          "open-source models"
+          "evaluation",
+          "open-source models",
+          "closed models"
         ]
       },
       {
@@ -682,73 +823,19 @@
         "name": "Andrej Karpathy",
         "overlapTopics": [
           "fine-tuning",
-          "open-source models"
+          "evaluation",
+          "open-source models",
+          "closed models"
         ]
       },
       {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
-          "open-source models"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "OAW-R20StrM",
-    "videoId": "OAW-R20StrM",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "Why Distillation Might Be Impossible to Stop",
-    "url": "https://www.youtube.com/shorts/OAW-R20StrM",
-    "thumbnailUrl": "https://i4.ytimg.com/vi/OAW-R20StrM/hqdefault.jpg",
-    "publishedAt": "2026-07-21T15:48:11+00:00",
-    "speaker": "LangChain",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "evaluation"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "langchain"
-    ],
-    "summary": "Eno Reyes, CTO of Factory, makes the case that different model architectures trained on the same data are converging toward a shared representation of reality — and that this makes distillation effectively unpreventable. His take: model labs know this, which is part of why regulatory capture is on the table.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "error",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
-    "relatedChannels": [
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation"
+          "evaluation",
+          "open-source models",
+          "closed models",
+          "coding"
         ]
       }
     ]
@@ -1309,8 +1396,8 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "evaluation",
@@ -1644,67 +1731,6 @@
     ]
   },
   {
-    "id": "qXGJ7pi-XOo",
-    "videoId": "qXGJ7pi-XOo",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "GLM-5.2: The real security risk? Plus: Vibe hunting, the end of CVSS and updates on Lightwell",
-    "url": "https://www.youtube.com/watch?v=qXGJ7pi-XOo",
-    "thumbnailUrl": "https://i2.ytimg.com/vi/qXGJ7pi-XOo/hqdefault.jpg",
-    "publishedAt": "2026-07-15T10:00:00+00:00",
-    "speaker": "IBM Technology",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "open-source models",
-      "enterprise ai",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Explore the podcast → https://ibm.biz/~UaTgKXYP5 Z.ai’s GLM-5.2 is, according to some, as good at finding vulnerabilities as Mythos. Or at least, close to it.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "open-source models",
-          "news"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "open-source models",
-          "news"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai"
-        ]
-      }
-    ]
-  },
-  {
     "id": "KzJkS00Ztd8",
     "videoId": "KzJkS00Ztd8",
     "channelSlug": "matt-wolfe",
@@ -1934,8 +1960,8 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -1944,13 +1970,13 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "prompting",
-          "coding",
-          "tutorial"
+          "closed models",
+          "coding"
         ]
       }
     ]
@@ -2557,6 +2583,15 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "reasoning",
+          "closed models",
+          "coding"
+        ]
+      },
+      {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
@@ -2571,14 +2606,6 @@
         "overlapTopics": [
           "closed models",
           "voice ai",
-          "coding"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "closed models",
           "coding"
         ]
       }
@@ -2747,6 +2774,16 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "reasoning",
+          "prompting",
+          "open-source models",
+          "closed models"
+        ]
+      },
+      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -2763,16 +2800,6 @@
           "prompting",
           "open-source models",
           "closed models",
-          "coding"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "reasoning",
-          "prompting",
-          "open-source models",
           "coding"
         ]
       }
