@@ -73,17 +73,16 @@
       "evaluation",
       "rag",
       "tutorial",
-      "coding"
+      "automation"
     ],
     "dominantFormats": [
       "analysis",
-      "tutorial",
-      "interview"
+      "tutorial"
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "evaluation",
@@ -92,8 +91,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "evaluation",
@@ -108,7 +107,7 @@
           "agents",
           "rag",
           "tutorial",
-          "coding"
+          "automation"
         ]
       }
     ]
@@ -193,23 +192,13 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai",
-          "rag",
-          "closed models"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
+          "enterprise ai",
           "rag",
-          "news",
-          "closed models"
+          "news"
         ]
       },
       {
@@ -220,6 +209,16 @@
           "rag",
           "news",
           "closed models"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "enterprise ai",
+          "rag",
+          "tutorial"
         ]
       }
     ]
@@ -239,14 +238,14 @@
     "latestThemes": [
       "agents",
       "prompting",
+      "closed models",
       "news",
-      "tutorial",
-      "closed models"
+      "tutorial"
     ],
     "dominantFormats": [
       "analysis",
-      "interview",
-      "news"
+      "news",
+      "interview"
     ],
     "relatedChannels": [
       {
@@ -255,7 +254,17 @@
         "overlapTopics": [
           "agents",
           "prompting",
-          "news",
+          "closed models",
+          "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "closed models",
           "tutorial"
         ]
       },
@@ -265,18 +274,8 @@
         "overlapTopics": [
           "agents",
           "prompting",
-          "news",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "news",
-          "tutorial"
+          "closed models",
+          "news"
         ]
       }
     ]
@@ -297,8 +296,8 @@
       "agents",
       "prompting",
       "automation",
-      "rag",
-      "closed models"
+      "closed models",
+      "rag"
     ],
     "dominantFormats": [
       "analysis",
@@ -306,33 +305,33 @@
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "automation",
-          "rag"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "prompting",
           "automation",
-          "rag"
+          "closed models"
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
+          "prompting",
           "automation",
-          "rag",
           "closed models"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "closed models",
+          "rag"
         ]
       }
     ]
