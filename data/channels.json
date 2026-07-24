@@ -72,11 +72,12 @@
       "agents",
       "evaluation",
       "rag",
-      "coding",
-      "tutorial"
+      "tutorial",
+      "coding"
     ],
     "dominantFormats": [
       "analysis",
+      "tutorial",
       "interview"
     ],
     "relatedChannels": [
@@ -87,7 +88,7 @@
           "agents",
           "evaluation",
           "rag",
-          "coding"
+          "tutorial"
         ]
       },
       {
@@ -97,7 +98,7 @@
           "agents",
           "evaluation",
           "rag",
-          "coding"
+          "tutorial"
         ]
       },
       {
@@ -106,8 +107,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "coding",
-          "tutorial"
+          "tutorial",
+          "coding"
         ]
       }
     ]
@@ -198,7 +199,7 @@
           "agents",
           "enterprise ai",
           "rag",
-          "news"
+          "tutorial"
         ]
       },
       {
@@ -269,13 +270,13 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
+          "prompting",
           "news",
-          "tutorial",
-          "closed models"
+          "tutorial"
         ]
       }
     ]

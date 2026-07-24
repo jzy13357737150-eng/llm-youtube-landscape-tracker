@@ -1,5 +1,198 @@
 [
   {
+    "id": "jPPiZ22DY3g",
+    "videoId": "jPPiZ22DY3g",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "The Art of Loop Engineering: How to Build Agents That Improve Over Time",
+    "url": "https://www.youtube.com/watch?v=jPPiZ22DY3g",
+    "thumbnailUrl": "https://i3.ytimg.com/vi/jPPiZ22DY3g/hqdefault.jpg",
+    "publishedAt": "2026-07-23T22:47:08+00:00",
+    "speaker": "LangChain",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "evaluation",
+      "tutorial"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "langchain"
+    ],
+    "summary": "Agents are useful because they can take action, but getting them to do valuable work reliably takes more than giving a model access to tools. Production-ready agents need the right loops around them: loops that help them complete tasks, verify their work, respond to real-world events, and improve over time.",
+    "stance": "tutorial",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "tutorial"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "DHTnxP6oUIk",
+    "videoId": "DHTnxP6oUIk",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "Build a secure computer for your agent",
+    "url": "https://www.youtube.com/watch?v=DHTnxP6oUIk",
+    "thumbnailUrl": "https://i1.ytimg.com/vi/DHTnxP6oUIk/hqdefault.jpg",
+    "publishedAt": "2026-07-23T22:44:09+00:00",
+    "speaker": "LangChain",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "evaluation",
+      "coding",
+      "automation",
+      "tutorial"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Most agents today aren't just calling APIs. They're writing and running code, processing files, browsing the web, iterating across multi-step tasks.",
+    "stance": "tutorial",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "automation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jfyea8LZX-o",
+    "videoId": "jfyea8LZX-o",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "How Salesforce Standardizes Agent Evals with LangSmith",
+    "url": "https://www.youtube.com/watch?v=jfyea8LZX-o",
+    "thumbnailUrl": "https://i3.ytimg.com/vi/jfyea8LZX-o/hqdefault.jpg",
+    "publishedAt": "2026-07-23T18:43:14+00:00",
+    "speaker": "LangChain",
+    "guests": [
+      "LangSmith"
+    ],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "evaluation",
+      "coding",
+      "enterprise ai",
+      "tutorial"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "langchain"
+    ],
+    "summary": "Ben Sklar, Director of Product Management at Salesforce, explains how the team behind Agentforce Vibes, Salesforce's enterprise vibe coding product, moved from teams building their own one-off MCP tools to a shared evaluation standard with LangChain and LangSmith. In this video, Ben walks through how LangSmith lets...",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "coding"
+        ]
+      }
+    ]
+  },
+  {
     "id": "YOIJOfUSYiU",
     "videoId": "YOIJOfUSYiU",
     "channelSlug": "langchain",
@@ -561,71 +754,6 @@
     ]
   },
   {
-    "id": "Ncv5TYdY7Tg",
-    "videoId": "Ncv5TYdY7Tg",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "Trace Every Cursor Agent Turn in LangSmith",
-    "url": "https://www.youtube.com/watch?v=Ncv5TYdY7Tg",
-    "thumbnailUrl": "https://i3.ytimg.com/vi/Ncv5TYdY7Tg/hqdefault.jpg",
-    "publishedAt": "2026-07-21T15:16:53+00:00",
-    "speaker": "LangChain",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "evaluation",
-      "closed models",
-      "coding"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "claude",
-      "langchain"
-    ],
-    "summary": "Amy from the LangChain product team walks through wiring up Cursor so every agent turn lands in LangSmith as a full trace. You'll install the plugin, set three environment variables, and confirm the setup by running a real Cursor agent task end to end.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "closed models"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "closed models"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "closed models"
-        ]
-      }
-    ]
-  },
-  {
     "id": "ZWuFMVmKXrI",
     "videoId": "ZWuFMVmKXrI",
     "channelSlug": "hugging-face",
@@ -673,71 +801,6 @@
         "name": "Matt Wolfe",
         "overlapTopics": [
           "open-source models"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "93I8mEtl_ZU",
-    "videoId": "93I8mEtl_ZU",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "Interrupt 26: The Agent Conference by LangChain",
-    "url": "https://www.youtube.com/watch?v=93I8mEtl_ZU",
-    "thumbnailUrl": "https://i2.ytimg.com/vi/93I8mEtl_ZU/hqdefault.jpg",
-    "publishedAt": "2026-07-21T13:00:12+00:00",
-    "speaker": "LangChain",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "evaluation",
-      "coding",
-      "tutorial",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "langchain"
-    ],
-    "summary": "Interrupt is the conference for engineering and AI leaders, software engineers, ML engineers, and researchers building and deploying agents. Whether you're leading AI initiatives or hands-on with the code, you'll find content designed for your needs, from strategic insights to technical deep dives that will equip...",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "coding"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "coding"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "coding"
         ]
       }
     ]
@@ -924,67 +987,6 @@
           "agents",
           "prompting",
           "news"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "YrQBRoo7uIY",
-    "videoId": "YrQBRoo7uIY",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "LangSmith Sandboxes: A Secure Computer for Your Agent",
-    "url": "https://www.youtube.com/watch?v=YrQBRoo7uIY",
-    "thumbnailUrl": "https://i2.ytimg.com/vi/YrQBRoo7uIY/hqdefault.jpg",
-    "publishedAt": "2026-07-20T14:58:39+00:00",
-    "speaker": "LangChain",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "evaluation",
-      "coding"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Give agents a secure computer. LangSmith Sandboxes are ephemeral, isolated sandboxes designed for agent-generated code.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "coding"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "coding"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "coding"
         ]
       }
     ]
@@ -1472,12 +1474,12 @@
     "modelsMentioned": [],
     "summary": "Learn more about Trustworthy AI here → https://ibm.biz/~4LxgbWosL Most AI systems are built in the wrong order. Phaedra Boinodiris explains why AI risk should shape requirements, architecture, and governance from the very beginning.",
     "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptSource": "youtube-captions",
+    "transcriptStatus": "missing",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript unavailable.",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -1485,8 +1487,7 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "enterprise ai",
-          "news"
+          "enterprise ai"
         ]
       },
       {
@@ -1673,16 +1674,6 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai",
-          "news"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -1700,6 +1691,15 @@
           "rag",
           "open-source models",
           "news"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai"
         ]
       }
     ]
@@ -1858,16 +1858,6 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "tutorial",
-          "news"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -1885,6 +1875,15 @@
           "rag",
           "tutorial",
           "news"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "tutorial"
         ]
       }
     ]
@@ -1945,11 +1944,11 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "closed models",
+          "prompting",
           "coding",
           "tutorial"
         ]
