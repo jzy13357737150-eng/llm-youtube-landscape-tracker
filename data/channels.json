@@ -237,10 +237,10 @@
     "recentVideoCount": 8,
     "latestThemes": [
       "agents",
-      "prompting",
       "closed models",
       "news",
-      "tutorial"
+      "prompting",
+      "automation"
     ],
     "dominantFormats": [
       "analysis",
@@ -253,19 +253,9 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "prompting",
           "closed models",
-          "news"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "closed models",
-          "tutorial"
+          "news",
+          "prompting"
         ]
       },
       {
@@ -273,9 +263,19 @@
         "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "prompting",
           "closed models",
-          "news"
+          "news",
+          "prompting"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "closed models",
+          "news",
+          "prompting"
         ]
       }
     ]
