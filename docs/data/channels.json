@@ -73,7 +73,7 @@
       "evaluation",
       "rag",
       "tutorial",
-      "automation"
+      "coding"
     ],
     "dominantFormats": [
       "analysis",
@@ -202,16 +202,6 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai",
-          "rag",
-          "news"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -219,6 +209,16 @@
           "enterprise ai",
           "rag",
           "automation"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "enterprise ai",
+          "rag",
+          "news"
         ]
       }
     ]
