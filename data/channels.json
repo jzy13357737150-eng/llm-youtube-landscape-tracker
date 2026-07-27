@@ -101,13 +101,13 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
+          "evaluation",
           "rag",
-          "tutorial",
-          "automation"
+          "tutorial"
         ]
       }
     ]
@@ -127,8 +127,8 @@
     "latestThemes": [
       "fine-tuning",
       "open-source models",
-      "agents",
       "coding",
+      "agents",
       "tutorial"
     ],
     "dominantFormats": [
@@ -142,8 +142,8 @@
         "overlapTopics": [
           "fine-tuning",
           "open-source models",
-          "agents",
-          "coding"
+          "coding",
+          "agents"
         ]
       },
       {
@@ -152,8 +152,8 @@
         "overlapTopics": [
           "fine-tuning",
           "open-source models",
-          "agents",
-          "coding"
+          "coding",
+          "agents"
         ]
       },
       {
@@ -161,8 +161,8 @@
         "name": "Matt Wolfe",
         "overlapTopics": [
           "open-source models",
-          "agents",
           "coding",
+          "agents",
           "tutorial"
         ]
       }
@@ -202,6 +202,16 @@
         ]
       },
       {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "enterprise ai",
+          "rag",
+          "news"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -209,16 +219,6 @@
           "enterprise ai",
           "rag",
           "automation"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "automation",
-          "closed models"
         ]
       }
     ]
@@ -325,8 +325,8 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "prompting",
