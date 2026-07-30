@@ -38,15 +38,15 @@
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
+          "reasoning",
           "coding",
           "evaluation",
-          "tutorial",
-          "prompting"
+          "tutorial"
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "coding",
           "tutorial",
@@ -75,8 +75,7 @@
       "coding"
     ],
     "dominantFormats": [
-      "analysis",
-      "tutorial"
+      "analysis"
     ],
     "relatedChannels": [
       {
@@ -90,18 +89,18 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
+          "evaluation",
           "rag",
-          "tutorial",
-          "coding"
+          "tutorial"
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -156,13 +155,13 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
-          "open-source models",
           "coding",
           "agents",
-          "tutorial"
+          "tutorial",
+          "evaluation"
         ]
       }
     ]
@@ -201,16 +200,6 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai",
-          "rag",
-          "open-source models"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -218,6 +207,16 @@
           "enterprise ai",
           "rag",
           "automation"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "enterprise ai",
+          "rag",
+          "open-source models"
         ]
       }
     ]
@@ -237,8 +236,8 @@
     "latestThemes": [
       "agents",
       "news",
-      "automation",
       "closed models",
+      "automation",
       "coding"
     ],
     "dominantFormats": [
@@ -252,8 +251,18 @@
         "overlapTopics": [
           "agents",
           "news",
+          "closed models",
+          "automation"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "closed models",
           "automation",
-          "closed models"
+          "coding"
         ]
       },
       {
@@ -261,18 +270,8 @@
         "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
+          "closed models",
           "automation",
-          "closed models",
-          "coding"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "news",
-          "closed models",
           "coding"
         ]
       }
@@ -294,8 +293,8 @@
       "agents",
       "prompting",
       "automation",
-      "rag",
-      "closed models"
+      "closed models",
+      "rag"
     ],
     "dominantFormats": [
       "analysis",
@@ -303,33 +302,33 @@
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "automation",
-          "rag"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "prompting",
           "automation",
-          "rag"
+          "closed models"
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "prompting",
-          "rag",
+          "automation",
           "closed models"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "automation",
+          "closed models",
+          "rag"
         ]
       }
     ]
