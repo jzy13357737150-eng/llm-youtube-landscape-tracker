@@ -239,7 +239,7 @@
       "news",
       "closed models",
       "tutorial",
-      "automation"
+      "reasoning"
     ],
     "dominantFormats": [
       "analysis",
@@ -248,13 +248,23 @@
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "news",
           "closed models",
-          "automation"
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "closed models",
+          "tutorial",
+          "reasoning"
         ]
       },
       {
@@ -264,17 +274,7 @@
           "agents",
           "closed models",
           "tutorial",
-          "automation"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "tutorial",
-          "enterprise ai"
+          "voice ai"
         ]
       }
     ]
