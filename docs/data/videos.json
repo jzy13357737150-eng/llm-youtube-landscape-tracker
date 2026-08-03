@@ -1954,22 +1954,23 @@
       "rag",
       "prompting",
       "closed models",
-      "automation",
-      "tutorial"
+      "voice ai",
+      "coding"
     ],
     "secondaryTopics": [],
     "modelsMentioned": [
       "chatgpt",
-      "claude"
+      "claude",
+      "openai"
     ],
-    "summary": "In this video, Igor showcases Claude's new ability to watch you do a task on your computer and repeat that task in the future. Give it a watch to learn how to delegate tasks to an AI agent without ever typing a prompt!",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "summary": "Ooh. So, this week we got a feature that is going to make it way easier for you to automate recurring tasks with agents.",
+    "stance": "tutorial",
+    "transcriptSource": "youtube-captions",
+    "transcriptStatus": "ok",
+    "transcriptSnippet": "Ooh. So, this week we got a feature that is going to make it way easier for you to automate recurring tasks with agents.",
+    "summarySource": "heuristic-transcript",
+    "processingStatus": "ok",
+    "notes": "",
     "relatedChannels": [
       {
         "slug": "matt-wolfe",
@@ -1982,18 +1983,18 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "rag",
-          "closed models",
-          "automation"
+          "prompting",
+          "closed models"
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "rag",
