@@ -1,5 +1,64 @@
 [
   {
+    "id": "uU1EP9_4qBU",
+    "videoId": "uU1EP9_4qBU",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "What Are Large Database Models? AI for SQL Data",
+    "url": "https://www.youtube.com/watch?v=uU1EP9_4qBU",
+    "thumbnailUrl": "https://i2.ytimg.com/vi/uU1EP9_4qBU/hqdefault.jpg",
+    "publishedAt": "2026-08-04T11:00:12+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "enterprise ai",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Learn more about Large Database Models here → https://ibm.biz/~LdYkjFu30 AI isn’t reaching most of your data, until now 🤯. Martin Keen introduces large database models (LDMs) and how they bring AI directly into SQL and relational databases.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai",
+          "news"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai"
+        ]
+      }
+    ]
+  },
+  {
     "id": "x5zdqm_AVgo",
     "videoId": "x5zdqm_AVgo",
     "channelSlug": "ibm-technology",
@@ -1494,70 +1553,6 @@
           "open-source models",
           "coding",
           "tutorial"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "0ujh7hfutq0",
-    "videoId": "0ujh7hfutq0",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "Llama.cpp vs vLLM: Which Local LLM Engine Actually Scales?",
-    "url": "https://www.youtube.com/watch?v=0ujh7hfutq0",
-    "thumbnailUrl": "https://i1.ytimg.com/vi/0ujh7hfutq0/hqdefault.jpg",
-    "publishedAt": "2026-07-28T11:00:05+00:00",
-    "speaker": "IBM Technology",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "open-source models",
-      "enterprise ai",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "llama"
-    ],
-    "summary": "Learn more about Large Language Models (LLMs) here → https://ibm.biz/~uLCBj5HLQ Choosing a local LLM engine can make or break performance. Cedric Clyburn breaks down Llama.cpp versus vLLM for real‑world local inference.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "open-source models",
-          "enterprise ai"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "open-source models",
-          "enterprise ai"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "open-source models",
-          "news"
         ]
       }
     ]
