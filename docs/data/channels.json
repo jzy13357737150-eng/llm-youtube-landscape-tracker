@@ -151,7 +151,7 @@
           "coding",
           "agents",
           "prompting",
-          "evaluation"
+          "closed models"
         ]
       },
       {
@@ -160,7 +160,8 @@
         "overlapTopics": [
           "coding",
           "agents",
-          "prompting"
+          "prompting",
+          "closed models"
         ]
       }
     ]
@@ -182,7 +183,7 @@
       "enterprise ai",
       "rag",
       "news",
-      "automation"
+      "closed models"
     ],
     "dominantFormats": [
       "analysis"
@@ -199,8 +200,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "enterprise ai",
@@ -209,8 +210,8 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "enterprise ai",
@@ -266,13 +267,13 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
+          "news",
           "closed models",
-          "tutorial",
-          "prompting"
+          "tutorial"
         ]
       }
     ]
@@ -312,8 +313,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "prompting",
