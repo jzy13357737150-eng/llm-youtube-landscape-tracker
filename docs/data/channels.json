@@ -80,6 +80,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "rag",
+          "coding"
+        ]
+      },
+      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -97,16 +107,6 @@
           "evaluation",
           "rag",
           "coding"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding",
-          "tutorial"
         ]
       }
     ]
@@ -155,12 +155,12 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
+          "open-source models",
           "coding",
           "agents",
-          "prompting",
           "closed models"
         ]
       }
@@ -183,7 +183,7 @@
       "enterprise ai",
       "rag",
       "news",
-      "automation"
+      "closed models"
     ],
     "dominantFormats": [
       "analysis"
@@ -205,8 +205,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "automation",
-          "closed models"
+          "closed models",
+          "automation"
         ]
       },
       {
