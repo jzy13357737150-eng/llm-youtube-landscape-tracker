@@ -1,5 +1,71 @@
 [
   {
+    "id": "_HzdjYg0vXs",
+    "videoId": "_HzdjYg0vXs",
+    "channelSlug": "the-ai-advantage",
+    "channelName": "The AI Advantage",
+    "channelCategory": "education",
+    "title": "I'm Obsessed With New ChatGPT Voice",
+    "url": "https://www.youtube.com/watch?v=_HzdjYg0vXs",
+    "thumbnailUrl": "https://i4.ytimg.com/vi/_HzdjYg0vXs/hqdefault.jpg",
+    "publishedAt": "2026-08-07T20:30:01+00:00",
+    "speaker": "The AI Advantage",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "prompting",
+      "voice ai",
+      "automation",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "chatgpt",
+      "openai"
+    ],
+    "summary": "In this video, Igor shows off some of the best ways he's found to use the New ChatGPT Voice on Desktop. This truly is the closest thing to Jarvis that the average person has ever had access to.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "voice ai"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "voice ai"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "news"
+        ]
+      }
+    ]
+  },
+  {
     "id": "yi-XZnAVFJg",
     "videoId": "yi-XZnAVFJg",
     "channelSlug": "langchain",
@@ -52,12 +118,12 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "rag",
-          "evaluation",
+          "tutorial",
           "news"
         ]
       }
@@ -486,8 +552,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "coding",
@@ -496,12 +562,12 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "open-source models",
           "coding",
+          "tutorial",
           "news"
         ]
       }
@@ -612,12 +678,12 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "rag",
-          "enterprise ai"
+          "news"
         ]
       }
     ]
@@ -806,13 +872,13 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "rag",
           "closed models",
-          "enterprise ai"
+          "news"
         ]
       }
     ]
@@ -899,6 +965,14 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "news"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -909,14 +983,6 @@
       {
         "slug": "ibm-technology",
         "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "news"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "news"
@@ -974,12 +1040,12 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "rag",
-          "enterprise ai"
+          "news"
         ]
       }
     ]
@@ -1073,6 +1139,16 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "automation"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -1090,16 +1166,6 @@
           "rag",
           "coding",
           "enterprise ai"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding",
-          "automation"
         ]
       }
     ]
@@ -1149,6 +1215,16 @@
         ]
       },
       {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "closed models",
+          "voice ai",
+          "tutorial"
+        ]
+      },
+      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -1156,16 +1232,6 @@
           "reasoning",
           "closed models",
           "voice ai"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "tutorial",
-          "news"
         ]
       }
     ]
@@ -1265,12 +1331,12 @@
     ],
     "summary": "Robert Xu from the LangChain team breaks down what Deep Agents actually are, how the \"harness\" concept fits into the model plus harness equation, and how Deep Agents relate to LangChain and LangGraph. The second half covers what changes when you move a deep agent into production, including durable execution, short...",
     "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptSource": "youtube-captions",
+    "transcriptStatus": "missing",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript unavailable.",
     "relatedChannels": [
       {
         "slug": "matt-wolfe",
@@ -1408,8 +1474,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -1418,13 +1484,13 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "reasoning",
           "prompting",
-          "tutorial"
+          "tutorial",
+          "news"
         ]
       }
     ]
@@ -1547,8 +1613,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -1664,8 +1730,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "closed models",
@@ -1673,8 +1739,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "closed models",
@@ -1959,6 +2025,16 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "closed models",
+          "coding",
+          "tutorial"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -1976,16 +2052,6 @@
           "closed models",
           "coding",
           "tutorial"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "coding",
-          "news"
         ]
       }
     ]
@@ -2042,8 +2108,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -2427,73 +2493,6 @@
     ]
   },
   {
-    "id": "Nq3S_vNjw5E",
-    "videoId": "Nq3S_vNjw5E",
-    "channelSlug": "the-ai-advantage",
-    "channelName": "The AI Advantage",
-    "channelCategory": "education",
-    "title": "Which AI Agent Should You Use in 2026?",
-    "url": "https://www.youtube.com/watch?v=Nq3S_vNjw5E",
-    "thumbnailUrl": "https://i3.ytimg.com/vi/Nq3S_vNjw5E/hqdefault.jpg",
-    "publishedAt": "2026-07-17T21:16:33+00:00",
-    "speaker": "The AI Advantage",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "prompting",
-      "closed models",
-      "automation"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "chatgpt",
-      "claude",
-      "gemini",
-      "openai"
-    ],
-    "summary": "Claude Cowork, ChatGPT Work and now the new Gemini Spark are all AI agents vying for your attention and time. But which one should you actually be using in your work?",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "closed models"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "closed models",
-          "automation"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "closed models"
-        ]
-      }
-    ]
-  },
-  {
     "id": "EWvNQjAaOHw",
     "videoId": "EWvNQjAaOHw",
     "channelSlug": "andrej-karpathy",
@@ -2616,8 +2615,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "tutorial",
           "news"
@@ -2936,8 +2935,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "coding",
           "tutorial"
