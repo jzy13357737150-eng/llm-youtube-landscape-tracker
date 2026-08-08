@@ -1,5 +1,62 @@
 [
   {
+    "id": "gZASEpuSWsM",
+    "videoId": "gZASEpuSWsM",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "AI Models Getting Cheaper",
+    "url": "https://www.youtube.com/shorts/gZASEpuSWsM",
+    "thumbnailUrl": "https://i4.ytimg.com/vi/gZASEpuSWsM/hqdefault.jpg",
+    "publishedAt": "2026-08-08T16:00:10+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "enterprise ai"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "AI models are shrinking and prices are dropping fast. What does the AI price war mean for the future?",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "error",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
+    "relatedChannels": [
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai"
+        ]
+      }
+    ]
+  },
+  {
     "id": "8qpEDpNhzWY",
     "videoId": "8qpEDpNhzWY",
     "channelSlug": "hugging-face",
@@ -173,13 +230,13 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
           "evaluation",
-          "tutorial"
+          "news"
         ]
       }
     ]
@@ -283,8 +340,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "evaluation",
@@ -293,8 +350,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "evaluation",
@@ -607,6 +664,16 @@
         ]
       },
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "open-source models",
+          "coding",
+          "news"
+        ]
+      },
+      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -614,16 +681,6 @@
           "open-source models",
           "coding",
           "tutorial"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "coding",
-          "tutorial",
-          "news"
         ]
       }
     ]
@@ -786,8 +843,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -796,8 +853,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "rag",
@@ -965,6 +1022,14 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "news"
+        ]
+      },
+      {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
@@ -975,14 +1040,6 @@
       {
         "slug": "langchain",
         "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "news"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "news"
@@ -1102,69 +1159,6 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "enterprise ai"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "FgaBdwSvOGM",
-    "videoId": "FgaBdwSvOGM",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "Agentic Engineering vs Software Engineering: Beyond Vibe Coding",
-    "url": "https://www.youtube.com/watch?v=FgaBdwSvOGM",
-    "thumbnailUrl": "https://i3.ytimg.com/vi/FgaBdwSvOGM/hqdefault.jpg",
-    "publishedAt": "2026-08-03T11:00:35+00:00",
-    "speaker": "IBM Technology",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "coding",
-      "enterprise ai",
-      "automation",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Learn more about Agentic Engineering here → https://ibm.biz/~ogIZPeOOL Software engineering is entering a new phase. Anna Gutowska explains how agentic engineering differs from software engineering, AI-assisted coding, and vibe coding.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding",
-          "automation"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding",
-          "enterprise ai"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding",
           "enterprise ai"
         ]
       }
@@ -1613,11 +1607,11 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "prompting",
+          "open-source models",
           "coding"
         ]
       }
@@ -1730,21 +1724,21 @@
         ]
       },
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "closed models",
+          "news"
+        ]
+      },
+      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "reasoning",
           "closed models"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "news"
         ]
       }
     ]
@@ -1787,8 +1781,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -1797,8 +1791,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "rag",
@@ -1866,12 +1860,12 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "rag",
-          "automation"
+          "prompting"
         ]
       }
     ]
@@ -2418,12 +2412,12 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "closed models",
-          "automation"
+          "prompting",
+          "closed models"
         ]
       }
     ]
@@ -2615,10 +2609,10 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
-          "tutorial",
+          "open-source models",
           "news"
         ]
       }
