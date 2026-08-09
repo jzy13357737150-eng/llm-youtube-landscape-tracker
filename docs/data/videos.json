@@ -1,5 +1,67 @@
 [
   {
+    "id": "vRZNJWw78BQ",
+    "videoId": "vRZNJWw78BQ",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "What Is Chunkless RAG? How Docling & AI Agents Navigate Documents",
+    "url": "https://www.youtube.com/watch?v=vRZNJWw78BQ",
+    "thumbnailUrl": "https://i3.ytimg.com/vi/vRZNJWw78BQ/hqdefault.jpg",
+    "publishedAt": "2026-08-09T11:00:02+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "evaluation",
+      "enterprise ai",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Learn more about Chunkless RAG here → https://ibm.biz/~H2I4LXkTq RAG may be throwing away valuable document context. Ming Zhao explains how Chunkless RAG uses document structure and AI agents instead of relying only on chunking and similarity search.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "rate-limited",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Transcript provider rate limited the request.",
+    "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "enterprise ai"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "enterprise ai"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "enterprise ai"
+        ]
+      }
+    ]
+  },
+  {
     "id": "gZASEpuSWsM",
     "videoId": "gZASEpuSWsM",
     "channelSlug": "ibm-technology",
@@ -78,11 +140,11 @@
     "summary": "We just wrapped up the 2026 ICML Reproduction Challenge, with more than 1,200 participants & their agents! More than 2,000 different papers were reproduced or falsified (1/3 of all of the papers at the conference).",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "andrej-karpathy",
@@ -139,11 +201,11 @@
     "summary": "In this video, Igor shows off some of the best ways he's found to use the New ChatGPT Voice on Desktop. This truly is the closest thing to Jarvis that the average person has ever had access to.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "matt-wolfe",
@@ -203,11 +265,11 @@
     "summary": "Today we're launching Managed Deep Agents, the easiest way to build, run, and deploy agents to production. It's build on the open source Deep Agents harness, and then deployed to LangSmith, using LangSmith Deployments, Context Hub, Sandboxes and more.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "matt-wolfe",
@@ -333,11 +395,11 @@
     "summary": "Here's the AI news you might have missed this week. Check out the limited first release of @GensparkProduct SecondBrain Note and get 10% off here: https://shop.genspark.ai/s/mattwolfe Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials:...",
     "stance": "news",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "ibm-technology",
@@ -396,11 +458,11 @@
     "summary": "Austin Berke, Lead AI Product Engineer at Harmonic, breaks down how Scout, Harmonic's natural language interface for its startup database, evolved from a brittle multi-node query parsing graph into a simple model-plus-tools loop built on Deep Agents, quadrupling week one to week four retention along the way. He...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -464,11 +526,11 @@
     "summary": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~1cu3BYWak It seems OpenAI isn’t the only AI company dealing with badly behaving models. On this week’s episode of Mixture of Experts, host Tim Hwang, joined by Bri Kopecki, Olivia Buzek, and Gabe Goodhart, discusses the latest sandbox...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -708,11 +770,11 @@
     "summary": "Learn more about AI Model Collapse here → https://ibm.biz/~a2mBE0Czn What happens when AI learns mostly from AI? Meenakshi Kodati explains model collapse, why synthetic data can distort future AI systems, and what researchers are doing to prevent it.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -836,11 +898,11 @@
     "summary": "Madrigal Pharmaceuticals' AI and data science team, Parth Patel, Maxwell Bertolero, Sean Grullon, and Jose Zamalloa, break down how they scaled AI agents across the business using LangChain and LangSmith. They cover why infrastructure matters more than interfaces at scale, how LangSmith traceability changed the way...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "ibm-technology",
@@ -902,11 +964,11 @@
     "summary": "Explore the podcast → https://ibm.biz/~jDjLVwwSn Last week, OpenAI’s models broke out of their sandboxes to cause chaos. This week, it’s Anthropic’s turn.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -962,11 +1024,11 @@
     "summary": "The Hugging Face research team discusses the paper \"Understanding Reasoning from Pretraining to Post-Training\" which discovers a joint scaling law for pre-training and reinforcement learning. Paper link: https://huggingface.co/papers/2607.16097",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "andrej-karpathy",
@@ -1070,11 +1132,11 @@
     "summary": "Learn more about Large Database Models here → https://ibm.biz/~LdYkjFu30 AI isn’t reaching most of your data, until now 🤯. Martin Keen introduces large database models (LDMs) and how they bring AI directly into SQL and relational databases.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -1099,63 +1161,6 @@
       {
         "slug": "hugging-face",
         "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "x5zdqm_AVgo",
-    "videoId": "x5zdqm_AVgo",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "Why AI Security Matters🔒",
-    "url": "https://www.youtube.com/shorts/x5zdqm_AVgo",
-    "thumbnailUrl": "https://i1.ytimg.com/vi/x5zdqm_AVgo/hqdefault.jpg",
-    "publishedAt": "2026-08-03T16:00:14+00:00",
-    "speaker": "IBM Technology",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "enterprise ai"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "AI is revolutionizing threat detection, but are we investing enough in prevention? Discover how frontier models are reshaping cybersecurity budgets.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "error",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
-    "relatedChannels": [
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "rag",
@@ -1260,11 +1265,11 @@
     "summary": "In this week's AI News You Can Use, Igor showcases the new ChatGPT Voice mode across web, mobile, and desktop. The update makes it extremely easy to get work done without even touching the keyboard.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -1326,11 +1331,11 @@
     "summary": "Robert Xu from the LangChain team breaks down what Deep Agents actually are, how the \"harness\" concept fits into the model plus harness equation, and how Deep Agents relate to LangChain and LangGraph. The second half covers what changes when you move a deep agent into production, including durable execution, short...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -1518,11 +1523,11 @@
     "summary": "Here's The AI News From The Past Week! Build with Retool here: https://fandf.co/3RjilvK Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow 🧵 Threads:...",
     "stance": "news",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -1580,11 +1585,11 @@
     "summary": "Tau is a minimalist coding-agent harness inspired by Pi and implemented in Python. This crash course tours its Textual TUI, provider login and model selection, tree-structured sessions, skills, custom prompts, themes, extensions, and the architectural differences between Tau and Pi.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "andrej-karpathy",
@@ -1644,11 +1649,11 @@
     "summary": "In this video, Igor shows you how to access Gemini's new Study Notebooks feature and get the most out of them. Enjoy!",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -1774,11 +1779,11 @@
     "summary": "Russell Kaplan is the President of Cognition, the $26 billion company behind Devin, the AI software engineer. He started his career in machine learning at Tesla's Autopilot team, then led the ML org at Scale AI, which had acquired his computer vision startup Helia.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "ibm-technology",
@@ -1891,11 +1896,11 @@
     "summary": "The Hugging Face research team discusses the Kimi K3 tech report: https://huggingface.co/papers/2607.24653",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "andrej-karpathy",
@@ -2075,11 +2080,11 @@
     "summary": "Training Agents, Session 3: from a fine-tuned baseline to reinforcement learning with GRPO. In this live session, we'll move past imitation and start training on outcomes.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "andrej-karpathy",
@@ -2138,11 +2143,11 @@
     "summary": "Your team already uses the Hugging Face Hub. Here's what a paid organization plan unlocks — for Enterprise and Academia alike.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "matt-wolfe",
@@ -2271,11 +2276,11 @@
     "summary": "- Link to Introduction to Local AI (101) https://www.youtube.com/watch?v=wRcByxXkJCQ - ODS https://github.com/osmantic/ods - Inference Engines blog series http://thelocalaibook.osmantic.com/ Find our speakers below: - https://x.com/TheAhmadOsman - https://x.com/MikeBradleyAI - https://x.com/alexocheema 00:00...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "andrej-karpathy",
@@ -2330,11 +2335,11 @@
     "summary": "The Hugging Face post-training team discusses how on-policy distillation (OPD) can be made fully asynchronous to improve the throughput of training by 2-3x Paper: https://huggingface.co/papers/2606.24143",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "andrej-karpathy",
@@ -2448,11 +2453,11 @@
     "summary": "This video takes you from \"why does my ChatGPT look different??\" to \"Oh my gosh this is the best update ever and I can't wait to start using it!\". In it, Igor breaks down the new ChatGPT Work and gives you a quick-start tutorial on how to use it.",
     "stance": "tutorial",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -2516,11 +2521,11 @@
     "summary": "The example-driven, practical walkthrough of Large Language Models and their growing list of related features, as a new entry to my general audience series on LLMs. In this more practical followup, I take you through the many ways I use LLMs in my own life.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -2582,11 +2587,11 @@
     "summary": "This is a general audience deep dive into the Large Language Model (LLM) AI technology that powers ChatGPT and related products. It is covers the full training stack of how the models are developed, along with mental models of how to think about their \"psychology\", and how to get the best use them in practical...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -2643,11 +2648,11 @@
     "summary": "We reproduce the GPT-2 (124M) from scratch. This video covers the whole process: First we build the GPT-2 network, then we optimize its training to be really fast, then we set up the training run following the GPT-2 and GPT-3 paper and their hyperparameters, then we hit run, and come back the next morning to see...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -2709,11 +2714,11 @@
     "summary": "The Tokenizer is a necessary and pervasive component of Large Language Models (LLMs), where it translates between strings and tokens (text chunks). Tokenizers are a completely separate stage of the LLM pipeline: they have their own training sets, training algorithms (Byte Pair Encoding), and after training...",
     "stance": "tutorial",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -2904,11 +2909,11 @@
     "summary": "We take the 2-layer MLP from previous video and make it deeper with a tree-like structure, arriving at a convolutional neural network architecture similar to the WaveNet (2016) from DeepMind. In the WaveNet paper, the same hierarchical architecture is implemented more efficiently using causal dilated convolutions...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
