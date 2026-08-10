@@ -1,5 +1,73 @@
 [
   {
+    "id": "SkM4k4SKvCM",
+    "videoId": "SkM4k4SKvCM",
+    "channelSlug": "hugging-face",
+    "channelName": "Hugging Face",
+    "channelCategory": "developer-tools",
+    "title": "Prompt Caching Explained: Stop Overpaying for AI Agents",
+    "url": "https://www.youtube.com/watch?v=SkM4k4SKvCM",
+    "thumbnailUrl": "https://i4.ytimg.com/vi/SkM4k4SKvCM/hqdefault.jpg",
+    "publishedAt": "2026-08-10T03:15:10+00:00",
+    "speaker": "Hugging Face",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "prompting",
+      "fine-tuning",
+      "open-source models",
+      "closed models",
+      "coding"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "claude",
+      "gemini",
+      "openai",
+      "anthropic"
+    ],
+    "summary": "Prompt caching can cut the input cost of long AI agent sessions dramatically—but only when your harness preserves reusable prompt prefixes. This video explains what prompt caching actually stores, why agent costs compound across turns, how provider behavior differs, and the implementation mistakes that invalidate...",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "fine-tuning",
+          "open-source models"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "open-source models",
+          "closed models"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "open-source models",
+          "closed models"
+        ]
+      }
+    ]
+  },
+  {
     "id": "vRZNJWw78BQ",
     "videoId": "vRZNJWw78BQ",
     "channelSlug": "ibm-technology",
@@ -30,16 +98,6 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "enterprise ai"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -52,6 +110,16 @@
       {
         "slug": "hugging-face",
         "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "enterprise ai"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
@@ -164,8 +232,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "open-source models"
@@ -254,31 +322,43 @@
     "primaryTopics": [
       "agents",
       "rag",
+      "prompting",
       "evaluation",
-      "tutorial",
-      "news"
+      "open-source models",
+      "coding"
     ],
     "secondaryTopics": [],
     "modelsMentioned": [
-      "langchain"
+      "langchain",
+      "openai"
     ],
-    "summary": "Today we're launching Managed Deep Agents, the easiest way to build, run, and deploy agents to production. It's build on the open source Deep Agents harness, and then deployed to LangSmith, using LangSmith Deployments, Context Hub, Sandboxes and more.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "summary": "Today we're launching managed Jeep agents, the best way to build, run, and deploy your agents in production. In this video, I'm going to go through why I'm so excited about managed Jeep agents, all the problems I think it solves, and how you can use it.",
+    "stance": "interview",
+    "transcriptSource": "youtube-captions",
+    "transcriptStatus": "ok",
+    "transcriptSnippet": "Today we're launching managed Jeep agents, the best way to build, run, and deploy your agents in production. In this video, I'm going to go through why I'm so excited about managed Jeep agents, all the problems I think it solves, and how you can use it.",
+    "summarySource": "heuristic-transcript",
+    "processingStatus": "ok",
+    "notes": "",
     "relatedChannels": [
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "evaluation"
+        ]
+      },
       {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "rag",
-          "evaluation",
-          "tutorial"
+          "prompting",
+          "evaluation"
         ]
       },
       {
@@ -287,18 +367,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "evaluation",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "news"
+          "prompting",
+          "evaluation"
         ]
       }
     ]
@@ -402,8 +472,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "evaluation",
@@ -412,8 +482,8 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "evaluation",
@@ -427,8 +497,8 @@
         "overlapTopics": [
           "agents",
           "evaluation",
-          "closed models",
-          "coding"
+          "open-source models",
+          "closed models"
         ]
       }
     ]
@@ -543,8 +613,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
@@ -553,13 +623,13 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "rag",
           "evaluation",
-          "closed models"
+          "open-source models"
         ]
       }
     ]
@@ -726,16 +796,6 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "open-source models",
-          "coding",
-          "news"
-        ]
-      },
-      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -743,6 +803,16 @@
           "open-source models",
           "coding",
           "tutorial"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "open-source models",
+          "coding",
+          "news"
         ]
       }
     ]
@@ -777,16 +847,6 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai",
-          "news"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -803,6 +863,15 @@
           "agents",
           "rag",
           "enterprise ai"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "news"
         ]
       }
     ]
@@ -905,8 +974,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "rag",
@@ -915,8 +984,8 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -971,16 +1040,6 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "closed models",
-          "enterprise ai"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -998,6 +1057,16 @@
           "rag",
           "closed models",
           "enterprise ai"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "closed models",
+          "news"
         ]
       }
     ]
@@ -1040,17 +1109,18 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "reasoning",
           "open-source models"
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
+          "reasoning",
           "open-source models"
         ]
       }
@@ -1100,8 +1170,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "news"
@@ -1139,16 +1209,6 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai",
-          "news"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -1165,6 +1225,15 @@
           "agents",
           "rag",
           "enterprise ai"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "news"
         ]
       }
     ]
@@ -1318,24 +1387,24 @@
     "primaryTopics": [
       "agents",
       "rag",
+      "reasoning",
       "prompting",
       "evaluation",
-      "closed models",
-      "coding"
+      "closed models"
     ],
     "secondaryTopics": [],
     "modelsMentioned": [
       "claude",
       "langchain"
     ],
-    "summary": "Robert Xu from the LangChain team breaks down what Deep Agents actually are, how the \"harness\" concept fits into the model plus harness equation, and how Deep Agents relate to LangChain and LangGraph. The second half covers what changes when you move a deep agent into production, including durable execution, short...",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "summary": "[MUSIC PLAYING] We're going to talk a little bit about deep agents for the people here that are here for the first time, not familiar with them as a concept. And then we'll talk about what it takes to actually take deep agents and effectively deploy them into production.",
+    "stance": "interview",
+    "transcriptSource": "youtube-captions",
+    "transcriptStatus": "ok",
+    "transcriptSnippet": "[MUSIC PLAYING] We're going to talk a little bit about deep agents for the people here that are here for the first time, not familiar with them as a concept. And then we'll talk about what it takes to actually take deep agents and effectively deploy them into production.",
+    "summarySource": "heuristic-transcript",
+    "processingStatus": "ok",
+    "notes": "",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -1343,8 +1412,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting",
-          "evaluation"
+          "reasoning",
+          "prompting"
         ]
       },
       {
@@ -1353,8 +1422,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting",
-          "evaluation"
+          "reasoning",
+          "prompting"
         ]
       },
       {
@@ -1363,8 +1432,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting",
-          "evaluation"
+          "reasoning",
+          "prompting"
         ]
       }
     ]
@@ -1602,8 +1671,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -1612,10 +1681,11 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
+          "prompting",
           "open-source models",
           "coding"
         ]
@@ -1729,21 +1799,21 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "news"
-        ]
-      },
-      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "reasoning",
           "closed models"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "closed models",
+          "news"
         ]
       }
     ]
@@ -1786,8 +1856,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "rag",
@@ -1796,8 +1866,8 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -1918,8 +1988,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "open-source models"
         ]
@@ -2034,8 +2104,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "closed models",
@@ -2044,8 +2114,8 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "closed models",
@@ -2097,8 +2167,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -2107,13 +2177,13 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "prompting",
-          "coding",
-          "tutorial"
+          "open-source models",
+          "coding"
         ]
       }
     ]
@@ -2303,64 +2373,13 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "evaluation",
           "open-source models",
           "closed models",
           "coding"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "ZWuFMVmKXrI",
-    "videoId": "ZWuFMVmKXrI",
-    "channelSlug": "hugging-face",
-    "channelName": "Hugging Face",
-    "channelCategory": "developer-tools",
-    "title": "Hugging Face Journal Club: AsyncOPD and How Stale Can On-Policy Distillation Be?",
-    "url": "https://www.youtube.com/watch?v=ZWuFMVmKXrI",
-    "thumbnailUrl": "https://i3.ytimg.com/vi/ZWuFMVmKXrI/hqdefault.jpg",
-    "publishedAt": "2026-07-21T15:08:47+00:00",
-    "speaker": "Hugging Face",
-    "guests": [],
-    "primaryTopics": [
-      "fine-tuning",
-      "open-source models"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "The Hugging Face post-training team discusses how on-policy distillation (OPD) can be made fully asynchronous to improve the throughput of training by 2-3x Paper: https://huggingface.co/papers/2606.24143",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "fine-tuning",
-          "open-source models"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "open-source models"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "open-source models"
         ]
       }
     ]
@@ -2614,11 +2633,12 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
+          "reasoning",
           "open-source models",
-          "news"
+          "tutorial"
         ]
       }
     ]
@@ -2665,8 +2685,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "reasoning",
           "evaluation",
@@ -2675,9 +2695,10 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
+          "reasoning",
           "evaluation",
           "coding",
           "tutorial"
@@ -2741,13 +2762,13 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
+          "reasoning",
           "prompting",
-          "closed models",
-          "voice ai",
-          "coding"
+          "open-source models",
+          "closed models"
         ]
       }
     ]
@@ -2800,8 +2821,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2810,13 +2831,13 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting",
-          "evaluation"
+          "reasoning",
+          "prompting"
         ]
       }
     ]
@@ -2866,8 +2887,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "rag",
           "reasoning",
@@ -2876,13 +2897,13 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "rag",
+          "reasoning",
           "prompting",
-          "evaluation",
-          "coding"
+          "evaluation"
         ]
       }
     ]
@@ -2925,8 +2946,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "reasoning",
           "coding",
@@ -2934,9 +2955,10 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
+          "reasoning",
           "coding",
           "tutorial"
         ]
@@ -2985,8 +3007,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2995,13 +3017,13 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "rag",
-          "evaluation",
-          "coding"
+          "reasoning",
+          "evaluation"
         ]
       }
     ]
