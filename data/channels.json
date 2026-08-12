@@ -25,16 +25,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "reasoning",
-          "coding",
-          "tutorial",
-          "fine-tuning"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -42,6 +32,16 @@
           "coding",
           "evaluation",
           "tutorial"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "reasoning",
+          "coding",
+          "tutorial",
+          "fine-tuning"
         ]
       },
       {
@@ -146,8 +146,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "open-source models",
           "agents",
@@ -156,8 +156,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "open-source models",
           "agents",
@@ -258,23 +258,23 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "tutorial",
-          "coding"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "news",
           "closed models",
           "tutorial"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "closed models",
+          "tutorial",
+          "coding"
         ]
       }
     ]
