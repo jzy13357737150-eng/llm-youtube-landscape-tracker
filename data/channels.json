@@ -25,16 +25,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "reasoning",
-          "coding",
-          "evaluation",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -52,6 +42,16 @@
           "coding",
           "evaluation",
           "tutorial"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "coding",
+          "evaluation",
+          "tutorial",
+          "prompting"
         ]
       }
     ]
@@ -102,13 +102,13 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "evaluation",
           "rag",
-          "tutorial"
+          "tutorial",
+          "coding"
         ]
       }
     ]
@@ -147,8 +147,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "open-source models",
           "agents",
@@ -157,8 +157,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "open-source models",
           "agents",
@@ -249,16 +249,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "news",
-          "closed models",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
@@ -276,6 +266,16 @@
           "news",
           "closed models",
           "tutorial"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "closed models",
+          "tutorial",
+          "coding"
         ]
       }
     ]
