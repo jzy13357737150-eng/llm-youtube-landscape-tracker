@@ -92,8 +92,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "evaluation",
@@ -192,8 +192,8 @@
     ],
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "enterprise ai",
@@ -202,8 +202,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "enterprise ai",
@@ -237,8 +237,8 @@
     "recentVideoCount": 8,
     "latestThemes": [
       "agents",
-      "news",
       "closed models",
+      "news",
       "tutorial",
       "coding"
     ],
@@ -253,8 +253,18 @@
         "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
-          "news",
           "closed models",
+          "news",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "closed models",
+          "news",
           "tutorial"
         ]
       },
@@ -263,19 +273,9 @@
         "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
+          "closed models",
           "news",
-          "closed models",
           "tutorial"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "tutorial",
-          "coding"
         ]
       }
     ]
@@ -310,23 +310,23 @@
         "overlapTopics": [
           "agents",
           "prompting",
-          "rag",
-          "closed models"
+          "automation",
+          "rag"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "automation",
+          "rag"
         ]
       },
       {
         "slug": "hugging-face",
         "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "rag",
-          "closed models"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "prompting",
