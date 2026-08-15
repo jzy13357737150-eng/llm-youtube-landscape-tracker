@@ -137,8 +137,8 @@
     ],
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "fine-tuning",
           "open-source models",
@@ -147,8 +147,8 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "fine-tuning",
           "open-source models",
@@ -212,12 +212,12 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "enterprise ai",
-          "news",
+          "rag",
           "coding"
         ]
       }
@@ -238,14 +238,13 @@
     "latestThemes": [
       "agents",
       "news",
+      "coding",
       "tutorial",
-      "closed models",
-      "coding"
+      "closed models"
     ],
     "dominantFormats": [
       "analysis",
-      "news",
-      "tutorial"
+      "news"
     ],
     "relatedChannels": [
       {
@@ -254,8 +253,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "tutorial",
-          "closed models"
+          "coding",
+          "tutorial"
         ]
       },
       {
@@ -264,8 +263,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "tutorial",
-          "closed models"
+          "coding",
+          "tutorial"
         ]
       },
       {
@@ -274,8 +273,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "tutorial",
-          "closed models"
+          "coding",
+          "tutorial"
         ]
       }
     ]
@@ -315,18 +314,18 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "automation",
           "prompting",
+          "rag",
           "closed models"
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "prompting",
