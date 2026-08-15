@@ -25,21 +25,21 @@
     ],
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "reasoning",
-          "coding",
-          "evaluation",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
           "reasoning",
           "coding",
+          "tutorial",
+          "fine-tuning"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "coding",
+          "evaluation",
           "tutorial",
           "fine-tuning"
         ]

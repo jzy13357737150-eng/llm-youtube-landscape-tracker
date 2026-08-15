@@ -1,5 +1,60 @@
 [
   {
+    "id": "ZePfpQ7lbcs",
+    "videoId": "ZePfpQ7lbcs",
+    "channelSlug": "matt-wolfe",
+    "channelName": "Matt Wolfe",
+    "channelCategory": "creator-news",
+    "title": "Hank Green did nothing wrong",
+    "url": "https://www.youtube.com/shorts/ZePfpQ7lbcs",
+    "thumbnailUrl": "https://i3.ytimg.com/vi/ZePfpQ7lbcs/hqdefault.jpg",
+    "publishedAt": "2026-08-15T13:14:44+00:00",
+    "speaker": "Matt Wolfe",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "chatgpt"
+    ],
+    "summary": "Hank Green got “caught” using AI… and I genuinely don’t think he did anything wrong. The whole controversy started because Hank said “I appreciate the pushback” in a video — a phrase people thought sounded suspiciously like ChatGPT.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "error",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
+    "relatedChannels": [
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "news"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "news"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "news"
+        ]
+      }
+    ]
+  },
+  {
     "id": "aszRSGI_Iwg",
     "videoId": "aszRSGI_Iwg",
     "channelSlug": "matt-wolfe",
@@ -1610,12 +1665,12 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "voice ai",
-          "automation",
+          "rag",
+          "prompting",
           "news"
         ]
       }
@@ -1911,8 +1966,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "reasoning",
           "fine-tuning",
@@ -1920,10 +1975,9 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
-          "reasoning",
           "fine-tuning",
           "open-source models"
         ]
@@ -1986,72 +2040,6 @@
         "overlapTopics": [
           "agents",
           "news"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "PaNIJ9l2NOE",
-    "videoId": "PaNIJ9l2NOE",
-    "channelSlug": "matt-wolfe",
-    "channelName": "Matt Wolfe",
-    "channelCategory": "creator-news",
-    "title": "Turning ChatGPT Into My Own Jarvis",
-    "url": "https://www.youtube.com/shorts/PaNIJ9l2NOE",
-    "thumbnailUrl": "https://i1.ytimg.com/vi/PaNIJ9l2NOE/hqdefault.jpg",
-    "publishedAt": "2026-08-01T13:59:28+00:00",
-    "speaker": "Matt Wolfe",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "reasoning",
-      "closed models",
-      "voice ai",
-      "tutorial",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "chatgpt",
-      "claude"
-    ],
-    "summary": "Here's how to turn AI into your own personal Jarvis 🤖 By using the voice features on ChatGPT and Claude, you can now build, edit, and iterate on interactive 3D designs in real-time—completely hands-free. I used voice commands to generate a 3D Iron Man suit, scale the helmet, change the colors, and even add solar...",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "error",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
-    "relatedChannels": [
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "reasoning",
-          "closed models",
-          "voice ai"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "voice ai",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "reasoning",
-          "closed models",
-          "voice ai"
         ]
       }
     ]
@@ -2457,16 +2445,6 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "fine-tuning",
-          "open-source models",
-          "voice ai",
-          "coding"
-        ]
-      },
-      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
@@ -2474,6 +2452,16 @@
           "fine-tuning",
           "open-source models",
           "voice ai"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "fine-tuning",
+          "open-source models",
+          "coding",
+          "enterprise ai"
         ]
       },
       {
@@ -2525,16 +2513,6 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "reasoning",
-          "closed models",
-          "voice ai",
-          "coding"
-        ]
-      },
-      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -2550,6 +2528,14 @@
         "overlapTopics": [
           "closed models",
           "voice ai",
+          "coding"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "closed models",
           "coding"
         ]
       }
@@ -2594,10 +2580,10 @@
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
-          "reasoning",
           "fine-tuning",
           "open-source models",
-          "tutorial"
+          "tutorial",
+          "news"
         ]
       },
       {
@@ -2656,7 +2642,6 @@
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
-          "reasoning",
           "evaluation",
           "coding",
           "tutorial"
@@ -2728,22 +2713,22 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "reasoning",
-          "open-source models",
-          "closed models",
-          "voice ai"
-        ]
-      },
-      {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
           "prompting",
           "closed models",
           "voice ai",
+          "coding"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "prompting",
+          "open-source models",
+          "closed models",
           "coding"
         ]
       }
@@ -2797,22 +2782,21 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "reasoning",
-          "fine-tuning",
-          "evaluation"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
           "prompting",
+          "evaluation"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "fine-tuning",
           "evaluation"
         ]
       }
@@ -2863,21 +2847,20 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "reasoning",
-          "fine-tuning",
-          "evaluation",
-          "coding"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "rag",
           "prompting",
+          "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "fine-tuning",
           "evaluation",
           "coding"
         ]
@@ -2913,8 +2896,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "reasoning",
           "coding",
@@ -2922,10 +2905,9 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
-          "reasoning",
           "coding",
           "tutorial"
         ]
@@ -2972,16 +2954,6 @@
     "notes": "",
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "reasoning",
-          "evaluation",
-          "coding"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -2999,6 +2971,16 @@
           "rag",
           "reasoning",
           "coding"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "coding",
+          "tutorial"
         ]
       }
     ]
