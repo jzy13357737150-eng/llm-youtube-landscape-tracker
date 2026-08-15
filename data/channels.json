@@ -92,8 +92,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "rag",
@@ -102,11 +102,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "evaluation",
+          "rag",
           "tutorial",
           "coding"
         ]
@@ -202,21 +202,21 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai",
-          "news",
-          "coding"
-        ]
-      },
-      {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "rag",
+          "news",
+          "coding"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "enterprise ai",
           "news",
           "coding"
         ]
@@ -269,13 +269,13 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "news",
           "tutorial",
-          "coding"
+          "closed models"
         ]
       }
     ]
@@ -294,8 +294,8 @@
     "recentVideoCount": 8,
     "latestThemes": [
       "agents",
-      "prompting",
       "automation",
+      "prompting",
       "rag",
       "closed models"
     ],
@@ -309,8 +309,8 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "prompting",
           "automation",
+          "prompting",
           "rag"
         ]
       },
@@ -319,8 +319,8 @@
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "prompting",
           "automation",
+          "prompting",
           "closed models"
         ]
       },
