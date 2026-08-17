@@ -1,5 +1,68 @@
 [
   {
+    "id": "J0zbWsutyA8",
+    "videoId": "J0zbWsutyA8",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "What Is RAD? Why It Matters in the Age of AI Coding",
+    "url": "https://www.youtube.com/watch?v=J0zbWsutyA8",
+    "thumbnailUrl": "https://i3.ytimg.com/vi/J0zbWsutyA8/hqdefault.jpg",
+    "publishedAt": "2026-08-17T11:00:14+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "coding",
+      "enterprise ai",
+      "automation",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Learn more about Rapid Application Development (RAD) here → https://ibm.biz/~t01xtWgB8 AI coding feels new, but the ideas aren't. Martin Keen explores how Rapid Application Development (RAD) predicted many of the workflows now emerging with vibe coding and AI agents.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "enterprise ai"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "coding",
+          "enterprise ai",
+          "automation"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "automation"
+        ]
+      }
+    ]
+  },
+  {
     "id": "aYfZN8t6AQs",
     "videoId": "aYfZN8t6AQs",
     "channelSlug": "hugging-face",
@@ -273,6 +336,16 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "automation"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -285,15 +358,6 @@
       {
         "slug": "hugging-face",
         "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -485,13 +549,13 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "open-source models",
-          "closed models",
-          "coding"
+          "coding",
+          "tutorial"
         ]
       }
     ]
@@ -906,6 +970,16 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai",
+          "automation"
+        ]
+      },
+      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -922,16 +996,6 @@
           "agents",
           "rag",
           "evaluation",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai",
           "tutorial"
         ]
       }
@@ -983,16 +1047,6 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "coding"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -1000,6 +1054,16 @@
           "rag",
           "coding",
           "tutorial"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "coding"
         ]
       }
     ]
@@ -1152,8 +1216,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -1162,13 +1226,13 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
           "prompting",
-          "news"
+          "automation"
         ]
       },
       {
@@ -1353,68 +1417,6 @@
     ]
   },
   {
-    "id": "Qx0fCqpkBus",
-    "videoId": "Qx0fCqpkBus",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "What Is Context Engineering? Why It Matters for AI Agents",
-    "url": "https://www.youtube.com/watch?v=Qx0fCqpkBus",
-    "thumbnailUrl": "https://i2.ytimg.com/vi/Qx0fCqpkBus/hqdefault.jpg",
-    "publishedAt": "2026-08-11T11:00:03+00:00",
-    "speaker": "IBM Technology",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "prompting",
-      "enterprise ai",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Learn more about Context Engineering here → https://ibm.biz/~P5lLLBd7u More data doesn’t always mean better AI. Anna Gutowska explains how context engineering improves LLM and AI agent performance beyond prompt engineering.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "enterprise ai"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "news"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "news"
-        ]
-      }
-    ]
-  },
-  {
     "id": "gNltRF2XPTg",
     "videoId": "gNltRF2XPTg",
     "channelSlug": "the-ai-advantage",
@@ -1461,18 +1463,18 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
           "prompting",
-          "closed models"
+          "coding"
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "rag",
@@ -1705,6 +1707,16 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "automation"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -1722,16 +1734,6 @@
           "rag",
           "prompting",
           "voice ai"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "news"
         ]
       }
     ]
@@ -1904,6 +1906,16 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "automation"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -1921,15 +1933,6 @@
           "rag",
           "prompting",
           "voice ai"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting"
         ]
       }
     ]
@@ -2160,13 +2163,13 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
           "prompting",
-          "closed models"
+          "automation"
         ]
       }
     ]
@@ -2277,22 +2280,22 @@
         ]
       },
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "automation",
+          "tutorial"
+        ]
+      },
+      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "prompting",
           "closed models",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "automation",
           "tutorial"
         ]
       }
@@ -2328,6 +2331,16 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "automation"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -2340,15 +2353,6 @@
       {
         "slug": "hugging-face",
         "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
