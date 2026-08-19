@@ -35,16 +35,6 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "coding",
-          "evaluation",
-          "tutorial",
-          "fine-tuning"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -52,6 +42,16 @@
           "evaluation",
           "tutorial",
           "prompting"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "coding",
+          "evaluation",
+          "tutorial",
+          "fine-tuning"
         ]
       }
     ]
@@ -72,12 +72,11 @@
       "agents",
       "evaluation",
       "rag",
-      "tutorial",
-      "prompting"
+      "prompting",
+      "tutorial"
     ],
     "dominantFormats": [
-      "analysis",
-      "tutorial"
+      "analysis"
     ],
     "relatedChannels": [
       {
@@ -86,8 +85,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "tutorial",
-          "prompting"
+          "prompting",
+          "tutorial"
         ]
       },
       {
@@ -96,8 +95,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "tutorial",
-          "prompting"
+          "prompting",
+          "tutorial"
         ]
       },
       {
@@ -107,7 +106,7 @@
           "agents",
           "evaluation",
           "rag",
-          "tutorial"
+          "prompting"
         ]
       }
     ]
@@ -156,8 +155,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "open-source models",
           "agents",
@@ -191,16 +190,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai",
-          "rag",
-          "news"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -213,6 +202,16 @@
       {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "news",
+          "coding"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "rag",
@@ -237,8 +236,8 @@
     "latestThemes": [
       "agents",
       "news",
-      "coding",
       "closed models",
+      "coding",
       "tutorial"
     ],
     "dominantFormats": [
@@ -247,13 +246,13 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "news",
-          "coding",
-          "closed models"
+          "closed models",
+          "coding"
         ]
       },
       {
@@ -267,13 +266,13 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "news",
-          "coding",
-          "closed models"
+          "closed models",
+          "coding"
         ]
       }
     ]
@@ -303,16 +302,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "automation",
-          "prompting",
-          "rag"
-        ]
-      },
-      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
@@ -320,6 +309,16 @@
           "prompting",
           "rag",
           "closed models"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "automation",
+          "prompting",
+          "rag"
         ]
       },
       {
