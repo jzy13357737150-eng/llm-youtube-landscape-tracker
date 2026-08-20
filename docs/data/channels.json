@@ -35,16 +35,6 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "coding",
-          "evaluation",
-          "tutorial",
-          "prompting"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -52,6 +42,15 @@
           "evaluation",
           "tutorial",
           "fine-tuning"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "evaluation",
+          "tutorial",
+          "prompting"
         ]
       }
     ]
@@ -72,8 +71,8 @@
       "agents",
       "evaluation",
       "rag",
-      "prompting",
-      "tutorial"
+      "tutorial",
+      "prompting"
     ],
     "dominantFormats": [
       "analysis"
@@ -85,8 +84,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting",
-          "tutorial"
+          "tutorial",
+          "prompting"
         ]
       },
       {
@@ -95,8 +94,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting",
-          "tutorial"
+          "tutorial",
+          "prompting"
         ]
       },
       {
@@ -106,7 +105,7 @@
           "agents",
           "evaluation",
           "rag",
-          "prompting"
+          "tutorial"
         ]
       }
     ]
