@@ -236,23 +236,13 @@
       "news",
       "closed models",
       "coding",
-      "enterprise ai"
+      "rag"
     ],
     "dominantFormats": [
       "analysis",
       "news"
     ],
     "relatedChannels": [
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "news",
-          "closed models",
-          "coding"
-        ]
-      },
       {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
@@ -270,7 +260,17 @@
           "agents",
           "news",
           "coding",
-          "enterprise ai"
+          "rag"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "news",
+          "closed models",
+          "coding"
         ]
       }
     ]
