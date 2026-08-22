@@ -45,12 +45,12 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "coding",
-          "tutorial",
-          "prompting"
+          "evaluation",
+          "tutorial"
         ]
       }
     ]
@@ -154,12 +154,12 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
+          "open-source models",
           "agents",
-          "coding",
-          "prompting"
+          "coding"
         ]
       }
     ]
@@ -188,16 +188,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "news",
-          "automation"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -205,6 +195,16 @@
           "enterprise ai",
           "rag",
           "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "news",
+          "automation"
         ]
       },
       {
@@ -236,7 +236,7 @@
       "news",
       "closed models",
       "coding",
-      "open-source models"
+      "enterprise ai"
     ],
     "dominantFormats": [
       "analysis",
@@ -270,7 +270,7 @@
           "agents",
           "news",
           "coding",
-          "open-source models"
+          "enterprise ai"
         ]
       }
     ]
