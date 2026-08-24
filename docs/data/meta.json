@@ -1,7 +1,7 @@
 {
   "mode": "live",
-  "startedAt": "2026-08-24T00:26:26.184Z",
-  "generatedAt": "2026-08-24T00:27:37.278Z",
+  "startedAt": "2026-08-24T06:29:01.928Z",
+  "generatedAt": "2026-08-24T06:29:44.946Z",
   "openAiEnabled": false,
   "trackedChannels": 6,
   "processedVideos": 48,
@@ -16,11 +16,12 @@
     "Resolved feed for Hugging Face: https://www.youtube.com/feeds/videos.xml?channel_id=UCHlNU7kIZhRgSbhHvFoy72w",
     "Fetched 8 videos for IBM Technology.",
     "Resolved feed for IBM Technology: https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
-    "Fetched 8 videos for Matt Wolfe.",
-    "Resolved feed for Matt Wolfe: https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
-    "Fetched 8 videos for The AI Advantage.",
-    "Resolved feed for The AI Advantage: https://www.youtube.com/feeds/videos.xml?channel_id=UCHhYXsLBEVVnbvsq57n1MTQ"
+    "Reused 8 cached videos for Matt Wolfe after fetch failure.",
+    "Reused 8 cached videos for The AI Advantage after fetch failure."
   ],
-  "errors": [],
+  "errors": [
+    "Channel fetch failed for Matt Wolfe: Request failed 404 for https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+    "Channel fetch failed for The AI Advantage: Request failed 404 for https://www.youtube.com/feeds/videos.xml?channel_id=UCHhYXsLBEVVnbvsq57n1MTQ"
+  ],
   "topicCount": 12
 }
