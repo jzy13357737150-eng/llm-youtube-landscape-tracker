@@ -1,5 +1,67 @@
 [
   {
+    "id": "zAe-sau06io",
+    "videoId": "zAe-sau06io",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "How AI Coding Agents Understand Your Codebase & Developer Tools",
+    "url": "https://www.youtube.com/watch?v=zAe-sau06io",
+    "thumbnailUrl": "https://i3.ytimg.com/vi/zAe-sau06io/hqdefault.jpg",
+    "publishedAt": "2026-08-24T11:00:38+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "coding",
+      "enterprise ai",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Learn more about AI for Code here → https://ibm.biz/~ggidEPSQb Good code is not just code that runs. Prachi Modi explains how AI coding agents use repository awareness, architectural context, and developer tools to make better coding decisions.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "enterprise ai"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "news"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "enterprise ai"
+        ]
+      }
+    ]
+  },
+  {
     "id": "eFf2OvkZxEM",
     "videoId": "eFf2OvkZxEM",
     "channelSlug": "ibm-technology",
@@ -1532,69 +1594,6 @@
           "agents",
           "evaluation",
           "news"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "J0zbWsutyA8",
-    "videoId": "J0zbWsutyA8",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "What Is RAD? Why It Matters in the Age of AI Coding",
-    "url": "https://www.youtube.com/watch?v=J0zbWsutyA8",
-    "thumbnailUrl": "https://i3.ytimg.com/vi/J0zbWsutyA8/hqdefault.jpg",
-    "publishedAt": "2026-08-17T11:00:14+00:00",
-    "speaker": "IBM Technology",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "coding",
-      "enterprise ai",
-      "automation",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Learn more about Rapid Application Development (RAD) here → https://ibm.biz/~t01xtWgB8 AI coding feels new, but the ideas aren't. Martin Keen explores how Rapid Application Development (RAD) predicted many of the workflows now emerging with vibe coding and AI agents.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding",
-          "enterprise ai"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding",
-          "automation"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding",
-          "enterprise ai"
         ]
       }
     ]
