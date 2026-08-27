@@ -25,6 +25,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "reasoning",
+          "coding",
+          "evaluation",
+          "tutorial"
+        ]
+      },
+      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -32,16 +42,6 @@
           "coding",
           "evaluation",
           "fine-tuning"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "reasoning",
-          "coding",
-          "tutorial",
-          "prompting"
         ]
       },
       {
@@ -83,9 +83,9 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
+          "evaluation",
           "rag",
-          "tutorial",
-          "coding"
+          "tutorial"
         ]
       },
       {
@@ -236,8 +236,8 @@
     "latestThemes": [
       "agents",
       "news",
-      "closed models",
       "tutorial",
+      "closed models",
       "coding"
     ],
     "dominantFormats": [
@@ -252,8 +252,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "closed models",
-          "tutorial"
+          "tutorial",
+          "closed models"
         ]
       },
       {
@@ -262,8 +262,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "closed models",
-          "tutorial"
+          "tutorial",
+          "closed models"
         ]
       },
       {
@@ -271,8 +271,8 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "closed models",
           "tutorial",
+          "closed models",
           "coding"
         ]
       }
