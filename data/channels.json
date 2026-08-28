@@ -50,7 +50,8 @@
         "overlapTopics": [
           "coding",
           "evaluation",
-          "tutorial"
+          "tutorial",
+          "prompting"
         ]
       }
     ]
@@ -214,8 +215,8 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "enterprise ai",
           "rag",
+          "prompting",
           "automation"
         ]
       }
@@ -313,8 +314,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "automation",
@@ -323,8 +324,8 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "automation",
