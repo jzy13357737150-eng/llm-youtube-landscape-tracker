@@ -248,6 +248,59 @@
     ]
   },
   {
+    "id": "2_UcYzbYnAI",
+    "videoId": "2_UcYzbYnAI",
+    "channelSlug": "matt-wolfe",
+    "channelName": "Matt Wolfe",
+    "channelCategory": "creator-news",
+    "title": "This Robot Is Faster Than Usain Bolt?!",
+    "url": "https://www.youtube.com/shorts/2_UcYzbYnAI",
+    "thumbnailUrl": "https://i3.ytimg.com/vi/2_UcYzbYnAI/hqdefault.jpg",
+    "publishedAt": "2026-08-28T15:10:41+00:00",
+    "speaker": "Matt Wolfe",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Is this CREEPY or CRAZY?! This robot can run faster than the fastest man alive 😮 Unitree’s new “Superman” robot can apparently hit speeds of around 28 mph and jump TWO METERS straight up from a standstill.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "error",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
+    "relatedChannels": [
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "news"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "news"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "news"
+        ]
+      }
+    ]
+  },
+  {
     "id": "TInwQglNkzo",
     "videoId": "TInwQglNkzo",
     "channelSlug": "matt-wolfe",
@@ -1499,68 +1552,6 @@
           "rag",
           "tutorial",
           "news"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "1m5Ee9QbLF0",
-    "videoId": "1m5Ee9QbLF0",
-    "channelSlug": "matt-wolfe",
-    "channelName": "Matt Wolfe",
-    "channelCategory": "creator-news",
-    "title": "This Pyramid Could Be Your Next Intern",
-    "url": "https://www.youtube.com/shorts/1m5Ee9QbLF0",
-    "thumbnailUrl": "https://i2.ytimg.com/vi/1m5Ee9QbLF0/hqdefault.jpg",
-    "publishedAt": "2026-08-21T22:09:39+00:00",
-    "speaker": "Matt Wolfe",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "closed models",
-      "coding",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "claude"
-    ],
-    "summary": "Your next intern might be a tiny pyramid-shaped computer 🤖 The Autonomous Intern 2 is built specifically to run AI agents. You can connect it to Slack, Telegram, or Discord, give it tasks just by talking to it, and keep things like its memory, project files, writing style, and API keys stored locally on the device.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "error",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
-    "relatedChannels": [
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "coding",
-          "news"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "coding",
-          "news"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "coding"
         ]
       }
     ]
