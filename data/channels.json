@@ -25,16 +25,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "reasoning",
-          "coding",
-          "evaluation",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -52,6 +42,16 @@
           "coding",
           "evaluation",
           "fine-tuning"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "coding",
+          "evaluation",
+          "tutorial",
+          "prompting"
         ]
       }
     ]
@@ -153,7 +153,7 @@
           "open-source models",
           "agents",
           "coding",
-          "reasoning"
+          "prompting"
         ]
       },
       {
@@ -185,11 +185,10 @@
       "enterprise ai",
       "rag",
       "news",
-      "prompting"
+      "automation"
     ],
     "dominantFormats": [
-      "analysis",
-      "tutorial"
+      "analysis"
     ],
     "relatedChannels": [
       {
@@ -209,17 +208,17 @@
           "agents",
           "rag",
           "news",
-          "prompting"
+          "automation"
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
-          "news",
-          "prompting"
+          "automation",
+          "coding"
         ]
       }
     ]
@@ -316,8 +315,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "automation",
@@ -326,8 +325,8 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "automation",
