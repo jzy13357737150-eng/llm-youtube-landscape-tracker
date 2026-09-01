@@ -72,8 +72,8 @@
       "agents",
       "evaluation",
       "rag",
-      "coding",
-      "tutorial"
+      "tutorial",
+      "coding"
     ],
     "dominantFormats": [
       "analysis",
@@ -87,7 +87,7 @@
           "agents",
           "evaluation",
           "rag",
-          "coding"
+          "tutorial"
         ]
       },
       {
@@ -96,8 +96,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "coding",
-          "tutorial"
+          "tutorial",
+          "coding"
         ]
       },
       {
@@ -106,8 +106,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "coding",
-          "tutorial"
+          "tutorial",
+          "coding"
         ]
       }
     ]
@@ -147,18 +147,18 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
-          "open-source models",
           "agents",
           "coding",
+          "reasoning",
           "prompting"
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "open-source models",
           "agents",
@@ -315,8 +315,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "automation",
@@ -325,8 +325,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "automation",
