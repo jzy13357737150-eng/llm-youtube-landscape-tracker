@@ -45,12 +45,12 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
-          "evaluation",
           "coding",
           "rag",
+          "fine-tuning",
           "prompting"
         ]
       }
@@ -148,6 +148,16 @@
         ]
       },
       {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "fine-tuning",
+          "open-source models",
+          "coding",
+          "agents"
+        ]
+      },
+      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -155,16 +165,6 @@
           "coding",
           "agents",
           "evaluation"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "open-source models",
-          "coding",
-          "agents",
-          "rag"
         ]
       }
     ]
@@ -240,8 +240,8 @@
     "latestThemes": [
       "agents",
       "news",
-      "tutorial",
       "closed models",
+      "tutorial",
       "coding"
     ],
     "dominantFormats": [
@@ -256,8 +256,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "tutorial",
-          "closed models"
+          "closed models",
+          "tutorial"
         ]
       },
       {
@@ -275,8 +275,8 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "tutorial",
           "closed models",
+          "tutorial",
           "coding"
         ]
       }
@@ -317,8 +317,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -327,8 +327,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "prompting",
