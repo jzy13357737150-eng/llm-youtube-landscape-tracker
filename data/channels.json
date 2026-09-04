@@ -50,8 +50,7 @@
         "overlapTopics": [
           "evaluation",
           "coding",
-          "rag",
-          "prompting"
+          "rag"
         ]
       }
     ]
@@ -82,16 +81,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "rag",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -104,6 +93,16 @@
       {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "rag",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "evaluation",
@@ -128,8 +127,8 @@
     "latestThemes": [
       "fine-tuning",
       "open-source models",
-      "coding",
       "agents",
+      "coding",
       "evaluation"
     ],
     "dominantFormats": [
@@ -144,8 +143,8 @@
         "overlapTopics": [
           "fine-tuning",
           "open-source models",
-          "coding",
-          "agents"
+          "agents",
+          "coding"
         ]
       },
       {
@@ -153,8 +152,8 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "open-source models",
-          "coding",
           "agents",
+          "coding",
           "evaluation"
         ]
       },
@@ -164,8 +163,8 @@
         "overlapTopics": [
           "fine-tuning",
           "open-source models",
-          "coding",
-          "agents"
+          "agents",
+          "coding"
         ]
       }
     ]
@@ -206,21 +205,21 @@
         ]
       },
       {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "automation"
+        ]
+      },
+      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "enterprise ai",
-          "news",
-          "coding"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
           "news",
           "coding"
         ]
@@ -253,6 +252,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "news",
+          "closed models",
+          "coding"
+        ]
+      },
+      {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
@@ -263,23 +272,13 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "news",
-          "coding",
-          "enterprise ai"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "news",
           "closed models",
-          "coding"
+          "coding",
+          "open-source models"
         ]
       }
     ]
@@ -319,6 +318,16 @@
         ]
       },
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "automation",
+          "closed models"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -326,16 +335,6 @@
           "prompting",
           "rag",
           "closed models"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "rag",
-          "automation"
         ]
       }
     ]
