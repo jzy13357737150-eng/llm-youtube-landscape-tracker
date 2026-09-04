@@ -318,19 +318,20 @@
       "agents",
       "rag",
       "evaluation",
+      "coding",
       "enterprise ai",
-      "news"
+      "tutorial"
     ],
     "secondaryTopics": [],
     "modelsMentioned": [],
-    "summary": "Learn more about Types of AI Agents here → https://ibm.biz/~P180J8KFb AI agents need more than training data to solve real-world problems. Martin Keen breaks down four core techniques used in modern AI agents: Skills, MCP, RAG, and Memory.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "summary": "There are different ways to give an AI agent the knowledge it needs to complete a task beyond the knowledge that it just has in its training data. So let's look at four of them, skills, MCP, RAG and memory and define which methods are best in different situations.",
+    "stance": "tutorial",
+    "transcriptSource": "youtube-captions",
+    "transcriptStatus": "ok",
+    "transcriptSnippet": "There are different ways to give an AI agent the knowledge it needs to complete a task beyond the knowledge that it just has in its training data. So let's look at four of them, skills, MCP, RAG and memory and define which methods are best in different situations.",
+    "summarySource": "heuristic-transcript",
+    "processingStatus": "ok",
+    "notes": "",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -339,7 +340,7 @@
           "agents",
           "rag",
           "evaluation",
-          "news"
+          "coding"
         ]
       },
       {
@@ -348,17 +349,18 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "enterprise ai",
-          "news"
+          "coding",
+          "enterprise ai"
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "enterprise ai",
-          "news"
+          "rag",
+          "evaluation",
+          "coding"
         ]
       }
     ]
