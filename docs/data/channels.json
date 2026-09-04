@@ -45,12 +45,12 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
-          "evaluation",
           "coding",
-          "rag"
+          "fine-tuning",
+          "prompting"
         ]
       }
     ]
@@ -158,13 +158,13 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
-          "fine-tuning",
-          "open-source models",
           "agents",
-          "coding"
+          "coding",
+          "evaluation",
+          "rag"
         ]
       }
     ]
@@ -205,6 +205,16 @@
         ]
       },
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "news",
+          "coding"
+        ]
+      },
+      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -212,16 +222,6 @@
           "rag",
           "coding",
           "automation"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai",
-          "news",
-          "coding"
         ]
       }
     ]
@@ -243,24 +243,14 @@
       "news",
       "closed models",
       "coding",
-      "enterprise ai"
+      "prompting"
     ],
     "dominantFormats": [
       "analysis",
-      "interview",
-      "news"
+      "news",
+      "interview"
     ],
     "relatedChannels": [
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "news",
-          "closed models",
-          "coding"
-        ]
-      },
       {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
@@ -272,13 +262,23 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
+          "news",
           "closed models",
-          "coding",
-          "open-source models"
+          "coding"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "news",
+          "closed models",
+          "coding"
         ]
       }
     ]
@@ -318,22 +318,22 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "automation",
-          "closed models"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "agents",
           "prompting",
           "rag",
+          "closed models"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "automation",
           "closed models"
         ]
       }
