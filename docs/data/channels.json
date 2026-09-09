@@ -77,7 +77,8 @@
     ],
     "dominantFormats": [
       "analysis",
-      "news"
+      "news",
+      "tutorial"
     ],
     "relatedChannels": [
       {
@@ -101,13 +102,13 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
+          "evaluation",
           "rag",
-          "tutorial",
-          "coding"
+          "tutorial"
         ]
       }
     ]
@@ -204,16 +205,6 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai",
-          "rag",
-          "news"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -221,6 +212,16 @@
           "enterprise ai",
           "news",
           "coding"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "evaluation"
         ]
       }
     ]
@@ -250,16 +251,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "news",
-          "closed models",
-          "coding"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -276,6 +267,16 @@
           "agents",
           "news",
           "coding",
+          "prompting"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "news",
+          "closed models",
           "prompting"
         ]
       }
@@ -295,14 +296,13 @@
     "recentVideoCount": 8,
     "latestThemes": [
       "agents",
-      "prompting",
       "automation",
+      "prompting",
       "rag",
       "closed models"
     ],
     "dominantFormats": [
-      "analysis",
-      "interview"
+      "analysis"
     ],
     "relatedChannels": [
       {
@@ -310,8 +310,8 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "prompting",
           "automation",
+          "prompting",
           "rag"
         ]
       },
@@ -320,8 +320,8 @@
         "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "prompting",
           "automation",
+          "prompting",
           "rag"
         ]
       },
@@ -330,8 +330,8 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "prompting",
           "automation",
+          "prompting",
           "rag"
         ]
       }
