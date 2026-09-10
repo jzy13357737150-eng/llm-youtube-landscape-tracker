@@ -35,8 +35,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "evaluation",
           "coding",
@@ -45,13 +45,12 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "evaluation",
           "coding",
-          "rag",
-          "prompting"
+          "rag"
         ]
       }
     ]
@@ -77,7 +76,6 @@
     ],
     "dominantFormats": [
       "analysis",
-      "news",
       "tutorial"
     ],
     "relatedChannels": [
@@ -190,7 +188,6 @@
     ],
     "dominantFormats": [
       "analysis",
-      "interview",
       "tutorial"
     ],
     "relatedChannels": [
@@ -201,7 +198,7 @@
           "agents",
           "enterprise ai",
           "rag",
-          "news"
+          "coding"
         ]
       },
       {
@@ -221,7 +218,7 @@
           "agents",
           "rag",
           "coding",
-          "tutorial"
+          "evaluation"
         ]
       }
     ]
@@ -265,7 +262,7 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "news",
+          "closed models",
           "tutorial",
           "coding"
         ]
@@ -331,8 +328,8 @@
         "overlapTopics": [
           "agents",
           "automation",
-          "prompting",
-          "rag"
+          "rag",
+          "closed models"
         ]
       }
     ]
