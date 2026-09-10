@@ -1,5 +1,62 @@
 [
   {
+    "id": "-KcHn0QcSb0",
+    "videoId": "-KcHn0QcSb0",
+    "channelSlug": "matt-wolfe",
+    "channelName": "Matt Wolfe",
+    "channelCategory": "creator-news",
+    "title": "Trying To Solve The Biggest AI Problem",
+    "url": "https://www.youtube.com/watch?v=-KcHn0QcSb0",
+    "thumbnailUrl": "https://i2.ytimg.com/vi/-KcHn0QcSb0/hqdefault.jpg",
+    "publishedAt": "2026-09-09T22:18:17+00:00",
+    "speaker": "Matt Wolfe",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "tutorial",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "AI video is getting REALLY hard to spot… So I tried to build a tool that could detect it for me. Want to run it yourself?",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "tutorial",
+          "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "tutorial",
+          "news"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "tutorial",
+          "news"
+        ]
+      }
+    ]
+  },
+  {
     "id": "DHriN5P5wPs",
     "videoId": "DHriN5P5wPs",
     "channelSlug": "langchain",
@@ -184,6 +241,67 @@
           "rag",
           "evaluation",
           "coding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "L5Q0CYfaFiU",
+    "videoId": "L5Q0CYfaFiU",
+    "channelSlug": "the-ai-advantage",
+    "channelName": "The AI Advantage",
+    "channelCategory": "education",
+    "title": "GPT-6 Astra is Freaking Me Out a Bit...",
+    "url": "https://www.youtube.com/shorts/L5Q0CYfaFiU",
+    "thumbnailUrl": "https://i1.ytimg.com/vi/L5Q0CYfaFiU/hqdefault.jpg",
+    "publishedAt": "2026-09-09T15:58:59+00:00",
+    "speaker": "The AI Advantage",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "prompting",
+      "automation"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Want to save time, get more leverage, and stop figuring this AI stuff out from scratch? I put the clearest map and support inside the AI Advantage Club: https://joinaiaclub.com/igor Let's Connect: 📸 Instagram: https://www.instagram.com/igorpogany/",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "error",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
+    "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "automation"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "automation"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "automation"
         ]
       }
     ]
@@ -384,7 +502,7 @@
     "channelSlug": "matt-wolfe",
     "channelName": "Matt Wolfe",
     "channelCategory": "creator-news",
-    "title": "This AI Turns Photos Into 3D",
+    "title": "This AI Makes Any Photo 3D",
     "url": "https://www.youtube.com/shorts/iSXeiUXiln8",
     "thumbnailUrl": "https://i2.ytimg.com/vi/iSXeiUXiln8/hqdefault.jpg",
     "publishedAt": "2026-09-09T12:26:29+00:00",
@@ -475,20 +593,20 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "news"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "enterprise ai",
+          "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
           "news"
         ]
       }
@@ -852,16 +970,6 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "coding",
-          "automation"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -869,6 +977,16 @@
           "prompting",
           "fine-tuning",
           "coding"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "coding",
+          "automation"
         ]
       }
     ]
@@ -889,6 +1007,7 @@
       "agents",
       "rag",
       "enterprise ai",
+      "automation",
       "news"
     ],
     "secondaryTopics": [],
@@ -909,7 +1028,7 @@
           "agents",
           "rag",
           "enterprise ai",
-          "news"
+          "automation"
         ]
       },
       {
@@ -918,6 +1037,7 @@
         "overlapTopics": [
           "agents",
           "rag",
+          "automation",
           "news"
         ]
       },
@@ -1059,6 +1179,7 @@
       "rag",
       "coding",
       "enterprise ai",
+      "tutorial",
       "news"
     ],
     "secondaryTopics": [],
@@ -1089,7 +1210,7 @@
           "agents",
           "coding",
           "enterprise ai",
-          "news"
+          "tutorial"
         ]
       },
       {
@@ -1098,6 +1219,7 @@
         "overlapTopics": [
           "agents",
           "rag",
+          "tutorial",
           "news"
         ]
       }
@@ -1144,22 +1266,22 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "news"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "prompting",
           "enterprise ai",
+          "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
           "news"
         ]
       }
@@ -1326,18 +1448,18 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "evaluation",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "fine-tuning",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "evaluation",
           "tutorial"
         ]
       }
@@ -1645,70 +1767,6 @@
           "rag",
           "prompting",
           "evaluation"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "h8Wpz5WzzLI",
-    "videoId": "h8Wpz5WzzLI",
-    "channelSlug": "the-ai-advantage",
-    "channelName": "The AI Advantage",
-    "channelCategory": "education",
-    "title": "You Have to Try Claude Cowork's New Built-In Browser",
-    "url": "https://www.youtube.com/shorts/h8Wpz5WzzLI",
-    "thumbnailUrl": "https://i1.ytimg.com/vi/h8Wpz5WzzLI/hqdefault.jpg",
-    "publishedAt": "2026-09-03T16:24:44+00:00",
-    "speaker": "The AI Advantage",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "prompting",
-      "closed models",
-      "automation"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "claude"
-    ],
-    "summary": "Want to save time, get more leverage, and stop figuring this AI stuff out from scratch? I put the clearest map and support inside the AI Advantage Club: https://joinaiaclub.com/igor",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "error",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
-    "relatedChannels": [
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "closed models"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "closed models"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "automation"
         ]
       }
     ]
@@ -2091,71 +2149,6 @@
     ]
   },
   {
-    "id": "-goIBDS9UNU",
-    "videoId": "-goIBDS9UNU",
-    "channelSlug": "matt-wolfe",
-    "channelName": "Matt Wolfe",
-    "channelCategory": "creator-news",
-    "title": "The One-Prompt Dashboard Trick",
-    "url": "https://www.youtube.com/shorts/-goIBDS9UNU",
-    "thumbnailUrl": "https://i2.ytimg.com/vi/-goIBDS9UNU/hqdefault.jpg",
-    "publishedAt": "2026-09-01T14:27:45+00:00",
-    "speaker": "Matt Wolfe",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "prompting",
-      "coding",
-      "tutorial",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "chatgpt",
-      "openai"
-    ],
-    "summary": "I turned a boring spreadsheet into the ultimate content creator dashboard. It tracks my audience and growth across YouTube, Instagram, TikTok, LinkedIn, X, Threads, Facebook, and my newsletter, all in one place that my whole team can use.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "error",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
-    "relatedChannels": [
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "coding",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "coding",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "tutorial",
-          "news"
-        ]
-      }
-    ]
-  },
-  {
     "id": "Gj13NR35WU4",
     "videoId": "Gj13NR35WU4",
     "channelSlug": "ibm-technology",
@@ -2195,20 +2188,20 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "news"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "enterprise ai",
+          "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
           "news"
         ]
       }
@@ -2253,15 +2246,15 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
-          "automation"
+          "fine-tuning"
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "automation"
         ]
@@ -2373,15 +2366,15 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
-          "rag"
+          "fine-tuning"
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "rag"
         ]
@@ -2889,16 +2882,16 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "coding",
           "tutorial"
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "coding",
           "tutorial"
