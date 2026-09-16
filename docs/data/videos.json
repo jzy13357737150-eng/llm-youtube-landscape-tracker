@@ -1,5 +1,123 @@
 [
   {
+    "id": "t8Y-eqZ5_-0",
+    "videoId": "t8Y-eqZ5_-0",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "The vulnpocalypse might not be so bad after all",
+    "url": "https://www.youtube.com/watch?v=t8Y-eqZ5_-0",
+    "thumbnailUrl": "https://i1.ytimg.com/vi/t8Y-eqZ5_-0/hqdefault.jpg",
+    "publishedAt": "2026-09-16T10:00:32+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "enterprise ai",
+      "automation",
+      "tutorial",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Explore the podcast → https://ibm.biz/~7vUKC9XTD Depending on who you ask, the AI-driven vulnpocalypse is either the end of cybersecurity as we know it or a lot of hot air. This week on Security Intelligence, host Patrick Austin sits down with Giacomo Casoni, Brad Lair and Norman Dorsch to dig into a new report...",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "automation",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "automation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "InnVG6pOPpM",
+    "videoId": "InnVG6pOPpM",
+    "channelSlug": "hugging-face",
+    "channelName": "Hugging Face",
+    "channelCategory": "developer-tools",
+    "title": "Transformers.js v4.3: Structured Output in the browser",
+    "url": "https://www.youtube.com/watch?v=InnVG6pOPpM",
+    "thumbnailUrl": "https://i2.ytimg.com/vi/InnVG6pOPpM/hqdefault.jpg",
+    "publishedAt": "2026-09-16T07:49:24+00:00",
+    "speaker": "Hugging Face",
+    "guests": [],
+    "primaryTopics": [
+      "fine-tuning",
+      "open-source models",
+      "coding",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Transformers.js v4.3 is out, and the big one is structured output. With the new @huggingface/transformers-structured-output package you can force a model to follow an exact JSON Schema or regex, directly in the browser.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "open-source models",
+          "coding",
+          "news"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "fine-tuning",
+          "open-source models",
+          "coding"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "coding",
+          "news"
+        ]
+      }
+    ]
+  },
+  {
     "id": "hXQZ6lyRCsI",
     "videoId": "hXQZ6lyRCsI",
     "channelSlug": "hugging-face",
@@ -159,21 +277,21 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
           "automation"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting"
         ]
       }
     ]
@@ -217,7 +335,8 @@
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
-          "agents"
+          "agents",
+          "news"
         ]
       },
       {
@@ -460,21 +579,21 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
           "automation"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting"
         ]
       }
     ]
@@ -521,7 +640,8 @@
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
-          "agents"
+          "agents",
+          "news"
         ]
       },
       {
@@ -896,11 +1016,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "open-source models",
+          "rag",
           "tutorial"
         ]
       }
@@ -948,21 +1068,21 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
           "automation"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting"
         ]
       }
     ]
@@ -1003,6 +1123,15 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "open-source models",
+          "news"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -1018,14 +1147,6 @@
           "agents",
           "open-source models",
           "closed models"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "open-source models"
         ]
       }
     ]
@@ -1070,21 +1191,21 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
           "automation"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting"
         ]
       }
     ]
@@ -1127,7 +1248,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "coding"
+          "coding",
+          "news"
         ]
       },
       {
@@ -1254,21 +1376,21 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
           "automation"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting"
         ]
       }
     ]
@@ -1328,11 +1450,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "closed models",
+          "rag",
           "coding",
           "tutorial"
         ]
@@ -1499,21 +1621,21 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
           "automation"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting"
         ]
       }
     ]
@@ -1616,7 +1738,8 @@
         "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "rag"
+          "rag",
+          "news"
         ]
       },
       {
@@ -1679,7 +1802,8 @@
         "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "tutorial"
+          "tutorial",
+          "news"
         ]
       },
       {
@@ -1734,7 +1858,8 @@
         "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "tutorial"
+          "tutorial",
+          "news"
         ]
       },
       {
@@ -1781,7 +1906,8 @@
         "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "rag"
+          "rag",
+          "news"
         ]
       },
       {
@@ -1835,27 +1961,27 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "closed models"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "closed models"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "news"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "news"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "closed models"
         ]
       }
     ]
@@ -1915,70 +2041,12 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "prompting",
+          "coding",
           "automation"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "kjoQPn--F7A",
-    "videoId": "kjoQPn--F7A",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "An Ancient Guide to Cybersecurity: 8 Lessons from The Art of War",
-    "url": "https://www.youtube.com/watch?v=kjoQPn--F7A",
-    "thumbnailUrl": "https://i4.ytimg.com/vi/kjoQPn--F7A/hqdefault.jpg",
-    "publishedAt": "2026-09-08T11:00:30+00:00",
-    "speaker": "IBM Technology",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "enterprise ai",
-      "automation",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Learn more about Cost of a Data Breach Report 2026 here → https://ibm.biz/~3LxDJ8rUK What can a 2,500-year-old military text teach us about cybersecurity? Jeff Crume explores eight cybersecurity lessons from Sun Tzu's The Art of War and connects them to modern cyber defense strategies.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "automation"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "automation"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag"
         ]
       }
     ]
@@ -2022,7 +2090,8 @@
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
-          "agents"
+          "agents",
+          "news"
         ]
       },
       {
@@ -2139,17 +2208,17 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "closed models",
-          "coding"
+          "coding",
+          "news"
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "coding",
@@ -2252,17 +2321,17 @@
         ]
       },
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "automation"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "open-source models"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "automation"
         ]
       }
     ]
@@ -2319,70 +2388,12 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "open-source models",
+          "rag",
           "coding"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "S5wE1sjyiQY",
-    "videoId": "S5wE1sjyiQY",
-    "channelSlug": "hugging-face",
-    "channelName": "Hugging Face",
-    "channelCategory": "developer-tools",
-    "title": "Hugging Face Journal Club: Direct On-Policy Distillation",
-    "url": "https://www.youtube.com/watch?v=S5wE1sjyiQY",
-    "thumbnailUrl": "https://i4.ytimg.com/vi/S5wE1sjyiQY/hqdefault.jpg",
-    "publishedAt": "2026-08-11T18:05:57+00:00",
-    "speaker": "Hugging Face",
-    "guests": [],
-    "primaryTopics": [
-      "rag",
-      "reasoning",
-      "fine-tuning",
-      "open-source models"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "qwen"
-    ],
-    "summary": "Okay, so this is quite um interesting paper and a bit uh surprising that uh how it works, but uh basically the idea is that uh in post-training, you have usually uh a pipeline where you have a model and then you uh run RL over that model. And ideally that uh post-RL model should um should work better than the one...",
-    "stance": "interview",
-    "transcriptSource": "youtube-captions",
-    "transcriptStatus": "ok",
-    "transcriptSnippet": "Okay, so this is quite um interesting paper and a bit uh surprising that uh how it works, but uh basically the idea is that uh in post-training, you have usually uh a pipeline where you have a model and then you uh run RL over that model. And ideally that uh post-RL model should um should work better than the one...",
-    "summarySource": "heuristic-transcript",
-    "processingStatus": "ok",
-    "notes": "",
-    "relatedChannels": [
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "rag",
-          "reasoning",
-          "fine-tuning",
-          "open-source models"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "rag",
-          "open-source models"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "rag"
         ]
       }
     ]
@@ -2570,8 +2581,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "coding",
           "tutorial"
@@ -2767,11 +2778,11 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "rag",
-          "prompting"
+          "coding"
         ]
       }
     ]
@@ -2814,16 +2825,16 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "coding",
           "tutorial"
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "coding",
           "tutorial"

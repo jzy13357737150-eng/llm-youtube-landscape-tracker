@@ -45,11 +45,11 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
-          "rag",
-          "prompting"
+          "coding",
+          "rag"
         ]
       }
     ]
@@ -98,13 +98,13 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
+          "rag",
           "tutorial",
-          "coding",
-          "closed models"
+          "coding"
         ]
       }
     ]
@@ -129,8 +129,7 @@
       "automation"
     ],
     "dominantFormats": [
-      "analysis",
-      "interview"
+      "analysis"
     ],
     "relatedChannels": [
       {
@@ -154,12 +153,12 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
-          "open-source models",
           "agents",
-          "coding"
+          "coding",
+          "automation"
         ]
       }
     ]
@@ -193,8 +192,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "automation",
-          "coding"
+          "news",
+          "automation"
         ]
       },
       {
@@ -243,6 +242,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "news",
+          "tutorial",
+          "coding"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -260,16 +269,6 @@
           "closed models",
           "tutorial",
           "coding"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "tutorial",
-          "coding",
-          "open-source models"
         ]
       }
     ]
