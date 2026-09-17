@@ -1,5 +1,130 @@
 [
   {
+    "id": "S2VJU5DQqlU",
+    "videoId": "S2VJU5DQqlU",
+    "channelSlug": "matt-wolfe",
+    "channelName": "Matt Wolfe",
+    "channelCategory": "creator-news",
+    "title": "He Built The Ultimate Spy Tool (Free and Open-Source)",
+    "url": "https://www.youtube.com/watch?v=S2VJU5DQqlU",
+    "thumbnailUrl": "https://i4.ytimg.com/vi/S2VJU5DQqlU/hqdefault.jpg",
+    "publishedAt": "2026-09-16T20:57:15+00:00",
+    "speaker": "Matt Wolfe",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "open-source models",
+      "voice ai",
+      "tutorial",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Check out God's Eye View: https://github.com/bilawalsidhu/gods-eye-view https://www.spatialintelligence.ai/ What if you could turn your computer into a spy movie command center using real-world data? I sat down with Bilawal Sidhu to explore God's Eye View, his open-source tool that brings flights, satellites,...",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "open-source models",
+          "tutorial",
+          "news"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "open-source models",
+          "voice ai",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "open-source models",
+          "tutorial"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "WbMTdpVhNsw",
+    "videoId": "WbMTdpVhNsw",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "What are Deep Agents? Explained fast",
+    "url": "https://www.youtube.com/shorts/WbMTdpVhNsw",
+    "thumbnailUrl": "https://i4.ytimg.com/vi/WbMTdpVhNsw/hqdefault.jpg",
+    "publishedAt": "2026-09-16T20:49:17+00:00",
+    "speaker": "LangChain",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "evaluation",
+      "coding",
+      "tutorial"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "langchain"
+    ],
+    "summary": "Deep Agents is LangChain's open source harness for building complex agents. This short covers what the harness handles for you: controlling what context the agent sees and when, with built-in file systems, skills, subagents, and summarization.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "error",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
+    "relatedChannels": [
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "tutorial"
+        ]
+      }
+    ]
+  },
+  {
     "id": "d6aNbE-3dxo",
     "videoId": "d6aNbE-3dxo",
     "channelSlug": "langchain",
@@ -216,21 +341,21 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "tutorial",
           "news"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "tutorial"
         ]
       }
     ]
@@ -274,19 +399,19 @@
         ]
       },
       {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "open-source models",
+          "news"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "open-source models",
           "coding"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "coding",
-          "news"
         ]
       }
     ]
@@ -327,15 +452,15 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "open-source models"
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "open-source models"
         ]
@@ -1118,21 +1243,21 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "tutorial",
           "news"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "tutorial"
         ]
       }
     ]
@@ -1190,11 +1315,11 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
+          "open-source models",
           "tutorial"
         ]
       }
@@ -1499,11 +1624,11 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "coding",
+          "open-source models",
           "tutorial"
         ]
       }
@@ -1629,68 +1754,6 @@
           "agents",
           "rag",
           "coding",
-          "tutorial"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "SNhmFJzieR4",
-    "videoId": "SNhmFJzieR4",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "Why Sierra uses one agent per brand instead of multi-agent systems",
-    "url": "https://www.youtube.com/shorts/SNhmFJzieR4",
-    "thumbnailUrl": "https://i4.ytimg.com/vi/SNhmFJzieR4/hqdefault.jpg",
-    "publishedAt": "2026-09-10T17:00:11+00:00",
-    "speaker": "LangChain",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "evaluation",
-      "tutorial"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "langchain"
-    ],
-    "summary": "Zack Reneau-Wedeen, Head of Product at Sierra, pushes back on the default reach for multi-agent systems. When agents are split for organizational convenience rather than technical necessity, they end up depriving each other of critical context — which is typically destructive of value.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "error",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
-    "relatedChannels": [
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
           "tutorial"
         ]
       }
@@ -1854,19 +1917,19 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "news"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag"
         ]
       }
     ]
@@ -2107,58 +2170,6 @@
     ]
   },
   {
-    "id": "tqUEnRj0NbM",
-    "videoId": "tqUEnRj0NbM",
-    "channelSlug": "matt-wolfe",
-    "channelName": "Matt Wolfe",
-    "channelCategory": "creator-news",
-    "title": "This AI Turns Insane Ideas Into 3D Objects",
-    "url": "https://www.youtube.com/shorts/tqUEnRj0NbM",
-    "thumbnailUrl": "https://i1.ytimg.com/vi/tqUEnRj0NbM/hqdefault.jpg",
-    "publishedAt": "2026-09-07T16:06:22+00:00",
-    "speaker": "Matt Wolfe",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "This was just a picture… and now it’s a 3D-printable object. A new AI model called Tripo 2.0 can take almost any image and turn it into a full 3D model you can export to Blender, Unreal Engine, or a 3D printer.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "error",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
-    "relatedChannels": [
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "news"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "news"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents"
-        ]
-      }
-    ]
-  },
-  {
     "id": "y9xup6XEP2o",
     "videoId": "y9xup6XEP2o",
     "channelSlug": "hugging-face",
@@ -2254,16 +2265,16 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "open-source models"
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "open-source models"
@@ -2310,17 +2321,17 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "open-source models"
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
-          "automation"
+          "open-source models"
         ]
       }
     ]
@@ -2424,6 +2435,14 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "closed models",
+          "voice ai"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -2436,13 +2455,6 @@
         "name": "Hugging Face",
         "overlapTopics": [
           "reasoning",
-          "coding"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
           "coding"
         ]
       }
