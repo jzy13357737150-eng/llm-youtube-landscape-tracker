@@ -144,22 +144,21 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "open-source models",
-          "coding",
-          "agents",
-          "evaluation"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "coding",
           "agents",
           "automation",
+          "evaluation"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "coding",
+          "agents",
           "evaluation"
         ]
       }
@@ -239,8 +238,7 @@
     ],
     "dominantFormats": [
       "analysis",
-      "news",
-      "tutorial"
+      "news"
     ],
     "relatedChannels": [
       {
@@ -264,12 +262,12 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "tutorial",
-          "open-source models"
+          "news",
+          "tutorial"
         ]
       }
     ]

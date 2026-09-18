@@ -1,5 +1,61 @@
 [
   {
+    "id": "mj7w5cv0epM",
+    "videoId": "mj7w5cv0epM",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "The 3 Things Clay Measures on Every AI Agent",
+    "url": "https://www.youtube.com/shorts/mj7w5cv0epM",
+    "thumbnailUrl": "https://i2.ytimg.com/vi/mj7w5cv0epM/hqdefault.jpg",
+    "publishedAt": "2026-09-18T04:00:39+00:00",
+    "speaker": "LangChain",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "evaluation"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Jeff Barg breaks down the framework Clay uses to evaluate every agent it ships: quality, throughput, and cost. He walks through how Clay mixes factual evals, deterministic matching, and LLM-as-a-judge scoring to measure whether an agent is actually getting the right answer.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "error",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
+    "relatedChannels": [
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "evaluation"
+        ]
+      }
+    ]
+  },
+  {
     "id": "tk6xI9Sjr3g",
     "videoId": "tk6xI9Sjr3g",
     "channelSlug": "langchain",
@@ -67,7 +123,7 @@
     "channelSlug": "hugging-face",
     "channelName": "Hugging Face",
     "channelCategory": "developer-tools",
-    "title": "Can you forecast next week's weather?",
+    "title": "Predict next week's weather yourself",
     "url": "https://www.youtube.com/watch?v=1jq7sC6IjMk",
     "thumbnailUrl": "https://i2.ytimg.com/vi/1jq7sC6IjMk/hqdefault.jpg",
     "publishedAt": "2026-09-17T11:12:05+00:00",
@@ -105,7 +161,6 @@
         "name": "LangChain",
         "overlapTopics": [
           "evaluation",
-          "open-source models",
           "coding"
         ]
       },
@@ -144,11 +199,11 @@
     "summary": "Learn more about AI Observability here → https://ibm.biz/~1VvjeyWZi AI agents fail in ways traditional monitoring can't see. Legare Kerrison explains how MLflow helps trace, evaluate, and monitor multi-agent systems using observability and OpenTelemetry.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "rate-limited",
+    "transcriptStatus": "disabled",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Transcript provider rate limited the request.",
+    "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -231,12 +286,12 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "open-source models",
-          "tutorial"
+          "tutorial",
+          "news"
         ]
       }
     ]
@@ -505,11 +560,11 @@
     "summary": "Explore the podcast → https://ibm.biz/~7vUKC9XTD Depending on who you ask, the AI-driven vulnpocalypse is either the end of cybersecurity as we know it or a lot of hot air. This week on Security Intelligence, host Patrick Austin sits down with Giacomo Casoni, Brad Lair and Norman Dorsch to dig into a new report...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "rate-limited",
+    "transcriptStatus": "disabled",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Transcript provider rate limited the request.",
+    "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -580,18 +635,18 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "open-source models",
-          "coding"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "coding",
+          "news"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "open-source models",
           "news"
         ]
       }
@@ -629,13 +684,6 @@
         "name": "Andrej Karpathy",
         "overlapTopics": [
           "fine-tuning",
-          "open-source models"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
           "open-source models"
         ]
       },
@@ -852,11 +900,11 @@
     "summary": "Learn more about Legacy Code here → https://ibm.biz/~IGoAQN8Qn Legacy code powers some of the world's most important systems, but maintaining it is becoming increasingly difficult. Anna Gutowska explains what legacy code is, why modernization is so challenging, and how AI can accelerate software migration,...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "rate-limited",
+    "transcriptStatus": "disabled",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Transcript provider rate limited the request.",
+    "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -1338,11 +1386,11 @@
     "summary": "Learn more about Shift-Left Testing here → https://ibm.biz/~GjS7OaN8v AI can generate software faster than ever, but speed alone doesn't create trust. Jeff Crume explains how developers secure AI-generated code using shift-left security, dependency validation, continuous testing, and outcome-based verification.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "rate-limited",
+    "transcriptStatus": "disabled",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Transcript provider rate limited the request.",
+    "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -1401,11 +1449,11 @@
     "summary": "Learn more about AI Agents here → https://ibm.biz/~ym64g2zF3 Want to become an AI engineer but not sure where to start? Cedric Clyburn breaks down the essential skills for AI engineering, from Python and APIs to RAG, embeddings, AI agents, observability, and deployment.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "rate-limited",
+    "transcriptStatus": "disabled",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Transcript provider rate limited the request.",
+    "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -1433,70 +1481,6 @@
           "agents",
           "tutorial",
           "news"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "7dFvU9zuv0k",
-    "videoId": "7dFvU9zuv0k",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "What is an agent harness? Explained fast",
-    "url": "https://www.youtube.com/shorts/7dFvU9zuv0k",
-    "thumbnailUrl": "https://i4.ytimg.com/vi/7dFvU9zuv0k/hqdefault.jpg",
-    "publishedAt": "2026-09-11T17:45:22+00:00",
-    "speaker": "LangChain",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "evaluation",
-      "open-source models",
-      "tutorial"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "langchain"
-    ],
-    "summary": "What is an agent harness? An agent is just a model plus a harness — and the harness is what makes it work.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "error",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
-    "relatedChannels": [
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "open-source models"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "open-source models",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "tutorial"
         ]
       }
     ]
@@ -1615,11 +1599,11 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "open-source models"
+          "news"
         ]
       }
     ]
@@ -1708,11 +1692,11 @@
     "summary": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~AHBoMt9Qu It's been a week that proves AI is moving faster than anyone can fully keep up with, unless you’ve got a good backhand. On episode 124 of Mixture of Experts, host Tim Hwang and co-host David Zax are joined by Bri Kopecki,...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "rate-limited",
+    "transcriptStatus": "disabled",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Transcript provider rate limited the request.",
+    "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -1790,7 +1774,6 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "open-source models",
           "coding",
           "tutorial"
         ]
@@ -1985,7 +1968,7 @@
     "channelSlug": "matt-wolfe",
     "channelName": "Matt Wolfe",
     "channelCategory": "creator-news",
-    "title": "I Asked GPT-6 Astra to Build an AI Slop Detector",
+    "title": "I Built A Tool To Detect AI Video (You Can Have It)",
     "url": "https://www.youtube.com/watch?v=-KcHn0QcSb0",
     "thumbnailUrl": "https://i2.ytimg.com/vi/-KcHn0QcSb0/hqdefault.jpg",
     "publishedAt": "2026-09-09T22:18:17+00:00",
@@ -1999,7 +1982,7 @@
     "secondaryTopics": [],
     "modelsMentioned": [],
     "summary": "AI video is getting REALLY hard to spot… So I tried to build a tool that could detect it for me. Want to run it yourself?",
-    "stance": "tutorial",
+    "stance": "analysis",
     "transcriptSource": "none",
     "transcriptStatus": "disabled",
     "transcriptSnippet": "",
@@ -2199,7 +2182,6 @@
         "overlapTopics": [
           "agents",
           "prompting",
-          "open-source models",
           "coding"
         ]
       },
@@ -2258,7 +2240,6 @@
         "name": "LangChain",
         "overlapTopics": [
           "evaluation",
-          "open-source models",
           "tutorial"
         ]
       },
@@ -2310,19 +2291,18 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "open-source models"
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
-          "agents",
-          "open-source models"
+          "agents"
         ]
       }
     ]
@@ -2366,17 +2346,17 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "open-source models"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "automation"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "open-source models"
         ]
       }
     ]
@@ -2411,11 +2391,11 @@
     "summary": "The example-driven, practical walkthrough of Large Language Models and their growing list of related features, as a new entry to my general audience series on LLMs. In this more practical followup, I take you through the many ways I use LLMs in my own life.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "rate-limited",
+    "transcriptStatus": "disabled",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Transcript provider rate limited the request.",
+    "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -2536,11 +2516,11 @@
     "summary": "We reproduce the GPT-2 (124M) from scratch. This video covers the whole process: First we build the GPT-2 network, then we optimize its training to be really fast, then we set up the training run following the GPT-2 and GPT-3 paper and their hyperparameters, then we hit run, and come back the next morning to see...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "rate-limited",
+    "transcriptStatus": "disabled",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Transcript provider rate limited the request.",
+    "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -2623,8 +2603,7 @@
         "overlapTopics": [
           "rag",
           "prompting",
-          "evaluation",
-          "open-source models"
+          "evaluation"
         ]
       },
       {
@@ -2792,11 +2771,11 @@
     "summary": "We take the 2-layer MLP from previous video and make it deeper with a tree-like structure, arriving at a convolutional neural network architecture similar to the WaveNet (2016) from DeepMind. In the WaveNet paper, the same hierarchical architecture is implemented more efficiently using causal dilated convolutions...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "rate-limited",
+    "transcriptStatus": "disabled",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Transcript provider rate limited the request.",
+    "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
