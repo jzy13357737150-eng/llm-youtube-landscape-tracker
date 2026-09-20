@@ -28,10 +28,10 @@
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
-          "reasoning",
           "evaluation",
           "coding",
-          "fine-tuning"
+          "fine-tuning",
+          "prompting"
         ]
       },
       {
@@ -90,16 +90,6 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "rag",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -107,6 +97,16 @@
           "evaluation",
           "tutorial",
           "coding"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "rag",
+          "tutorial"
         ]
       }
     ]
@@ -128,7 +128,7 @@
       "open-source models",
       "coding",
       "agents",
-      "automation"
+      "evaluation"
     ],
     "dominantFormats": [
       "analysis"
@@ -141,7 +141,7 @@
           "open-source models",
           "coding",
           "agents",
-          "automation"
+          "evaluation"
         ]
       },
       {
@@ -155,12 +155,13 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
+          "open-source models",
           "coding",
           "agents",
-          "evaluation"
+          "news"
         ]
       }
     ]
@@ -189,22 +190,22 @@
     ],
     "relatedChannels": [
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "automation",
-          "news"
-        ]
-      },
-      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "automation",
           "coding",
+          "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "automation",
           "news"
         ]
       },
