@@ -25,6 +25,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "evaluation",
+          "coding",
+          "rag",
+          "prompting"
+        ]
+      },
+      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -41,16 +51,6 @@
           "evaluation",
           "coding",
           "fine-tuning",
-          "prompting"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "evaluation",
-          "coding",
-          "rag",
           "prompting"
         ]
       }
@@ -182,8 +182,8 @@
       "agents",
       "rag",
       "enterprise ai",
-      "automation",
-      "coding"
+      "news",
+      "automation"
     ],
     "dominantFormats": [
       "analysis"
@@ -194,9 +194,9 @@
         "name": "Hugging Face",
         "overlapTopics": [
           "agents",
+          "news",
           "automation",
-          "coding",
-          "news"
+          "coding"
         ]
       },
       {
@@ -205,8 +205,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "automation",
-          "news"
+          "news",
+          "automation"
         ]
       },
       {
