@@ -76,7 +76,8 @@
       "coding"
     ],
     "dominantFormats": [
-      "analysis"
+      "analysis",
+      "benchmark"
     ],
     "relatedChannels": [
       {
@@ -190,16 +191,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "news",
-          "automation",
-          "coding"
-        ]
-      },
-      {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
@@ -207,6 +198,16 @@
           "rag",
           "news",
           "automation"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "news",
+          "automation",
+          "coding"
         ]
       },
       {
