@@ -25,8 +25,8 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "reasoning",
           "evaluation",
@@ -35,8 +35,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "reasoning",
           "evaluation",
@@ -77,7 +77,8 @@
     ],
     "dominantFormats": [
       "analysis",
-      "benchmark"
+      "benchmark",
+      "interview"
     ],
     "relatedChannels": [
       {
@@ -211,11 +212,11 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
+          "news",
           "tutorial"
         ]
       }
@@ -237,8 +238,8 @@
       "agents",
       "news",
       "tutorial",
-      "open-source models",
-      "closed models"
+      "closed models",
+      "open-source models"
     ],
     "dominantFormats": [
       "analysis",
@@ -252,7 +253,7 @@
           "agents",
           "news",
           "tutorial",
-          "open-source models"
+          "closed models"
         ]
       },
       {
@@ -261,8 +262,8 @@
         "overlapTopics": [
           "agents",
           "tutorial",
-          "open-source models",
-          "closed models"
+          "closed models",
+          "open-source models"
         ]
       },
       {
