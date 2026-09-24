@@ -1,5 +1,321 @@
 [
   {
+    "id": "pb-AAvvQZ-U",
+    "videoId": "pb-AAvvQZ-U",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "How to go from your agent's traces to a fine-tuned model in one workflow",
+    "url": "https://www.youtube.com/watch?v=pb-AAvvQZ-U",
+    "thumbnailUrl": "https://i1.ytimg.com/vi/pb-AAvvQZ-U/hqdefault.jpg",
+    "publishedAt": "2026-09-24T14:09:42+00:00",
+    "speaker": "LangChain",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "fine-tuning",
+      "evaluation",
+      "open-source models",
+      "coding"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "qwen",
+      "langchain"
+    ],
+    "summary": "Introducing LangSmith Fine-Tuning and smithtune, a CLI that helps teams turn LangSmith trajectories into custom fine-tuned models for their agents. It handles the entire fine-tuning process from one CLI: dataset creation and preparation from LangSmith trajectories, training with Fireworks or Baseten, and evaluation...",
+    "stance": "tutorial",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "fine-tuning",
+          "evaluation"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "fine-tuning",
+          "evaluation",
+          "open-source models"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "open-source models",
+          "coding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1akSvsjd_oI",
+    "videoId": "1akSvsjd_oI",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "Introducing LangSmith Trajectories: A readable view of every agent session",
+    "url": "https://www.youtube.com/watch?v=1akSvsjd_oI",
+    "thumbnailUrl": "https://i2.ytimg.com/vi/1akSvsjd_oI/hqdefault.jpg",
+    "publishedAt": "2026-09-24T14:09:40+00:00",
+    "speaker": "LangChain",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "fine-tuning",
+      "evaluation",
+      "automation",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "langchain"
+    ],
+    "summary": "We’re launching Trajectories in LangSmith, a chronological, conversational view of an agent session. A Trajectory aggregates messages from humans, AI, and tools across the main agent and any subagents, then shows them in the order they first appeared.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "fine-tuning",
+          "evaluation",
+          "automation"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "automation",
+          "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "automation",
+          "news"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "GNO9XFE4PKM",
+    "videoId": "GNO9XFE4PKM",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "Introducing LangSmith Engine v2: Detect and ship fixes to agents faster",
+    "url": "https://www.youtube.com/watch?v=GNO9XFE4PKM",
+    "thumbnailUrl": "https://i4.ytimg.com/vi/GNO9XFE4PKM/hqdefault.jpg",
+    "publishedAt": "2026-09-24T14:09:22+00:00",
+    "speaker": "LangChain",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "evaluation",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "langchain"
+    ],
+    "summary": "We built LangSmith Engine as an in-platform agent that automates work at each step of the agent development lifecycle. Since launching in May, Engine has already helped engineers analyze more than 60M traces to diagnose tens of thousands of issues.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "news"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "news"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aMqBsTRD2XA",
+    "videoId": "aMqBsTRD2XA",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "Introducing LangSmith Custom Apps: Build custom interfaces around your agent data",
+    "url": "https://www.youtube.com/watch?v=aMqBsTRD2XA",
+    "thumbnailUrl": "https://i2.ytimg.com/vi/aMqBsTRD2XA/hqdefault.jpg",
+    "publishedAt": "2026-09-24T14:09:16+00:00",
+    "speaker": "LangChain",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "prompting",
+      "evaluation",
+      "coding",
+      "enterprise ai"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "langchain"
+    ],
+    "summary": "We're launching Custom Apps in LangSmith, which lets you build, publish, and run custom UIs on top of LangSmith data and run them directly inside LangSmith. ✅ Create custom interfaces without starting from scratch: Use templates and coding-agent guidance to build on LangSmith data, then publish and share inside...",
+    "stance": "tutorial",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "evaluation"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "enterprise ai"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "evaluation",
+          "coding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "F3hlZSZc6UI",
+    "videoId": "F3hlZSZc6UI",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "How AI Agents, LLMs & APIs Use Real-Time Data at the US Open",
+    "url": "https://www.youtube.com/watch?v=F3hlZSZc6UI",
+    "thumbnailUrl": "https://i3.ytimg.com/vi/F3hlZSZc6UI/hqdefault.jpg",
+    "publishedAt": "2026-09-24T11:00:22+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "enterprise ai",
+      "tutorial",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Learn more about Serve Quality here → https://ibm.biz/~nrYtWf9BC AI is analyzing tennis serves at the US Open. Aaron Baughman explains how APIs give AI agents specialized, real-time data to reason over.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "tutorial",
+          "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "news"
+        ]
+      }
+    ]
+  },
+  {
     "id": "nsA_HeY3idE",
     "videoId": "nsA_HeY3idE",
     "channelSlug": "matt-wolfe",
@@ -30,15 +346,6 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "news"
-        ]
-      },
-      {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
@@ -50,6 +357,14 @@
       {
         "slug": "langchain",
         "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "news"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "news"
@@ -100,22 +415,21 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "prompting",
           "evaluation",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
           "tutorial"
         ]
       }
@@ -159,6 +473,7 @@
         "overlapTopics": [
           "agents",
           "rag",
+          "enterprise ai",
           "tutorial"
         ]
       },
@@ -216,16 +531,6 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -243,6 +548,16 @@
           "rag",
           "prompting",
           "evaluation"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "tutorial",
+          "news"
         ]
       }
     ]
@@ -282,6 +597,7 @@
         "overlapTopics": [
           "agents",
           "rag",
+          "enterprise ai",
           "news"
         ]
       },
@@ -336,15 +652,6 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "news"
-        ]
-      },
-      {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
@@ -356,6 +663,14 @@
       {
         "slug": "langchain",
         "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "news"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "news"
@@ -396,8 +711,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "rag",
@@ -406,13 +721,13 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
-          "evaluation",
-          "coding"
+          "coding",
+          "tutorial"
         ]
       },
       {
@@ -459,16 +774,6 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
@@ -479,66 +784,12 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "tutorial"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "HTbm-6VFMUk",
-    "videoId": "HTbm-6VFMUk",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "Jev Explained | System 1 vs System 2, for AI models",
-    "url": "https://www.youtube.com/shorts/HTbm-6VFMUk",
-    "thumbnailUrl": "https://i1.ytimg.com/vi/HTbm-6VFMUk/hqdefault.jpg",
-    "publishedAt": "2026-09-22T16:51:52+00:00",
-    "speaker": "LangChain",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "reasoning",
-      "evaluation",
-      "tutorial"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "langchain"
-    ],
-    "summary": "Daniel Kahneman split human thinking into two systems: System 1 is fast, cheap and automatic, and System 2 is slow, expensive and deliberate. The same split is showing up in models.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "error",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
-    "relatedChannels": [
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
-          "reasoning",
-          "evaluation"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "reasoning",
-          "evaluation"
+          "tutorial"
         ]
       },
       {
@@ -548,70 +799,6 @@
           "agents",
           "evaluation",
           "tutorial"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "4-oA1BJeyr4",
-    "videoId": "4-oA1BJeyr4",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "Ship a GitHub PR From a Slack Message with Managed Deep Agents",
-    "url": "https://www.youtube.com/watch?v=4-oA1BJeyr4",
-    "thumbnailUrl": "https://i1.ytimg.com/vi/4-oA1BJeyr4/hqdefault.jpg",
-    "publishedAt": "2026-09-22T16:06:02+00:00",
-    "speaker": "LangChain",
-    "guests": [
-      "Managed Deep Agents"
-    ],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "evaluation",
-      "coding"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "langchain"
-    ],
-    "summary": "Ishaan from the LangChain team built Patch, an agent that turns a Slack message into a working GitHub PR, using Managed Deep Agents. In this walkthrough he uses Patch to ship two real features for a Tetris side project, then breaks down the agent.py, instructions.md, Slack channel, GitHub MCP, and sandbox setup...",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "coding"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "coding"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "coding"
         ]
       }
     ]
@@ -651,6 +838,7 @@
         "overlapTopics": [
           "agents",
           "rag",
+          "enterprise ai",
           "tutorial"
         ]
       },
@@ -710,8 +898,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "tutorial",
-          "news"
+          "enterprise ai",
+          "automation"
         ]
       },
       {
@@ -732,68 +920,6 @@
           "automation",
           "tutorial",
           "news"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "Bx22XGBbs70",
-    "videoId": "Bx22XGBbs70",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "The Self-Driving Eval Trick No AI Benchmark Beats",
-    "url": "https://www.youtube.com/shorts/Bx22XGBbs70",
-    "thumbnailUrl": "https://i3.ytimg.com/vi/Bx22XGBbs70/hqdefault.jpg",
-    "publishedAt": "2026-09-21T21:00:11+00:00",
-    "speaker": "LangChain",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "evaluation",
-      "tutorial"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "langchain"
-    ],
-    "summary": "Unify co-founder and CTO Connor Heggie explains the eval habit he brought over from building vision models at a self-driving startup: sit down as a team and watch real examples, one at a time, before trusting a model. Full conversation on Max Agency, LangChain's podcast on building production agents.",
-    "stance": "benchmark",
-    "transcriptSource": "none",
-    "transcriptStatus": "error",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
-    "relatedChannels": [
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "tutorial"
         ]
       }
     ]
@@ -833,7 +959,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting"
+          "prompting",
+          "automation"
         ]
       },
       {
@@ -852,70 +979,6 @@
           "agents",
           "prompting",
           "automation"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "VE5dsWll06M",
-    "videoId": "VE5dsWll06M",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "Building a Harness with Jev",
-    "url": "https://www.youtube.com/watch?v=VE5dsWll06M",
-    "thumbnailUrl": "https://i3.ytimg.com/vi/VE5dsWll06M/hqdefault.jpg",
-    "publishedAt": "2026-09-21T16:00:08+00:00",
-    "speaker": "LangChain",
-    "guests": [
-      "Jev"
-    ],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "evaluation",
-      "tutorial"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "langchain"
-    ],
-    "summary": "Learn all about Jev, a new System One model from TypeSafe AI, and how you can use it in your agent harness. Jev is up to 200x faster and 400x cheaper than LLMs on classification style tasks, which makes it great for applications like model routing and \"jev as a judge\" online evals.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "tutorial"
         ]
       }
     ]
@@ -1013,8 +1076,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "tutorial",
-          "news"
+          "enterprise ai",
+          "tutorial"
         ]
       },
       {
@@ -1073,8 +1136,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "tutorial",
-          "news"
+          "enterprise ai",
+          "tutorial"
         ]
       },
       {
@@ -1128,9 +1191,10 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
+          "fine-tuning",
           "open-source models",
           "news"
         ]
@@ -1144,11 +1208,11 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
-          "fine-tuning",
-          "open-source models"
+          "open-source models",
+          "news"
         ]
       }
     ]
@@ -1192,7 +1256,7 @@
           "agents",
           "rag",
           "prompting",
-          "news"
+          "automation"
         ]
       },
       {
@@ -1248,6 +1312,16 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "open-source models",
+          "coding"
+        ]
+      },
+      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
@@ -1263,15 +1337,6 @@
         "overlapTopics": [
           "agents",
           "open-source models",
-          "coding"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
           "coding"
         ]
       }
@@ -1325,88 +1390,23 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "open-source models",
-          "closed models",
-          "coding"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "open-source models",
           "coding",
           "tutorial"
         ]
-      }
-    ]
-  },
-  {
-    "id": "DtKEgRuq_00",
-    "videoId": "DtKEgRuq_00",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "Pacing the AI frontier, IBM Granite 4.2 & Meta’s Muse assistant",
-    "url": "https://www.youtube.com/watch?v=DtKEgRuq_00",
-    "thumbnailUrl": "https://i1.ytimg.com/vi/DtKEgRuq_00/hqdefault.jpg",
-    "publishedAt": "2026-09-18T10:00:23+00:00",
-    "speaker": "IBM Technology",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "reasoning",
-      "evaluation",
-      "closed models",
-      "coding"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "claude",
-      "anthropic"
-    ],
-    "summary": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~pXHrXz07k On episode 125 of Mixture of Experts, host Tim Hwang and co-host David Zax are joined by Mihai Criveti and Abraham Daniels to discuss the back and forth of frontier AI development, IBM’s latest Granite news, and what’s next...",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "reasoning",
-          "evaluation"
-        ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "rag",
-          "reasoning",
-          "evaluation"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "coding"
+          "open-source models",
+          "coding",
+          "tutorial"
         ]
       }
     ]
@@ -1441,6 +1441,16 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "fine-tuning",
+          "evaluation",
+          "open-source models",
+          "coding"
+        ]
+      },
+      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
@@ -1453,15 +1463,6 @@
       {
         "slug": "ibm-technology",
         "name": "IBM Technology",
-        "overlapTopics": [
-          "evaluation",
-          "open-source models",
-          "coding"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
         "overlapTopics": [
           "open-source models",
           "coding"
@@ -1500,6 +1501,16 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "open-source models",
+          "tutorial",
+          "news"
+        ]
+      },
+      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -1517,16 +1528,6 @@
           "open-source models",
           "tutorial",
           "news"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "open-source models",
-          "voice ai",
-          "tutorial"
         ]
       }
     ]
@@ -1621,9 +1622,10 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
+          "fine-tuning",
           "open-source models",
           "coding",
           "news"
@@ -1639,12 +1641,12 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
-          "fine-tuning",
           "open-source models",
-          "coding"
+          "coding",
+          "news"
         ]
       }
     ]
@@ -1677,17 +1679,18 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "fine-tuning",
           "open-source models"
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
+          "fine-tuning",
           "open-source models"
         ]
       },
@@ -1737,7 +1740,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting"
+          "prompting",
+          "automation"
         ]
       },
       {
@@ -1846,12 +1850,12 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
-          "closed models",
+          "prompting",
           "automation"
         ]
       },
@@ -1866,12 +1870,12 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting"
+          "automation"
         ]
       }
     ]
@@ -1913,7 +1917,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting"
+          "prompting",
+          "automation"
         ]
       },
       {
@@ -2025,12 +2030,12 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
-          "closed models",
+          "prompting",
           "automation"
         ]
       },
@@ -2045,12 +2050,12 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting"
+          "automation"
         ]
       }
     ]
@@ -2092,7 +2097,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting"
+          "prompting",
+          "automation"
         ]
       },
       {
@@ -2150,7 +2156,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting"
+          "prompting",
+          "automation"
         ]
       },
       {
@@ -2206,8 +2213,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "fine-tuning",
@@ -2216,13 +2223,13 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
+          "fine-tuning",
           "open-source models",
-          "coding",
-          "tutorial"
+          "coding"
         ]
       },
       {
@@ -2272,6 +2279,16 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "fine-tuning",
+          "open-source models"
+        ]
+      },
+      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
@@ -2289,15 +2306,6 @@
           "open-source models",
           "coding",
           "automation"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "open-source models",
-          "coding"
         ]
       }
     ]
@@ -2332,6 +2340,16 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "fine-tuning",
+          "evaluation",
+          "open-source models",
+          "tutorial"
+        ]
+      },
+      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
@@ -2344,15 +2362,6 @@
       {
         "slug": "ibm-technology",
         "name": "IBM Technology",
-        "overlapTopics": [
-          "evaluation",
-          "open-source models",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
         "overlapTopics": [
           "open-source models",
           "tutorial"
@@ -2389,8 +2398,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "fine-tuning",
@@ -2398,10 +2407,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
+          "fine-tuning",
           "open-source models"
         ]
       },
@@ -2461,19 +2471,16 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
-          "reasoning",
-          "closed models",
           "coding"
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
-          "reasoning",
           "coding"
         ]
       }
@@ -2523,18 +2530,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "reasoning",
-          "prompting"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "reasoning",
-          "evaluation"
+          "prompting",
+          "fine-tuning"
         ]
       },
       {
@@ -2545,6 +2542,15 @@
           "prompting",
           "fine-tuning",
           "evaluation"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting"
         ]
       }
     ]
@@ -2584,17 +2590,6 @@
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
-          "reasoning",
-          "evaluation",
-          "coding",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "reasoning",
           "evaluation",
           "coding",
           "tutorial"
@@ -2605,6 +2600,14 @@
         "name": "Hugging Face",
         "overlapTopics": [
           "evaluation",
+          "coding",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
           "coding",
           "tutorial"
         ]
@@ -2651,19 +2654,9 @@
         "name": "LangChain",
         "overlapTopics": [
           "rag",
-          "reasoning",
           "prompting",
+          "fine-tuning",
           "evaluation"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "rag",
-          "reasoning",
-          "evaluation",
-          "open-source models"
         ]
       },
       {
@@ -2673,6 +2666,14 @@
           "prompting",
           "fine-tuning",
           "evaluation",
+          "open-source models"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "rag",
           "open-source models"
         ]
       }
@@ -2721,18 +2722,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "reasoning",
-          "prompting"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "reasoning",
-          "evaluation"
+          "prompting",
+          "fine-tuning"
         ]
       },
       {
@@ -2743,6 +2734,15 @@
           "prompting",
           "fine-tuning",
           "evaluation"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting"
         ]
       }
     ]
@@ -2786,19 +2786,9 @@
         "name": "LangChain",
         "overlapTopics": [
           "rag",
-          "reasoning",
           "prompting",
+          "fine-tuning",
           "evaluation"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "rag",
-          "reasoning",
-          "evaluation",
-          "coding"
         ]
       },
       {
@@ -2808,6 +2798,14 @@
           "prompting",
           "fine-tuning",
           "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "rag",
           "coding"
         ]
       }
@@ -2845,7 +2843,6 @@
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
-          "reasoning",
           "coding",
           "tutorial"
         ]
@@ -2854,7 +2851,6 @@
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
-          "reasoning",
           "coding",
           "tutorial"
         ]
@@ -2906,8 +2902,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "reasoning",
-          "evaluation"
+          "evaluation",
+          "coding"
         ]
       },
       {
@@ -2916,8 +2912,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "reasoning",
-          "evaluation"
+          "coding",
+          "tutorial"
         ]
       },
       {
