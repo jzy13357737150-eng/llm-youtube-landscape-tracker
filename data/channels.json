@@ -35,6 +35,16 @@
         ]
       },
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "evaluation",
+          "coding",
+          "rag",
+          "prompting"
+        ]
+      },
+      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -42,15 +52,6 @@
           "coding",
           "fine-tuning",
           "prompting"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "evaluation",
-          "coding",
-          "rag"
         ]
       }
     ]
@@ -183,8 +184,8 @@
       "agents",
       "rag",
       "enterprise ai",
-      "tutorial",
-      "news"
+      "news",
+      "tutorial"
     ],
     "dominantFormats": [
       "analysis"
@@ -197,7 +198,7 @@
           "agents",
           "rag",
           "enterprise ai",
-          "tutorial"
+          "news"
         ]
       },
       {
@@ -215,8 +216,8 @@
         "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "tutorial",
           "news",
+          "tutorial",
           "automation"
         ]
       }
@@ -307,8 +308,8 @@
         "overlapTopics": [
           "agents",
           "automation",
-          "rag",
-          "closed models"
+          "prompting",
+          "rag"
         ]
       },
       {
