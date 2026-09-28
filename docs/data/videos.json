@@ -1,5 +1,131 @@
 [
   {
+    "id": "bs1qPy_CWkM",
+    "videoId": "bs1qPy_CWkM",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "Prompt to Production: The Future of AI Code Workflows",
+    "url": "https://www.youtube.com/watch?v=bs1qPy_CWkM",
+    "thumbnailUrl": "https://i3.ytimg.com/vi/bs1qPy_CWkM/hqdefault.jpg",
+    "publishedAt": "2026-09-28T11:00:25+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "prompting",
+      "coding",
+      "enterprise ai",
+      "automation"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Learn more about Agentic Coding here → https://ibm.biz/~eVuLdAOOj Writing code is becoming the easy part. Sam Anthony explains why planning, execution, validation, and verification matter more as AI coding systems become increasingly capable.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "coding"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "automation"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "coding",
+          "automation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4ji1z6R4EvQ",
+    "videoId": "4ji1z6R4EvQ",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "What Happens Inside an AI Right Before It Cheats",
+    "url": "https://www.youtube.com/shorts/4ji1z6R4EvQ",
+    "thumbnailUrl": "https://i1.ytimg.com/vi/4ji1z6R4EvQ/hqdefault.jpg",
+    "publishedAt": "2026-09-28T04:00:31+00:00",
+    "speaker": "LangChain",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "evaluation",
+      "coding"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "langchain",
+      "anthropic"
+    ],
+    "summary": "Eno Reyes, CTO of Factory, connects Anthropic's interpretability research — where a \"panic\" signal showed up right before a model cheated on a coding task — to how Factory's Droid is designed to work around it: self-defined skills, fresh-context workers, and milestone-based validation to keep shortcuts from...",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "error",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
+    "relatedChannels": [
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "coding"
+        ]
+      }
+    ]
+  },
+  {
     "id": "kyJ1vd7yEPc",
     "videoId": "kyJ1vd7yEPc",
     "channelSlug": "ibm-technology",
@@ -22,12 +148,12 @@
     "modelsMentioned": [],
     "summary": "Learn more about Data Tools here → https://ibm.biz/~DSFj8t9c9 AI is exposing your data in ways most teams can't see. Jeff Crume explains how AI agents, RAG pipelines, prompts, tools, and models move sensitive data through modern AI systems.",
     "stance": "analysis",
-    "transcriptSource": "youtube-captions",
-    "transcriptStatus": "missing",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Transcript unavailable.",
+    "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -184,13 +310,13 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
+          "rag",
           "prompting",
-          "closed models",
-          "voice ai"
+          "automation"
         ]
       }
     ]
@@ -1128,70 +1254,6 @@
     ]
   },
   {
-    "id": "HHUsHkYhkcM",
-    "videoId": "HHUsHkYhkcM",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "How To Build A Harness With Jev | A LangChain x TypeSafe Conversation",
-    "url": "https://www.youtube.com/watch?v=HHUsHkYhkcM",
-    "thumbnailUrl": "https://i1.ytimg.com/vi/HHUsHkYhkcM/hqdefault.jpg",
-    "publishedAt": "2026-09-22T20:55:30+00:00",
-    "speaker": "LangChain",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "evaluation",
-      "coding",
-      "tutorial"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "langchain"
-    ],
-    "summary": "Hear from Sydney Runkle, Product Manager, OSS at LangChain, Allie Laabs, Founding Developer Advocate at TypeSafe AI, and Hunter Lovell, Technical Lead at LangChain, for a live conversation on building an agent harness with Jev, a new System One model from TypeSafe AI. How To Build A Harness With Jev | A LangChain x...",
-    "stance": "interview",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "coding"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "coding"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "coding",
-          "tutorial"
-        ]
-      }
-    ]
-  },
-  {
     "id": "jsMGpTpPZJ4",
     "videoId": "jsMGpTpPZJ4",
     "channelSlug": "ibm-technology",
@@ -1245,69 +1307,6 @@
         "overlapTopics": [
           "agents",
           "tutorial"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "XzL_vtYAO-4",
-    "videoId": "XzL_vtYAO-4",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "AI Agents Aren't the Revolution. They're the Catalyst!",
-    "url": "https://www.youtube.com/watch?v=XzL_vtYAO-4",
-    "thumbnailUrl": "https://i1.ytimg.com/vi/XzL_vtYAO-4/hqdefault.jpg",
-    "publishedAt": "2026-09-22T11:00:08+00:00",
-    "speaker": "IBM Technology",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "enterprise ai",
-      "automation",
-      "tutorial",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Learn more about AI Agents here → https://ibm.biz/~4btU3fpmZ Everyone is focused on AI agents, but that may not be the real story. Sam Anthony explains how AI agents are accelerating changes in data, software, systems, and digital literacy.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai",
-          "automation"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "automation",
-          "news"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "automation",
-          "tutorial",
-          "news"
         ]
       }
     ]
@@ -2904,16 +2903,16 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "coding",
           "tutorial"
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "coding",
           "tutorial"

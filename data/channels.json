@@ -77,8 +77,7 @@
     ],
     "dominantFormats": [
       "analysis",
-      "tutorial",
-      "interview"
+      "tutorial"
     ],
     "relatedChannels": [
       {
@@ -202,13 +201,13 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
           "news",
-          "automation"
+          "tutorial",
+          "coding"
         ]
       },
       {
@@ -218,7 +217,7 @@
           "agents",
           "news",
           "tutorial",
-          "automation"
+          "coding"
         ]
       }
     ]
@@ -268,13 +267,13 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "news",
-          "closed models",
-          "voice ai"
+          "tutorial",
+          "coding"
         ]
       }
     ]
