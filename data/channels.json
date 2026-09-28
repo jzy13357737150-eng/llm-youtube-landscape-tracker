@@ -73,13 +73,23 @@
       "evaluation",
       "rag",
       "coding",
-      "news"
+      "prompting"
     ],
     "dominantFormats": [
       "analysis",
       "tutorial"
     ],
     "relatedChannels": [
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "rag",
+          "coding"
+        ]
+      },
       {
         "slug": "ibm-technology",
         "name": "IBM Technology",
@@ -97,17 +107,7 @@
           "agents",
           "evaluation",
           "coding",
-          "news"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "rag",
-          "coding"
+          "prompting"
         ]
       }
     ]
@@ -205,9 +205,9 @@
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
+          "rag",
           "news",
-          "tutorial",
-          "coding"
+          "tutorial"
         ]
       },
       {
@@ -327,8 +327,8 @@
         "overlapTopics": [
           "agents",
           "prompting",
-          "closed models",
-          "news"
+          "rag",
+          "closed models"
         ]
       }
     ]
