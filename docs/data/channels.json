@@ -73,23 +73,13 @@
       "evaluation",
       "rag",
       "coding",
-      "prompting"
+      "fine-tuning"
     ],
     "dominantFormats": [
       "analysis",
       "tutorial"
     ],
     "relatedChannels": [
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "rag",
-          "coding"
-        ]
-      },
       {
         "slug": "ibm-technology",
         "name": "IBM Technology",
@@ -107,7 +97,17 @@
           "agents",
           "evaluation",
           "coding",
-          "prompting"
+          "fine-tuning"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "rag",
+          "coding"
         ]
       }
     ]
