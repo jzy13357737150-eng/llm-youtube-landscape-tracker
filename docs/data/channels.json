@@ -73,13 +73,23 @@
       "evaluation",
       "rag",
       "coding",
-      "fine-tuning"
+      "tutorial"
     ],
     "dominantFormats": [
       "analysis",
       "tutorial"
     ],
     "relatedChannels": [
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "rag",
+          "coding"
+        ]
+      },
       {
         "slug": "ibm-technology",
         "name": "IBM Technology",
@@ -97,17 +107,7 @@
           "agents",
           "evaluation",
           "coding",
-          "fine-tuning"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "rag",
-          "coding"
+          "tutorial"
         ]
       }
     ]
@@ -267,13 +267,13 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "news",
-          "coding",
-          "tutorial"
+          "closed models",
+          "voice ai"
         ]
       }
     ]
