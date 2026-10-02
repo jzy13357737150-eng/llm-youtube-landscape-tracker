@@ -39,9 +39,9 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "reasoning",
-          "evaluation",
           "coding",
-          "rag"
+          "rag",
+          "prompting"
         ]
       },
       {
@@ -101,13 +101,13 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "evaluation",
           "rag",
-          "coding"
+          "coding",
+          "tutorial"
         ]
       }
     ]
@@ -129,10 +129,11 @@
       "open-source models",
       "coding",
       "agents",
-      "evaluation"
+      "tutorial"
     ],
     "dominantFormats": [
-      "analysis"
+      "analysis",
+      "tutorial"
     ],
     "relatedChannels": [
       {
@@ -146,16 +147,6 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "open-source models",
-          "coding",
-          "agents",
-          "evaluation"
-        ]
-      },
-      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
@@ -163,6 +154,16 @@
           "open-source models",
           "coding",
           "agents"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "open-source models",
+          "coding",
+          "agents",
+          "tutorial"
         ]
       }
     ]
@@ -181,25 +182,16 @@
     "recentVideoCount": 8,
     "latestThemes": [
       "agents",
-      "rag",
       "enterprise ai",
+      "rag",
       "news",
-      "automation"
+      "prompting"
     ],
     "dominantFormats": [
-      "analysis"
+      "analysis",
+      "news"
     ],
     "relatedChannels": [
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai",
-          "news"
-        ]
-      },
       {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
@@ -207,7 +199,17 @@
           "agents",
           "rag",
           "news",
-          "automation"
+          "prompting"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "enterprise ai",
+          "rag",
+          "news"
         ]
       },
       {
@@ -216,8 +218,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "automation",
-          "coding"
+          "prompting",
+          "automation"
         ]
       }
     ]
@@ -257,13 +259,13 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "news",
-          "closed models",
-          "coding"
+          "coding",
+          "tutorial"
         ]
       },
       {
