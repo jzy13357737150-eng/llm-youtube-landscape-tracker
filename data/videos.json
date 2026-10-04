@@ -1,5 +1,63 @@
 [
   {
+    "id": "83HMZrhL_Uw",
+    "videoId": "83HMZrhL_Uw",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "AI & Music: How AI Is Changing Music Creation & Creativity",
+    "url": "https://www.youtube.com/watch?v=83HMZrhL_Uw",
+    "thumbnailUrl": "https://i1.ytimg.com/vi/83HMZrhL_Uw/hqdefault.jpg",
+    "publishedAt": "2026-10-04T11:00:25+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "enterprise ai",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Learn more about AI & Music here → https://ibm.biz/~oRfHkXZzg Can AI create music, or is it simply remixing what already exists? Jeff Crume explores how artificial intelligence is changing music creation, from composition and lyric writing to performance, production, and collaboration.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai",
+          "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "news"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag"
+        ]
+      }
+    ]
+  },
+  {
     "id": "iMv9sCg7vxo",
     "videoId": "iMv9sCg7vxo",
     "channelSlug": "ibm-technology",
@@ -1294,67 +1352,6 @@
           "agents",
           "rag",
           "coding"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "kyJ1vd7yEPc",
-    "videoId": "kyJ1vd7yEPc",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "AI Is Exposing Your Data: An AI Security Problem You Can't See",
-    "url": "https://www.youtube.com/watch?v=kyJ1vd7yEPc",
-    "thumbnailUrl": "https://i4.ytimg.com/vi/kyJ1vd7yEPc/hqdefault.jpg",
-    "publishedAt": "2026-09-27T11:00:22+00:00",
-    "speaker": "IBM Technology",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "prompting",
-      "enterprise ai",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Learn more about Data Tools here → https://ibm.biz/~DSFj8t9c9 AI is exposing your data in ways most teams can't see. Jeff Crume explains how AI agents, RAG pipelines, prompts, tools, and models move sensitive data through modern AI systems.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "enterprise ai"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "news"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting"
         ]
       }
     ]
