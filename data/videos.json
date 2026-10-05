@@ -1,5 +1,133 @@
 [
   {
+    "id": "sGrD9a8dh_0",
+    "videoId": "sGrD9a8dh_0",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "How Zip Uses LangSmith and LangGraph to Ship New Features Faster",
+    "url": "https://www.youtube.com/watch?v=sGrD9a8dh_0",
+    "thumbnailUrl": "https://i4.ytimg.com/vi/sGrD9a8dh_0/hqdefault.jpg",
+    "publishedAt": "2026-10-05T17:37:06+00:00",
+    "speaker": "LangChain",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "evaluation",
+      "coding",
+      "tutorial"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "langchain"
+    ],
+    "summary": "Dexter Lee, Staff Machine Learning Engineer at Zip, the procurement platform, explains what changed when his team started using LangGraph and LangSmith for its AI development. Before, Zip built its own code for calling LLMs, piping and storing results, and building context: adding a feature to an early version of...",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "coding",
+          "tutorial"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3SnB_cZ14bo",
+    "videoId": "3SnB_cZ14bo",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "Skills are just fancy prompts. Here's why that matters.",
+    "url": "https://www.youtube.com/shorts/3SnB_cZ14bo",
+    "thumbnailUrl": "https://i4.ytimg.com/vi/3SnB_cZ14bo/hqdefault.jpg",
+    "publishedAt": "2026-10-05T17:30:33+00:00",
+    "speaker": "LangChain",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "prompting",
+      "evaluation",
+      "coding"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "langchain"
+    ],
+    "summary": "Sydney Runkle, Software Engineer at LangChain, explains skills in Deep Agents: shareable prompts that agents can load on demand rather than keeping in context all the time. The pattern is called progressive disclosure — the agent knows a skill exists, fetches it when needed, and keeps the prompt clean the rest of...",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "error",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
+    "relatedChannels": [
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "evaluation"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "coding"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "coding"
+        ]
+      }
+    ]
+  },
+  {
     "id": "950byF7njfw",
     "videoId": "950byF7njfw",
     "channelSlug": "langchain",
@@ -272,7 +400,7 @@
     "modelsMentioned": [
       "chatgpt"
     ],
-    "summary": "Get the FREE Dots PDF https://customer.mastermind.com/hubfs/AILMO%20Create%20Your%20First%20Dot.pdf Join the AI Advantage Club https://joinaiaclub.com/igor See how ChatGPT Dots work, how to talk to your Dot by voice, and how I Igor used his to help him find a house in Phoenix. Try ChatGPT Dots https://chatgpt.com/...",
+    "summary": "Get the FREE Dots PDF https://learn.aiadvantage.com/free-ai-assistant-pdf Join the AI Advantage Club https://joinaiaclub.com/igor See how ChatGPT Dots work, how to talk to your Dot by voice, and how I Igor used his to help him find a house in Phoenix. Try ChatGPT Dots https://chatgpt.com/ Chapters 0:00 Meet ChatGPT...",
     "stance": "analysis",
     "transcriptSource": "none",
     "transcriptStatus": "disabled",
@@ -1240,71 +1368,6 @@
     ]
   },
   {
-    "id": "kRaJtEXAOxU",
-    "videoId": "kRaJtEXAOxU",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "Evaluating Agents in Production: Traces, LLM-as-Judge, and Prompt Management at Wonder",
-    "url": "https://www.youtube.com/watch?v=kRaJtEXAOxU",
-    "thumbnailUrl": "https://i4.ytimg.com/vi/kRaJtEXAOxU/hqdefault.jpg",
-    "publishedAt": "2026-09-28T19:02:59+00:00",
-    "speaker": "LangChain",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "prompting",
-      "evaluation",
-      "coding",
-      "tutorial"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "langchain"
-    ],
-    "summary": "Kartik Arora, AI Engineer at Wonder, explains how his team builds a generative AI application that takes every aspect of your life into account and plans all 21 of your meals for the week, then gets them delivered. He walks through what changed when they moved off manual log debugging to LangSmith traces,...",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "evaluation"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "coding"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "evaluation",
-          "coding"
-        ]
-      }
-    ]
-  },
-  {
     "id": "hx42whM7NsY",
     "videoId": "hx42whM7NsY",
     "channelSlug": "matt-wolfe",
@@ -1362,68 +1425,6 @@
           "rag",
           "tutorial",
           "news"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "4ji1z6R4EvQ",
-    "videoId": "4ji1z6R4EvQ",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "What Happens Inside an AI Right Before It Cheats",
-    "url": "https://www.youtube.com/shorts/4ji1z6R4EvQ",
-    "thumbnailUrl": "https://i1.ytimg.com/vi/4ji1z6R4EvQ/hqdefault.jpg",
-    "publishedAt": "2026-09-28T04:00:31+00:00",
-    "speaker": "LangChain",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "evaluation",
-      "coding"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "langchain",
-      "anthropic"
-    ],
-    "summary": "Eno Reyes, CTO of Factory, connects Anthropic's interpretability research — where a \"panic\" signal showed up right before a model cheated on a coding task — to how Factory's Droid is designed to work around it: self-defined skills, fresh-context workers, and milestone-based validation to keep shortcuts from...",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "error",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
-    "relatedChannels": [
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "coding"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding"
         ]
       }
     ]
