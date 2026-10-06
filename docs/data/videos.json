@@ -1,5 +1,195 @@
 [
   {
+    "id": "DGYpCXVe1TI",
+    "videoId": "DGYpCXVe1TI",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "What is Deep Agents? An open source harness for long-running agents.",
+    "url": "https://www.youtube.com/shorts/DGYpCXVe1TI",
+    "thumbnailUrl": "https://i1.ytimg.com/vi/DGYpCXVe1TI/hqdefault.jpg",
+    "publishedAt": "2026-10-06T19:15:09+00:00",
+    "speaker": "LangChain",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "evaluation",
+      "open-source models",
+      "coding"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "langchain"
+    ],
+    "summary": "What is Deep Agents? An open source harness for long-running agents.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "error",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
+    "relatedChannels": [
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "open-source models"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "open-source models",
+          "coding"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5kTFyEOgark",
+    "videoId": "5kTFyEOgark",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "How to Build a Model Router in the Harness",
+    "url": "https://www.youtube.com/watch?v=5kTFyEOgark",
+    "thumbnailUrl": "https://i2.ytimg.com/vi/5kTFyEOgark/hqdefault.jpg",
+    "publishedAt": "2026-10-06T16:31:25+00:00",
+    "speaker": "LangChain",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "evaluation",
+      "coding",
+      "tutorial"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "langchain"
+    ],
+    "summary": "Sydney Runkle, product manager for LangChain's open source team, walks through how the team built a model router into Open SWE, LangChain's open source coding agent. She covers the four steps: mapping the task mix from LangSmith traces, picking models along the Pareto frontier, building the router in the harness,...",
+    "stance": "tutorial",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "coding",
+          "tutorial"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "KAITWbHLSSE",
+    "videoId": "KAITWbHLSSE",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "Add Web Search to Managed Deep Agents for free with One MCP Config",
+    "url": "https://www.youtube.com/watch?v=KAITWbHLSSE",
+    "thumbnailUrl": "https://i4.ytimg.com/vi/KAITWbHLSSE/hqdefault.jpg",
+    "publishedAt": "2026-10-06T15:52:50+00:00",
+    "speaker": "LangChain",
+    "guests": [
+      "One MCP Config"
+    ],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "evaluation",
+      "tutorial"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "langchain"
+    ],
+    "summary": "Nathan Drezner, PM at LangChain, shows how to add web search to a managed deep agent. LangSmith includes built-in search powered by Parallel, so it takes one MCP connection with no extra authentication.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "tutorial"
+        ]
+      }
+    ]
+  },
+  {
     "id": "qZBibWYcKH4",
     "videoId": "qZBibWYcKH4",
     "channelSlug": "ibm-technology",
@@ -730,8 +920,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "fine-tuning",
@@ -740,11 +930,12 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "fine-tuning",
+          "open-source models",
           "tutorial"
         ]
       },
@@ -945,70 +1136,6 @@
     ]
   },
   {
-    "id": "4FZ5osx9W5s",
-    "videoId": "4FZ5osx9W5s",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "Build, Test, Deploy, Monitor: The Agent Development Lifecycle Explained",
-    "url": "https://www.youtube.com/shorts/4FZ5osx9W5s",
-    "thumbnailUrl": "https://i1.ytimg.com/vi/4FZ5osx9W5s/hqdefault.jpg",
-    "publishedAt": "2026-09-30T18:45:38+00:00",
-    "speaker": "LangChain",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "evaluation",
-      "coding",
-      "tutorial"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "langchain"
-    ],
-    "summary": "Amy and Sean from LangChain break down the agent development lifecycle, the process agent engineers use to build and improve their agents. It comes down to four phases: build it in code with a framework like Deep Agents, test it with real inputs and expected outputs, deploy it into production, and monitor it with...",
-    "stance": "tutorial",
-    "transcriptSource": "none",
-    "transcriptStatus": "error",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
-    "relatedChannels": [
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "coding"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "coding",
-          "tutorial"
-        ]
-      }
-    ]
-  },
-  {
     "id": "fWFkw70yJwk",
     "videoId": "fWFkw70yJwk",
     "channelSlug": "ibm-technology",
@@ -1060,67 +1187,6 @@
         "overlapTopics": [
           "agents",
           "rag"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "6v0Fmsi4Ldk",
-    "videoId": "6v0Fmsi4Ldk",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "HTTP Channels for Managed Deep Agents",
-    "url": "https://www.youtube.com/watch?v=6v0Fmsi4Ldk",
-    "thumbnailUrl": "https://i3.ytimg.com/vi/6v0Fmsi4Ldk/hqdefault.jpg",
-    "publishedAt": "2026-09-30T16:09:35+00:00",
-    "speaker": "LangChain",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "evaluation",
-      "tutorial"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "langchain"
-    ],
-    "summary": "Nathan Drezner, a product manager at LangChain, shows how to build a custom HTTP channel for a Managed Deep Agent so it can receive inbound requests from any service you don't control, like HubSpot, Salesforce, or a texting provider. He builds Reflex, an expense-reporting agent that receives receipt photos over...",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "tutorial"
         ]
       }
     ]
@@ -1313,63 +1379,6 @@
     ]
   },
   {
-    "id": "4sWCCasRzPQ",
-    "videoId": "4sWCCasRzPQ",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "This Is Why Your Main Agent Shouldn't Read Every Trace",
-    "url": "https://www.youtube.com/shorts/4sWCCasRzPQ",
-    "thumbnailUrl": "https://i1.ytimg.com/vi/4sWCCasRzPQ/hqdefault.jpg",
-    "publishedAt": "2026-09-29T14:30:40+00:00",
-    "speaker": "LangChain",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "evaluation"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "langchain"
-    ],
-    "summary": "LangChain PM Ben Tannyhill explains why they route trace investigation through screener and verifier sub agents instead of letting the main agent read everything. Full conversation on the Max Agency podcast.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "error",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
-    "relatedChannels": [
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag"
-        ]
-      }
-    ]
-  },
-  {
     "id": "hx42whM7NsY",
     "videoId": "hx42whM7NsY",
     "channelSlug": "matt-wolfe",
@@ -1400,16 +1409,6 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding",
-          "news"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -1417,6 +1416,16 @@
           "rag",
           "coding",
           "tutorial"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "news"
         ]
       },
       {
@@ -1609,16 +1618,6 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "coding",
-          "news"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -1626,6 +1625,16 @@
           "prompting",
           "coding",
           "tutorial"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "coding",
+          "news"
         ]
       }
     ]
@@ -1851,11 +1860,11 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "news"
+          "tutorial"
         ]
       }
     ]
@@ -1891,6 +1900,14 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "fine-tuning",
+          "open-source models"
+        ]
+      },
+      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
@@ -1903,13 +1920,6 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "news"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "fine-tuning"
         ]
       }
     ]
@@ -2008,8 +2018,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "fine-tuning",
           "evaluation",
@@ -2018,11 +2028,12 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "fine-tuning",
           "evaluation",
+          "open-source models",
           "coding"
         ]
       },
@@ -2065,6 +2076,15 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "fine-tuning",
+          "open-source models",
+          "coding"
+        ]
+      },
+      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
@@ -2079,14 +2099,6 @@
         "overlapTopics": [
           "coding",
           "news"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "fine-tuning",
-          "coding"
         ]
       }
     ]
@@ -2119,18 +2131,19 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "fine-tuning",
           "open-source models"
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
-          "fine-tuning"
+          "fine-tuning",
+          "open-source models"
         ]
       }
     ]
@@ -2293,8 +2306,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "fine-tuning",
@@ -2303,13 +2316,13 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "fine-tuning",
-          "coding",
-          "tutorial"
+          "open-source models",
+          "coding"
         ]
       },
       {
@@ -2358,6 +2371,16 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "fine-tuning",
+          "open-source models"
+        ]
+      },
+      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
@@ -2375,16 +2398,6 @@
           "prompting",
           "coding",
           "automation"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "fine-tuning",
-          "coding"
         ]
       }
     ]
@@ -2419,8 +2432,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "fine-tuning",
           "evaluation",
@@ -2429,11 +2442,12 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "fine-tuning",
           "evaluation",
+          "open-source models",
           "tutorial"
         ]
       },
@@ -2868,19 +2882,19 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "reasoning",
-          "coding"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "coding",
           "tutorial"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "reasoning",
+          "coding"
         ]
       },
       {
