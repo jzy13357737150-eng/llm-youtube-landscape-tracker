@@ -25,8 +25,8 @@
     ],
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "evaluation",
           "coding",
@@ -35,8 +35,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "evaluation",
           "coding",
@@ -72,8 +72,8 @@
       "agents",
       "evaluation",
       "rag",
-      "tutorial",
-      "coding"
+      "coding",
+      "tutorial"
     ],
     "dominantFormats": [
       "analysis",
@@ -87,7 +87,7 @@
           "agents",
           "evaluation",
           "rag",
-          "tutorial"
+          "coding"
         ]
       },
       {
@@ -96,8 +96,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "tutorial",
-          "coding"
+          "coding",
+          "tutorial"
         ]
       },
       {
@@ -107,7 +107,7 @@
           "agents",
           "evaluation",
           "rag",
-          "tutorial"
+          "coding"
         ]
       }
     ]
@@ -213,13 +213,13 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
+          "enterprise ai",
           "rag",
-          "news",
-          "automation"
+          "coding"
         ]
       }
     ]
