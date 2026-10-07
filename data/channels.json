@@ -25,6 +25,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "evaluation",
+          "coding",
+          "rag",
+          "fine-tuning"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -41,16 +51,6 @@
           "reasoning",
           "coding",
           "rag",
-          "prompting"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "evaluation",
-          "coding",
-          "fine-tuning",
           "prompting"
         ]
       }
@@ -81,6 +81,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "rag",
+          "tutorial"
+        ]
+      },
+      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -98,16 +108,6 @@
           "evaluation",
           "rag",
           "tutorial"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding",
-          "enterprise ai"
         ]
       }
     ]
@@ -129,7 +129,7 @@
       "open-source models",
       "coding",
       "agents",
-      "tutorial"
+      "automation"
     ],
     "dominantFormats": [
       "analysis",
@@ -147,6 +147,16 @@
         ]
       },
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "coding",
+          "agents",
+          "automation",
+          "news"
+        ]
+      },
+      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
@@ -154,15 +164,6 @@
           "open-source models",
           "coding",
           "agents"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "coding",
-          "agents",
-          "automation"
         ]
       }
     ]
@@ -192,6 +193,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "news",
+          "automation"
+        ]
+      },
+      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -199,16 +210,6 @@
           "enterprise ai",
           "rag",
           "news"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai",
-          "rag",
-          "coding"
         ]
       },
       {
@@ -296,12 +297,22 @@
       "automation",
       "prompting",
       "rag",
-      "closed models"
+      "news"
     ],
     "dominantFormats": [
       "analysis"
     ],
     "relatedChannels": [
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "automation",
+          "prompting",
+          "rag"
+        ]
+      },
       {
         "slug": "ibm-technology",
         "name": "IBM Technology",
@@ -319,16 +330,6 @@
           "agents",
           "prompting",
           "rag",
-          "closed models"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "automation",
-          "prompting",
           "news"
         ]
       }

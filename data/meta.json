@@ -1,27 +1,26 @@
 {
   "mode": "live",
-  "startedAt": "2026-10-07T02:47:21.909Z",
-  "generatedAt": "2026-10-07T02:47:45.004Z",
+  "startedAt": "2026-10-07T12:06:43.085Z",
+  "generatedAt": "2026-10-07T12:07:33.696Z",
   "openAiEnabled": false,
   "trackedChannels": 6,
   "processedVideos": 48,
   "transcriptCoverage": 0.10416666666666667,
   "summaryCoverage": 1,
   "notes": [
-    "Reused 8 cached videos for Andrej Karpathy after fetch failure.",
-    "Reused 8 cached videos for LangChain after fetch failure.",
-    "Reused 8 cached videos for Hugging Face after fetch failure.",
+    "Fetched 8 videos for Andrej Karpathy.",
+    "Resolved feed for Andrej Karpathy: https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ",
+    "Fetched 8 videos for LangChain.",
+    "Resolved feed for LangChain: https://www.youtube.com/feeds/videos.xml?channel_id=UCC-lyoTfSrcJzA1ab3APAgw",
+    "Fetched 8 videos for Hugging Face.",
+    "Resolved feed for Hugging Face: https://www.youtube.com/feeds/videos.xml?channel_id=UCHlNU7kIZhRgSbhHvFoy72w",
     "Fetched 8 videos for IBM Technology.",
     "Resolved feed for IBM Technology: https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
-    "Reused 8 cached videos for Matt Wolfe after fetch failure.",
+    "Fetched 8 videos for Matt Wolfe.",
+    "Resolved feed for Matt Wolfe: https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
     "Fetched 8 videos for The AI Advantage.",
     "Resolved feed for The AI Advantage: https://www.youtube.com/feeds/videos.xml?channel_id=UCHhYXsLBEVVnbvsq57n1MTQ"
   ],
-  "errors": [
-    "Channel fetch failed for Andrej Karpathy: Request failed 404 for https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ",
-    "Channel fetch failed for LangChain: Request failed 404 for https://www.youtube.com/feeds/videos.xml?channel_id=UCC-lyoTfSrcJzA1ab3APAgw",
-    "Channel fetch failed for Hugging Face: Request failed 404 for https://www.youtube.com/feeds/videos.xml?channel_id=UCHlNU7kIZhRgSbhHvFoy72w",
-    "Channel fetch failed for Matt Wolfe: Request failed 404 for https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g"
-  ],
+  "errors": [],
   "topicCount": 12
 }
