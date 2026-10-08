@@ -25,13 +25,23 @@
     ],
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "reasoning",
+          "coding",
+          "rag",
+          "prompting"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "evaluation",
           "coding",
           "rag",
-          "fine-tuning"
+          "prompting"
         ]
       },
       {
@@ -42,16 +52,6 @@
           "coding",
           "rag",
           "fine-tuning"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "reasoning",
-          "coding",
-          "rag",
-          "prompting"
         ]
       }
     ]
@@ -72,8 +72,8 @@
       "agents",
       "evaluation",
       "rag",
-      "coding",
-      "tutorial"
+      "tutorial",
+      "coding"
     ],
     "dominantFormats": [
       "analysis",
@@ -81,13 +81,23 @@
     ],
     "relatedChannels": [
       {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "rag",
+          "tutorial"
+        ]
+      },
+      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "evaluation",
           "rag",
-          "coding"
+          "tutorial"
         ]
       },
       {
@@ -96,17 +106,7 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "coding",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "rag",
+          "tutorial",
           "coding"
         ]
       }
@@ -129,33 +129,13 @@
       "open-source models",
       "coding",
       "agents",
-      "automation"
+      "news"
     ],
     "dominantFormats": [
       "analysis",
       "tutorial"
     ],
     "relatedChannels": [
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "fine-tuning",
-          "open-source models",
-          "coding",
-          "agents"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "coding",
-          "agents",
-          "automation",
-          "news"
-        ]
-      },
       {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
@@ -164,6 +144,26 @@
           "open-source models",
           "coding",
           "agents"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "open-source models",
+          "coding",
+          "agents",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "coding",
+          "agents",
+          "news",
+          "tutorial"
         ]
       }
     ]
@@ -213,13 +213,13 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
-          "enterprise ai",
           "rag",
-          "coding"
+          "news",
+          "automation"
         ]
       }
     ]
@@ -304,16 +304,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "automation",
-          "prompting",
-          "rag"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -329,6 +319,16 @@
         "overlapTopics": [
           "agents",
           "prompting",
+          "rag",
+          "news"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "automation",
           "rag",
           "news"
         ]
