@@ -1,5 +1,70 @@
 [
   {
+    "id": "IO6Bhs2iNfk",
+    "videoId": "IO6Bhs2iNfk",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "OpenAI's always-on agents, 700+ math manuscripts & HackerRank's AI interviewer",
+    "url": "https://www.youtube.com/watch?v=IO6Bhs2iNfk",
+    "thumbnailUrl": "https://i2.ytimg.com/vi/IO6Bhs2iNfk/hqdefault.jpg",
+    "publishedAt": "2026-10-09T10:00:05+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "prompting",
+      "evaluation",
+      "open-source models",
+      "enterprise ai"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "openai"
+    ],
+    "summary": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~qrhY7KEYZ Can AI take mathematics beyond human understanding? This week on Mixture of Experts, host David Zax is joined by Kush Varshney, Skyler Speakman, and Utsav Dholakia.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "evaluation"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "evaluation"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "enterprise ai"
+        ]
+      }
+    ]
+  },
+  {
     "id": "gebskF8HP7g",
     "videoId": "gebskF8HP7g",
     "channelSlug": "ibm-technology",
@@ -216,22 +281,22 @@
         ]
       },
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "evaluation"
+        ]
+      },
+      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "rag",
           "prompting",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
           "tutorial"
         ]
       }
@@ -275,17 +340,18 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "open-source models",
           "coding"
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
+          "open-source models",
           "coding"
         ]
       }
@@ -334,22 +400,22 @@
         ]
       },
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "evaluation"
+        ]
+      },
+      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "rag",
           "prompting",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
           "tutorial"
         ]
       }
@@ -370,13 +436,14 @@
     "primaryTopics": [
       "agents",
       "rag",
-      "evaluation"
+      "evaluation",
+      "tutorial"
     ],
     "secondaryTopics": [],
     "modelsMentioned": [
       "langchain"
     ],
-    "summary": "LangChain discusses LLM-related themes in \"Welcome to LangChain Academy\".",
+    "summary": "Dive into self-paced, comprehensive courses designed to help you gain the relevant skills and knowledge to build, test, deploy, and monitor agents—no matter where you are in your agent development journey. Get started for free → https://academy.langchain.com/",
     "stance": "analysis",
     "transcriptSource": "none",
     "transcriptStatus": "disabled",
@@ -391,7 +458,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "evaluation"
+          "evaluation",
+          "tutorial"
         ]
       },
       {
@@ -400,7 +468,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "evaluation"
+          "evaluation",
+          "tutorial"
         ]
       },
       {
@@ -408,7 +477,8 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "rag"
+          "rag",
+          "evaluation"
         ]
       }
     ]
@@ -466,13 +536,13 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
-          "coding",
-          "tutorial"
+          "evaluation",
+          "coding"
         ]
       }
     ]
@@ -519,8 +589,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "rag",
           "open-source models",
@@ -528,10 +598,11 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "rag",
+          "open-source models",
           "coding"
         ]
       }
@@ -692,6 +763,16 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "open-source models"
+        ]
+      },
+      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -709,15 +790,6 @@
           "rag",
           "evaluation",
           "open-source models"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding"
         ]
       }
     ]
@@ -775,13 +847,13 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
-          "coding",
-          "tutorial"
+          "evaluation",
+          "coding"
         ]
       }
     ]
@@ -840,12 +912,12 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
-          "tutorial"
+          "evaluation"
         ]
       }
     ]
@@ -964,13 +1036,13 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
-          "coding",
-          "tutorial"
+          "evaluation",
+          "coding"
         ]
       }
     ]
@@ -1399,84 +1471,21 @@
         ]
       },
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "open-source models",
+          "automation"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "agents",
           "open-source models",
           "tutorial"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "automation",
-          "tutorial"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "YGgNBcIgI4s",
-    "videoId": "YGgNBcIgI4s",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "What Is Jev? The AI Model That Doesn't Generate Text",
-    "url": "https://www.youtube.com/watch?v=YGgNBcIgI4s",
-    "thumbnailUrl": "https://i2.ytimg.com/vi/YGgNBcIgI4s/hqdefault.jpg",
-    "publishedAt": "2026-10-01T11:00:23+00:00",
-    "speaker": "IBM Technology",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "reasoning",
-      "enterprise ai",
-      "automation",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Learn more about New Frontier AI Models here → https://ibm.biz/~rGiO8LVz1 What if an AI model didn't need to generate text? Martin Keen explains Jev, a System 1 AI model that makes fast decisions using calibrated probabilities.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai",
-          "news"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "automation",
-          "news"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "automation",
-          "news"
         ]
       }
     ]
@@ -2137,18 +2146,19 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "open-source models",
+          "news"
+        ]
+      },
+      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
           "fine-tuning",
           "open-source models"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "news"
         ]
       },
       {
@@ -2264,8 +2274,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "evaluation",
           "open-source models",
@@ -2273,9 +2283,11 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
+          "evaluation",
+          "open-source models",
           "coding"
         ]
       }
@@ -2311,20 +2323,21 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "open-source models",
+          "coding",
+          "news"
+        ]
+      },
+      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
           "fine-tuning",
           "open-source models",
           "coding"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "coding",
-          "news"
         ]
       },
       {
@@ -2369,6 +2382,13 @@
         "name": "Andrej Karpathy",
         "overlapTopics": [
           "fine-tuning",
+          "open-source models"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
           "open-source models"
         ]
       },
@@ -2434,12 +2454,12 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "coding",
-          "tutorial"
+          "open-source models",
+          "coding"
         ]
       }
     ]
@@ -2490,19 +2510,18 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "reasoning",
-          "coding"
-        ]
-      },
-      {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
           "closed models",
           "voice ai"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "coding"
         ]
       }
     ]
@@ -2551,8 +2570,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "reasoning",
-          "prompting"
+          "prompting",
+          "evaluation"
         ]
       },
       {
@@ -2630,7 +2649,7 @@
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
-          "reasoning",
+          "evaluation",
           "coding"
         ]
       }
@@ -2672,6 +2691,16 @@
     "notes": "",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "rag",
+          "prompting",
+          "evaluation",
+          "open-source models"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -2689,15 +2718,6 @@
           "fine-tuning",
           "evaluation",
           "open-source models"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "rag",
-          "reasoning",
-          "prompting"
         ]
       }
     ]
@@ -2745,8 +2765,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "reasoning",
-          "prompting"
+          "prompting",
+          "evaluation"
         ]
       },
       {
@@ -2810,8 +2830,8 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "rag",
-          "reasoning",
           "prompting",
+          "evaluation",
           "coding"
         ]
       },
@@ -2866,14 +2886,6 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "reasoning",
-          "coding"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -2884,6 +2896,14 @@
       {
         "slug": "langchain",
         "name": "LangChain",
+        "overlapTopics": [
+          "coding",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "coding",
           "tutorial"
@@ -2948,7 +2968,7 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "reasoning",
+          "evaluation",
           "coding"
         ]
       }
