@@ -129,23 +129,13 @@
       "open-source models",
       "coding",
       "agents",
-      "closed models"
+      "tutorial"
     ],
     "dominantFormats": [
       "analysis",
       "tutorial"
     ],
     "relatedChannels": [
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "open-source models",
-          "coding",
-          "agents",
-          "closed models"
-        ]
-      },
       {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
@@ -157,13 +147,23 @@
         ]
       },
       {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "open-source models",
+          "coding",
+          "agents",
+          "tutorial"
+        ]
+      },
+      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "open-source models",
           "coding",
           "agents",
-          "news"
+          "tutorial"
         ]
       }
     ]
@@ -192,16 +192,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "news",
-          "automation"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -212,13 +202,23 @@
         ]
       },
       {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "news",
+          "automation"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
           "news",
-          "coding"
+          "open-source models"
         ]
       }
     ]
@@ -244,7 +244,8 @@
     ],
     "dominantFormats": [
       "analysis",
-      "news"
+      "news",
+      "tutorial"
     ],
     "relatedChannels": [
       {
@@ -323,13 +324,13 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "prompting",
           "rag",
-          "closed models"
+          "news"
         ]
       }
     ]
