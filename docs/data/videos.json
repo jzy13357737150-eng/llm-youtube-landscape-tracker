@@ -1,5 +1,69 @@
 [
   {
+    "id": "_MsL_RIztVc",
+    "videoId": "_MsL_RIztVc",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "Vanta and LangSmith: Assessing Compliance Evidence Like an Auditor",
+    "url": "https://www.youtube.com/watch?v=_MsL_RIztVc",
+    "thumbnailUrl": "https://i4.ytimg.com/vi/_MsL_RIztVc/hqdefault.jpg",
+    "publishedAt": "2026-10-15T16:37:23+00:00",
+    "speaker": "LangChain",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "evaluation",
+      "enterprise ai",
+      "tutorial"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "langchain"
+    ],
+    "summary": "\"I can finally find the data that I want without having to fight my tooling.\" Zheng Tao, Senior AI Engineer at Vanta, is building a capability that helps assess compliance evidence the way an auditor would. With other vendors and Vanta's own in-house tooling, she would spend 10 minutes trying to find a trace and...",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "enterprise ai"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "enterprise ai"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "tutorial"
+        ]
+      }
+    ]
+  },
+  {
     "id": "rduH9wnXto8",
     "videoId": "rduH9wnXto8",
     "channelSlug": "langchain",
@@ -1850,69 +1914,6 @@
           "agents",
           "rag",
           "prompting"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "oVKGKdIAgtg",
-    "videoId": "oVKGKdIAgtg",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "Three Questions Every Agent Engineer Should Be Able To Answer",
-    "url": "https://www.youtube.com/watch?v=oVKGKdIAgtg",
-    "thumbnailUrl": "https://i4.ytimg.com/vi/oVKGKdIAgtg/hqdefault.jpg",
-    "publishedAt": "2026-10-09T17:16:00+00:00",
-    "speaker": "LangChain",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "evaluation",
-      "tutorial"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "langchain"
-    ],
-    "summary": "Jake Broekhuizen of LangChain Labs argues that owning your own intelligence comes down to three questions every agent engineer should be able to answer: where is your agent failing, how can you reliably make it fail again, and what needs to happen so it stops failing. He covers using a fine-tuned judge to mine...",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "tutorial"
         ]
       }
     ]
