@@ -80,6 +80,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "rag",
+          "tutorial"
+        ]
+      },
+      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -92,16 +102,6 @@
       {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "rag",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "evaluation",
@@ -248,16 +248,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "news",
-          "coding",
-          "closed models"
-        ]
-      },
-      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -265,6 +255,16 @@
           "coding",
           "closed models",
           "evaluation"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "news",
+          "coding",
+          "closed models"
         ]
       },
       {
@@ -313,16 +313,6 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "rag",
-          "enterprise ai"
-        ]
-      },
-      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -330,6 +320,16 @@
           "prompting",
           "rag",
           "closed models"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "rag",
+          "enterprise ai"
         ]
       }
     ]
