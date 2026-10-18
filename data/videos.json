@@ -1,5 +1,66 @@
 [
   {
+    "id": "4b6KpFN7Rio",
+    "videoId": "4b6KpFN7Rio",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "The AI Memory Wall: Why LLMs & AI Accelerators Hit a Bottleneck",
+    "url": "https://www.youtube.com/watch?v=4b6KpFN7Rio",
+    "thumbnailUrl": "https://i1.ytimg.com/vi/4b6KpFN7Rio/hqdefault.jpg",
+    "publishedAt": "2026-10-18T11:00:00+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "coding",
+      "enterprise ai",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Learn more about the Memory Wall here → https://ibm.biz/~NjOWdJHJy More GPU compute doesn't always mean faster AI models. Kaoutar El Maghraoui explains the memory wall, arithmetic intensity, and why LLM inference can become memory-bound or compute-bound.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "rate-limited",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Transcript provider rate limited the request.",
+    "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "enterprise ai"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "news"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding"
+        ]
+      }
+    ]
+  },
+  {
     "id": "dGhUFqeITbY",
     "videoId": "dGhUFqeITbY",
     "channelSlug": "hugging-face",
@@ -21,11 +82,11 @@
     "summary": "We'll jam with the team of a brand new open weight model, hear what's it like to train frontiers models, and find out how to win $20k in cash and hub credits. Check out the blog post and join Beam Build to win $10k: https://huggingface.co/blog/reflection-beam",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -259,11 +320,11 @@
     "summary": "Get the FREE ChatGPT Accelerator Training https://learn.aiadvantage.com/jumpsta... Join The AI Advantage Club https://joinaiaclub.com/igor Too many browser tabs open?",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "ibm-technology",
@@ -322,11 +383,11 @@
     "summary": "Get free credits when you sign up for @GensparkProduct Design here: https://www.genspark.ai/agents?type=design&utm_campaign=mattwolfe04&utm_source=yt This week in AI: Krea 3 makes image editing seriously easy, Google’s Gemini 4 Argon and Meta’s Muse Wonder get put to the test, and new open-weight models keep...",
     "stance": "news",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "andrej-karpathy",
@@ -349,12 +410,12 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "evaluation",
           "open-source models",
+          "closed models",
           "coding"
         ]
       }
@@ -386,11 +447,11 @@
     "summary": "Charlie O'Neill, Co-Head of Model Training at Baseten, explains why the train step in the own-your-intelligence loop is still unsolved once you update a model continually instead of once. He walks through the trade-offs: SFT can install new knowledge but is off-policy, and repeated SFT causes catastrophic...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -454,11 +515,11 @@
     "summary": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~ryIAcW59Q This week on Mixture of Experts, host David Zax is joined by Kaoutar El Maghraoui, Nick Gallagher, and Volkmar Uhlig. First, Microsoft, OpenAI, Perplexity, and Cloudflare follow TypeSafe’s Jev in building decision models, a...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "the-ai-advantage",
@@ -569,12 +630,22 @@
     "summary": "\"I can finally find the data that I want without having to fight my tooling.\" Zheng Tao, Senior AI Engineer at Vanta, is building a capability that helps assess compliance evidence the way an auditor would. With other vendors and Vanta's own in-house tooling, she would spend 10 minutes trying to find a trace and...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai",
+          "tutorial"
+        ]
+      },
       {
         "slug": "hugging-face",
         "name": "Hugging Face",
@@ -588,16 +659,6 @@
       {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -633,11 +694,11 @@
     "summary": "What if everyone had an always-on, production-ready assistant? At Stripe, their answer was a company-wide AI agent called Knowledge AI Platform, also known as Kai.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -703,6 +764,15 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai"
+        ]
+      },
+      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -714,15 +784,6 @@
       {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -756,11 +817,11 @@
     "summary": "Learn more about Context Engineering here → https://ibm.biz/~5YM1VAeG0 More context should make AI agents better. It often does the opposite.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "the-ai-advantage",
@@ -819,11 +880,11 @@
     "summary": "Apple's M5 Ultra Mac Studio is shipping, so here is how it compares to NVIDIA's RTX 5090 for running AI models locally. wTopics covered: - M5 Ultra vs RTX 5090 specs for local LLMs - Qwen3.8-27B benchmark: prompt processing and token generation - Multi-token prediction (MTP) speedups - 32 GB VRAM vs 256 GB unified...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -1067,11 +1128,11 @@
     "summary": "Deep Agents is LangChain's open source agent harness built for long-running tasks. It handles planning, context management, and multi-agent orchestration for complex work like research and coding.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -1248,11 +1309,11 @@
     "summary": "Get the FREE ChatGPT Accelerator Training https://learn.aiadvantage.com/jumpstart-chatgpt Join the AI Advantage Club https://joinaiaclub.com/igor See how Claude Motion turns complex information into clear animations. I’ll show a practical example, how to edit it, and 500+ Claude animation examples you can explore.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "ibm-technology",
@@ -1312,11 +1373,11 @@
     "summary": "Learn about speculative decoding techniques like EAGLE, DFlash, MTP with llama.cpp, transformers and speculators library in this livestream. Schedule: 18.10: Introduction to Speculative Decoding (Merve Noyan, Hugging Face) 18.30: Getting Started with Speculators (Eldar Kurtić, RedHat) 19.00: Speed-up Gemma-4 with...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -1372,11 +1433,11 @@
     "summary": "Visit Security Intelligence podcast page to get more AI content →https://ibm.biz/~H5jRdf9Xb What happens when AI agents start hacking websites without permission? On episode 55 of Security Intelligence, Sophie Cunningham, Ian Molloy and Seth Glasgow join host Patrick Austin to break down three cybersecurity stories...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -1436,11 +1497,11 @@
     "summary": "Harness engineering is how we build systems around models to turn them into work engines. A harness is every piece of code, configuration, and execution logic that isn't the model itself.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -1502,22 +1563,12 @@
     "summary": "Gemini 4 Argon is finally here, so I put it through some hands-on tests—from coding games to 3D printing Gary Busey. Here’s what impressed me, what got stuck, and how Google stacks up against Claude and ChatGPT.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "closed models",
-          "coding"
-        ]
-      },
       {
         "slug": "ibm-technology",
         "name": "IBM Technology",
@@ -1526,6 +1577,16 @@
           "closed models",
           "coding",
           "news"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "closed models",
+          "coding"
         ]
       },
       {
@@ -1680,11 +1741,11 @@
     "summary": "Learn more about AI & the Future of Work here → https://ibm.biz/~9TPlzzY4X Every generation thinks new technology will eliminate jobs. Jeff Crume and Bri Kopecki explore how cars, electricity, PCs, the internet, and now AI changed work throughout history.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "the-ai-advantage",
@@ -1808,11 +1869,11 @@
     "summary": "PewDiePie is building his own AI assistant, Odysseus, and training a local model, Ajax, to power it. In this video I break down what Odysseus is, how an agent harness works from scratch, what it actually means to run a model locally with llama.cpp and Hugging Face, and how you can fine-tune a small model like Qwen...",
     "stance": "tutorial",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "andrej-karpathy",
@@ -1873,11 +1934,11 @@
     "summary": "Learn more about AI Agents here → https://ibm.biz/~qNwedZihN AI coding is changing how software gets built. Cedric Clyburn breaks down five essential concepts for working effectively with AI agents, including spec-driven development, context engineering, loop engineering, and AI security.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -1940,11 +2001,11 @@
     "summary": "Build a business analytics dashboard from a bank marketing dataset using Codex, Claude Code, and Hugging Face. Explore your data in Data Studio, define useful business questions and KPIs, and improve the dashboard through feedback to your coding agent.",
     "stance": "tutorial",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "andrej-karpathy",
@@ -1957,22 +2018,22 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "fine-tuning",
-          "open-source models",
-          "coding"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "open-source models",
           "closed models",
+          "coding"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "fine-tuning",
+          "open-source models",
           "coding"
         ]
       }
@@ -2035,68 +2096,6 @@
           "agents",
           "rag",
           "prompting"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "zRMAvMSSSII",
-    "videoId": "zRMAvMSSSII",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "Human in the Loop Is Not a Governance Strategy for Agentic AI",
-    "url": "https://www.youtube.com/watch?v=zRMAvMSSSII",
-    "thumbnailUrl": "https://i3.ytimg.com/vi/zRMAvMSSSII/hqdefault.jpg",
-    "publishedAt": "2026-10-11T11:00:03+00:00",
-    "speaker": "IBM Technology",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "enterprise ai",
-      "tutorial",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Learn more about Responsible AI here → https://ibm.biz/~EYYcOfiMK Human review doesn't automatically mean AI governance. Phaedra Boinodiris explains why human-in-the-loop AI requires transparency, explainability, observability, and accountability.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "tutorial",
-          "news"
         ]
       }
     ]
@@ -2194,11 +2193,11 @@
     "summary": "Here's The AI News You Probably Missed This Week! Get $100 in free credits for @Hyperagent when you sign up for a paid plan here: https://hyperagent.com/invite/MATT100?utm_source=youtube&utm_medium=influencer&utm_campaign=MATT100 Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly...",
     "stance": "news",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "ibm-technology",
@@ -2309,11 +2308,11 @@
     "summary": "Get a Reachy Mini 🤓 https://pollen-robotics.com/reachy-mini/ --- The whole film is a web page: play it, scrub it, fork the code: https://huggingface.co/spaces/pollen-robotics/reachy-mini-yo-its-your-boy In a world of big scary robots, one small robot grabbed the mic. Reachy Mini is the open source desktop robot by...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -2368,11 +2367,11 @@
     "summary": "If you work with large datasets, you're probably re-uploading the same bytes every time the data changes. In this video I upload a 191 MB NYC taxi CSV to a Hugging Face Bucket, append 100 rows, and upload it again: Xet, Hugging Face's storage layer, sends only the new pieces.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "langchain",
@@ -2435,11 +2434,11 @@
     "summary": "Here's the AI News you probably missed this week. See what Optimizely’s Virtual Teammates can automate for you at https://optimizely.com/mattwolfe Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow...",
     "stance": "news",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "ibm-technology",
@@ -2502,15 +2501,15 @@
     "summary": "The example-driven, practical walkthrough of Large Language Models and their growing list of related features, as a new entry to my general audience series on LLMs. In this more practical followup, I take you through the many ways I use LLMs in my own life.",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "reasoning",
           "closed models",
@@ -2518,8 +2517,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "reasoning",
           "closed models",
@@ -2632,11 +2631,11 @@
     "summary": "We reproduce the GPT-2 (124M) from scratch. This video covers the whole process: First we build the GPT-2 network, then we optimize its training to be really fast, then we set up the training run following the GPT-2 and GPT-3 paper and their hyperparameters, then we hit run, and come back the next morning to see...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
         "slug": "hugging-face",
@@ -2649,19 +2648,19 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
-          "evaluation",
+          "reasoning",
           "coding",
           "tutorial"
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
-          "reasoning",
+          "evaluation",
           "coding",
           "tutorial"
         ]
@@ -2892,15 +2891,15 @@
     "summary": "We take the 2-layer MLP from previous video and make it deeper with a tree-like structure, arriving at a convolutional neural network architecture similar to the WaveNet (2016) from DeepMind. In the WaveNet paper, the same hierarchical architecture is implemented more efficiently using causal dilated convolutions...",
     "stance": "analysis",
     "transcriptSource": "none",
-    "transcriptStatus": "disabled",
+    "transcriptStatus": "rate-limited",
     "transcriptSnippet": "",
     "summarySource": "heuristic-metadata",
     "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
+    "notes": "Transcript provider rate limited the request.",
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "reasoning",
           "coding",
@@ -2908,8 +2907,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "reasoning",
           "coding",
@@ -2968,22 +2967,22 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "coding"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
           "reasoning",
+          "coding"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
           "coding"
         ]
       }
