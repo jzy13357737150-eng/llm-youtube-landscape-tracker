@@ -184,22 +184,12 @@
       "enterprise ai",
       "rag",
       "news",
-      "automation"
+      "tutorial"
     ],
     "dominantFormats": [
       "analysis"
     ],
     "relatedChannels": [
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai",
-          "rag",
-          "coding"
-        ]
-      },
       {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
@@ -207,7 +197,17 @@
           "agents",
           "enterprise ai",
           "rag",
-          "automation"
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "enterprise ai",
+          "rag",
+          "tutorial"
         ]
       },
       {
@@ -217,7 +217,7 @@
           "agents",
           "rag",
           "news",
-          "coding"
+          "tutorial"
         ]
       }
     ]
@@ -313,16 +313,6 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "rag",
-          "closed models"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -330,6 +320,16 @@
           "prompting",
           "rag",
           "enterprise ai"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "rag",
+          "closed models"
         ]
       }
     ]

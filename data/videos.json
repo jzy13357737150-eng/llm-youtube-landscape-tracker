@@ -1,5 +1,199 @@
 [
   {
+    "id": "DQBqh6gcx7U",
+    "videoId": "DQBqh6gcx7U",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "What Is Loop Engineering? Building Better AI Agents",
+    "url": "https://www.youtube.com/watch?v=DQBqh6gcx7U",
+    "thumbnailUrl": "https://i1.ytimg.com/vi/DQBqh6gcx7U/hqdefault.jpg",
+    "publishedAt": "2026-10-19T11:00:06+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "prompting",
+      "enterprise ai",
+      "tutorial",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Learn more about Loop Engineering here → https://ibm.biz/~LqlzZo42O AI agents need more than one perfectly written prompt. Martin Keen explains loop engineering and how AI agents act, observe, adjust, and repeat toward measurable goals.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "enterprise ai"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "enterprise ai"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "tutorial"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tJ-hlNVS7AI",
+    "videoId": "tJ-hlNVS7AI",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "Managed Deep Agents explained in 2 minutes",
+    "url": "https://www.youtube.com/watch?v=tJ-hlNVS7AI",
+    "thumbnailUrl": "https://i1.ytimg.com/vi/tJ-hlNVS7AI/hqdefault.jpg",
+    "publishedAt": "2026-10-19T10:30:07+00:00",
+    "speaker": "LangChain",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "evaluation",
+      "tutorial"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "langchain"
+    ],
+    "summary": "Managed Deep Agents (MDA) is the simplest way to build and deploy production agents. You focus on what your agent does, and MDA runs it.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "tutorial"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ti3vVYwzW4A",
+    "videoId": "ti3vVYwzW4A",
+    "channelSlug": "hugging-face",
+    "channelName": "Hugging Face",
+    "channelCategory": "developer-tools",
+    "title": "Pi Durable EXPLAINED: Build Always-On Agents with Local Models",
+    "url": "https://www.youtube.com/watch?v=ti3vVYwzW4A",
+    "thumbnailUrl": "https://i1.ytimg.com/vi/ti3vVYwzW4A/hqdefault.jpg",
+    "publishedAt": "2026-10-19T03:34:17+00:00",
+    "speaker": "Hugging Face",
+    "guests": [
+      "Local Models"
+    ],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "fine-tuning",
+      "open-source models",
+      "coding",
+      "tutorial"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "llama",
+      "qwen"
+    ],
+    "summary": "Pi Durable is a building block for always-on agent applications, not a new coding-agent CLI. Learn how checkpoints, conversations, and storage support recovery after interruptions, where Durable fits in the Pi ecosystem, and the six steps to initialize a harness.",
+    "stance": "tutorial",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "fine-tuning",
+          "open-source models"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "fine-tuning",
+          "open-source models"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "open-source models",
+          "coding"
+        ]
+      }
+    ]
+  },
+  {
     "id": "4b6KpFN7Rio",
     "videoId": "4b6KpFN7Rio",
     "channelSlug": "ibm-technology",
@@ -221,8 +415,8 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
@@ -230,8 +424,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "rag",
@@ -336,16 +530,16 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "prompting"
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "prompting"
@@ -542,12 +736,12 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
-          "closed models",
+          "enterprise ai",
           "tutorial"
         ]
       }
@@ -589,15 +783,15 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents"
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents"
         ]
@@ -834,21 +1028,21 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "reasoning"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
           "enterprise ai"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "reasoning"
         ]
       }
     ]
@@ -1202,15 +1396,15 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents"
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents"
         ]
@@ -1326,22 +1520,22 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "closed models",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "agents",
           "prompting",
           "enterprise ai",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "closed models",
           "tutorial"
         ]
       }
@@ -1639,16 +1833,16 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "tutorial"
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "tutorial"
@@ -1780,65 +1974,6 @@
     ]
   },
   {
-    "id": "eZ_TrdYnHRY",
-    "videoId": "eZ_TrdYnHRY",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "POV: You’re arriving at Interrupt London, The Agent Conference by LangChain.",
-    "url": "https://www.youtube.com/shorts/eZ_TrdYnHRY",
-    "thumbnailUrl": "https://i2.ytimg.com/vi/eZ_TrdYnHRY/hqdefault.jpg",
-    "publishedAt": "2026-10-13T09:17:24+00:00",
-    "speaker": "LangChain",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "evaluation"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "langchain"
-    ],
-    "summary": "LangChain discusses LLM-related themes in \"POV: You’re arriving at Interrupt London, The Agent Conference by LangChain.\".",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "error",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
-    "relatedChannels": [
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation"
-        ]
-      }
-    ]
-  },
-  {
     "id": "EuN8WCWQf7g",
     "videoId": "EuN8WCWQf7g",
     "channelSlug": "hugging-face",
@@ -1903,71 +2038,6 @@
           "prompting",
           "fine-tuning",
           "open-source models"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "hTAWHgQI4xg",
-    "videoId": "hTAWHgQI4xg",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "5 Concepts to Know for Coding with AI Agents",
-    "url": "https://www.youtube.com/watch?v=hTAWHgQI4xg",
-    "thumbnailUrl": "https://i1.ytimg.com/vi/hTAWHgQI4xg/hqdefault.jpg",
-    "publishedAt": "2026-10-12T11:00:38+00:00",
-    "speaker": "IBM Technology",
-    "guests": [
-      "AI Agents"
-    ],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "prompting",
-      "coding",
-      "enterprise ai",
-      "automation"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Learn more about AI Agents here → https://ibm.biz/~qNwedZihN AI coding is changing how software gets built. Cedric Clyburn breaks down five essential concepts for working effectively with AI agents, including spec-driven development, context engineering, loop engineering, and AI security.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "coding"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "enterprise ai"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "coding"
         ]
       }
     ]
@@ -2081,8 +2151,8 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2090,8 +2160,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2142,8 +2212,8 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2151,8 +2221,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2269,16 +2339,16 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "coding"
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "coding"
@@ -2336,68 +2406,6 @@
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
-          "open-source models",
-          "coding"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "1E0ZoktFerQ",
-    "videoId": "1E0ZoktFerQ",
-    "channelSlug": "hugging-face",
-    "channelName": "Hugging Face",
-    "channelCategory": "developer-tools",
-    "title": "HF Buckets: Upload Only What Changed with Xet",
-    "url": "https://www.youtube.com/watch?v=1E0ZoktFerQ",
-    "thumbnailUrl": "https://i2.ytimg.com/vi/1E0ZoktFerQ/hqdefault.jpg",
-    "publishedAt": "2026-10-07T11:07:37+00:00",
-    "speaker": "Hugging Face",
-    "guests": [
-      "Xet"
-    ],
-    "primaryTopics": [
-      "rag",
-      "fine-tuning",
-      "open-source models",
-      "coding"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "If you work with large datasets, you're probably re-uploading the same bytes every time the data changes. In this video I upload a 191 MB NYC taxi CSV to a Hugging Face Bucket, append 100 rows, and upload it again: Xet, Hugging Face's storage layer, sends only the new pieces.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "rag",
-          "fine-tuning",
-          "open-source models",
-          "coding"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "rag",
-          "fine-tuning",
-          "open-source models",
-          "coding"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "rag",
           "open-source models",
           "coding"
         ]
