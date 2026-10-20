@@ -1,5 +1,116 @@
 [
   {
+    "id": "H4azmWcqO5g",
+    "videoId": "H4azmWcqO5g",
+    "channelSlug": "hugging-face",
+    "channelName": "Hugging Face",
+    "channelCategory": "developer-tools",
+    "title": "Local AI 202: Get Massive Speed-ups with Speculative Decoding",
+    "url": "https://www.youtube.com/watch?v=H4azmWcqO5g",
+    "thumbnailUrl": "https://i1.ytimg.com/vi/H4azmWcqO5g/hqdefault.jpg",
+    "publishedAt": "2026-10-20T05:42:51+00:00",
+    "speaker": "Hugging Face",
+    "guests": [
+      "Speculative Decoding"
+    ],
+    "primaryTopics": [
+      "fine-tuning",
+      "open-source models",
+      "coding"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "llama"
+    ],
+    "summary": "Learn about speculative decoding techniques like EAGLE, DFlash, MTP with llama.cpp, transformers and speculators library in this livestream. Schedule: 18.10: Introduction to Speculative Decoding (Merve Noyan, Hugging Face) 18.30: Getting Started with Speculators (Eldar Kurtić, RedHat) 19.00: Speed-up Gemma-4 with...",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "fine-tuning",
+          "open-source models",
+          "coding"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "fine-tuning",
+          "open-source models",
+          "coding"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "open-source models",
+          "coding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "VVBszkWK0Io",
+    "videoId": "VVBszkWK0Io",
+    "channelSlug": "matt-wolfe",
+    "channelName": "Matt Wolfe",
+    "channelCategory": "creator-news",
+    "title": "My favorite new image editing tool",
+    "url": "https://www.youtube.com/shorts/VVBszkWK0Io",
+    "thumbnailUrl": "https://i3.ytimg.com/vi/VVBszkWK0Io/hqdefault.jpg",
+    "publishedAt": "2026-10-20T04:19:39+00:00",
+    "speaker": "Matt Wolfe",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow 🧵 Threads: https://www.threads.net/@mr.eflow 🟦...",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "error",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
+    "relatedChannels": [
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "news"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents"
+        ]
+      }
+    ]
+  },
+  {
     "id": "3-sSbJKb-fQ",
     "videoId": "3-sSbJKb-fQ",
     "channelSlug": "hugging-face",
@@ -411,16 +522,6 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding",
-          "enterprise ai"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -428,6 +529,16 @@
           "rag",
           "coding",
           "news"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "enterprise ai"
         ]
       },
       {
@@ -1224,12 +1335,12 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "rag",
-          "enterprise ai"
+          "news"
         ]
       }
     ]
@@ -1278,21 +1389,21 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "fine-tuning",
-          "evaluation",
-          "open-source models"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "prompting",
+          "evaluation",
+          "open-source models"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "fine-tuning",
           "evaluation",
           "open-source models"
         ]
@@ -1730,66 +1841,6 @@
     ]
   },
   {
-    "id": "H4azmWcqO5g",
-    "videoId": "H4azmWcqO5g",
-    "channelSlug": "hugging-face",
-    "channelName": "Hugging Face",
-    "channelCategory": "developer-tools",
-    "title": "Local AI 202: Get Massive Speed-ups with Speculative Decoding",
-    "url": "https://www.youtube.com/watch?v=H4azmWcqO5g",
-    "thumbnailUrl": "https://i1.ytimg.com/vi/H4azmWcqO5g/hqdefault.jpg",
-    "publishedAt": "2026-10-14T12:37:42+00:00",
-    "speaker": "Hugging Face",
-    "guests": [
-      "Speculative Decoding"
-    ],
-    "primaryTopics": [
-      "fine-tuning",
-      "open-source models",
-      "coding"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "llama"
-    ],
-    "summary": "Learn about speculative decoding techniques like EAGLE, DFlash, MTP with llama.cpp, transformers and speculators library in this livestream. Schedule: 18.10: Introduction to Speculative Decoding (Merve Noyan, Hugging Face) 18.30: Getting Started with Speculators (Eldar Kurtić, RedHat) 19.00: Speed-up Gemma-4 with...",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "fine-tuning",
-          "open-source models",
-          "coding"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "fine-tuning",
-          "open-source models",
-          "coding"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "open-source models",
-          "coding"
-        ]
-      }
-    ]
-  },
-  {
     "id": "W6F4QZlknkc",
     "videoId": "W6F4QZlknkc",
     "channelSlug": "ibm-technology",
@@ -1822,16 +1873,6 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "open-source models",
-          "enterprise ai"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -1839,6 +1880,16 @@
           "rag",
           "open-source models",
           "news"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "open-source models",
+          "enterprise ai"
         ]
       },
       {
@@ -2075,16 +2126,6 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -2092,6 +2133,16 @@
           "rag",
           "tutorial",
           "news"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai",
+          "tutorial"
         ]
       }
     ]
@@ -2211,22 +2262,22 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "fine-tuning",
-          "open-source models",
-          "coding"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "open-source models",
           "closed models",
+          "coding"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "fine-tuning",
+          "open-source models",
           "coding"
         ]
       }
@@ -2425,61 +2476,6 @@
     ]
   },
   {
-    "id": "grOilk8aCS0",
-    "videoId": "grOilk8aCS0",
-    "channelSlug": "matt-wolfe",
-    "channelName": "Matt Wolfe",
-    "channelCategory": "creator-news",
-    "title": "AI Design Hack Saves HOURS",
-    "url": "https://www.youtube.com/shorts/grOilk8aCS0",
-    "thumbnailUrl": "https://i4.ytimg.com/vi/grOilk8aCS0/hqdefault.jpg",
-    "publishedAt": "2026-10-08T15:13:52+00:00",
-    "speaker": "Matt Wolfe",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "coding",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "#ad I used @GensparkProduct Design to generate the UI for a FutureTools app... and it only took me about 30 minutes.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "error",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
-    "relatedChannels": [
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "coding",
-          "news"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "coding"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "coding"
-        ]
-      }
-    ]
-  },
-  {
     "id": "EWvNQjAaOHw",
     "videoId": "EWvNQjAaOHw",
     "channelSlug": "andrej-karpathy",
@@ -2593,22 +2589,22 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "fine-tuning",
-          "evaluation"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "rag",
           "prompting",
+          "evaluation"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "fine-tuning",
           "evaluation"
         ]
       }
@@ -2656,8 +2652,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "evaluation",
           "coding",
@@ -2665,8 +2661,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "evaluation",
           "coding",
@@ -2721,21 +2717,21 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "rag",
-          "fine-tuning",
-          "evaluation",
-          "open-source models"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "rag",
           "prompting",
+          "evaluation",
+          "open-source models"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "rag",
+          "fine-tuning",
           "evaluation",
           "open-source models"
         ]
@@ -2790,22 +2786,22 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "fine-tuning",
-          "evaluation"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "rag",
           "prompting",
+          "evaluation"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "fine-tuning",
           "evaluation"
         ]
       }
@@ -2856,21 +2852,21 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "rag",
-          "fine-tuning",
-          "evaluation",
-          "coding"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "rag",
           "prompting",
+          "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "rag",
+          "fine-tuning",
           "evaluation",
           "coding"
         ]
@@ -2924,8 +2920,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "coding",
           "tutorial"
@@ -2975,8 +2971,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2985,8 +2981,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
