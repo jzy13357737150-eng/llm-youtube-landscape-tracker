@@ -1,5 +1,63 @@
 [
   {
+    "id": "qV36V-WOsDo",
+    "videoId": "qV36V-WOsDo",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "The patching gap: Hacked fridges, AI ransomware and Mythos finds",
+    "url": "https://www.youtube.com/watch?v=qV36V-WOsDo",
+    "thumbnailUrl": "https://i2.ytimg.com/vi/qV36V-WOsDo/hqdefault.jpg",
+    "publishedAt": "2026-10-21T10:00:16+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "enterprise ai"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "anthropic"
+    ],
+    "summary": "That melted ice cream might not be the freezer’s fault. On episode 56 of Security Intelligence, Claire Nunez and MJ Vaidya join host Patrick Austin to break down three cybersecurity stories and what they mean for defenders.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag"
+        ]
+      }
+    ]
+  },
+  {
     "id": "_yO_Q7qo0HQ",
     "videoId": "_yO_Q7qo0HQ",
     "channelSlug": "ibm-technology",
@@ -114,8 +172,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "open-source models",
           "coding"
@@ -228,8 +286,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "open-source models",
@@ -544,8 +602,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "rag",
@@ -663,8 +721,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "open-source models",
           "tutorial"
@@ -966,12 +1024,12 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
+          "evaluation",
           "open-source models",
-          "closed models",
           "coding"
         ]
       }
@@ -1905,69 +1963,6 @@
     ]
   },
   {
-    "id": "W6F4QZlknkc",
-    "videoId": "W6F4QZlknkc",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "AI slop stalls bug bounties, malware hides in IoT and agents hit Wikipedia",
-    "url": "https://www.youtube.com/watch?v=W6F4QZlknkc",
-    "thumbnailUrl": "https://i4.ytimg.com/vi/W6F4QZlknkc/hqdefault.jpg",
-    "publishedAt": "2026-10-14T10:00:40+00:00",
-    "speaker": "IBM Technology",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "open-source models",
-      "enterprise ai",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "openai"
-    ],
-    "summary": "Visit Security Intelligence podcast page to get more AI content →https://ibm.biz/~H5jRdf9Xb What happens when AI agents start hacking websites without permission? On episode 55 of Security Intelligence, Sophie Cunningham, Ian Molloy and Seth Glasgow join host Patrick Austin to break down three cybersecurity stories...",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "open-source models",
-          "news"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "open-source models",
-          "enterprise ai"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "open-source models"
-        ]
-      }
-    ]
-  },
-  {
     "id": "eBszYxzE2dk",
     "videoId": "eBszYxzE2dk",
     "channelSlug": "matt-wolfe",
@@ -2142,7 +2137,7 @@
           "agents",
           "reasoning",
           "prompting",
-          "open-source models"
+          "closed models"
         ]
       },
       {
@@ -2203,8 +2198,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "open-source models",
@@ -2213,12 +2208,12 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
+          "fine-tuning",
           "open-source models",
-          "closed models",
           "coding"
         ]
       }
@@ -2390,8 +2385,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "open-source models",
-          "closed models"
+          "closed models",
+          "coding"
         ]
       },
       {
@@ -2463,8 +2458,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "open-source models",
           "coding"
@@ -2714,21 +2709,21 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "rag",
-          "reasoning",
-          "prompting",
-          "open-source models"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "rag",
           "prompting",
+          "evaluation",
+          "open-source models"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "rag",
+          "fine-tuning",
           "evaluation",
           "open-source models"
         ]
