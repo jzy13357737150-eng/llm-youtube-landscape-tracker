@@ -35,6 +35,16 @@
         ]
       },
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "reasoning",
+          "evaluation",
+          "rag",
+          "fine-tuning"
+        ]
+      },
+      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -42,16 +52,6 @@
           "coding",
           "rag",
           "prompting"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "evaluation",
-          "coding",
-          "rag",
-          "fine-tuning"
         ]
       }
     ]
@@ -80,16 +80,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "tutorial",
-          "enterprise ai"
-        ]
-      },
-      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -107,6 +97,16 @@
           "evaluation",
           "rag",
           "tutorial"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "tutorial",
+          "enterprise ai"
         ]
       }
     ]
@@ -136,16 +136,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "fine-tuning",
-          "open-source models",
-          "agents",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
@@ -163,6 +153,16 @@
           "agents",
           "tutorial",
           "coding"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "fine-tuning",
+          "open-source models",
+          "agents",
+          "tutorial"
         ]
       }
     ]
@@ -211,11 +211,11 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
+          "news",
           "tutorial"
         ]
       }
@@ -242,8 +242,7 @@
     ],
     "dominantFormats": [
       "analysis",
-      "news",
-      "tutorial"
+      "news"
     ],
     "relatedChannels": [
       {
