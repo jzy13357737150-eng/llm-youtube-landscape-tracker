@@ -1,5 +1,131 @@
 [
   {
+    "id": "UC9PdhD6Yxg",
+    "videoId": "UC9PdhD6Yxg",
+    "channelSlug": "hugging-face",
+    "channelName": "Hugging Face",
+    "channelCategory": "developer-tools",
+    "title": "Automate CSV to Parquet with Hugging Face Buckets, Webhooks & Jobs",
+    "url": "https://www.youtube.com/watch?v=UC9PdhD6Yxg",
+    "thumbnailUrl": "https://i2.ytimg.com/vi/UC9PdhD6Yxg/hqdefault.jpg",
+    "publishedAt": "2026-10-22T12:56:47+00:00",
+    "speaker": "Hugging Face",
+    "guests": [
+      "Hugging Face Buckets"
+    ],
+    "primaryTopics": [
+      "rag",
+      "fine-tuning",
+      "open-source models",
+      "coding",
+      "tutorial"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Files keep landing in your Hugging Face Storage Bucket. Here is how to process each one automatically, without downloading anything.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "rag",
+          "fine-tuning",
+          "open-source models",
+          "coding"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "rag",
+          "fine-tuning",
+          "open-source models",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "rag",
+          "coding",
+          "tutorial"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "615-yWyS1n0",
+    "videoId": "615-yWyS1n0",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "What Is LLM Inference? How AI Models Generate Responses",
+    "url": "https://www.youtube.com/watch?v=615-yWyS1n0",
+    "thumbnailUrl": "https://i3.ytimg.com/vi/615-yWyS1n0/hqdefault.jpg",
+    "publishedAt": "2026-10-22T11:00:04+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "prompting",
+      "coding",
+      "enterprise ai",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Learn more about LLM Inference here → https://ibm.biz/~CCvvB5TvB Every LLM response starts with much more than a prompt. Grace Ableidinger explains LLM inference, from tokenization and GPU batching to KV cache, prefill, and decode.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "coding"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "coding",
+          "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "enterprise ai"
+        ]
+      }
+    ]
+  },
+  {
     "id": "dyrNQV0F3Zs",
     "videoId": "dyrNQV0F3Zs",
     "channelSlug": "matt-wolfe",
@@ -35,15 +161,15 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents"
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents"
         ]
@@ -101,8 +227,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "tutorial"
@@ -142,16 +268,6 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "reasoning",
-          "evaluation"
-        ]
-      },
-      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
@@ -162,12 +278,20 @@
         ]
       },
       {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation"
+        ]
+      },
+      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "rag",
-          "reasoning"
+          "rag"
         ]
       }
     ]
@@ -391,8 +515,8 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -400,8 +524,8 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -521,12 +645,12 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "tutorial",
-          "news"
+          "rag",
+          "tutorial"
         ]
       }
     ]
@@ -626,15 +750,15 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents"
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents"
         ]
@@ -753,11 +877,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "evaluation"
+          "rag"
         ]
       }
     ]
@@ -806,8 +930,8 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -816,8 +940,8 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -869,6 +993,16 @@
         ]
       },
       {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "tutorial"
+        ]
+      },
+      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -876,16 +1010,6 @@
           "prompting",
           "tutorial",
           "news"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai",
-          "tutorial"
         ]
       }
     ]
@@ -942,11 +1066,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "evaluation",
+          "rag",
           "tutorial"
         ]
       }
@@ -1009,11 +1133,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "open-source models",
+          "rag",
           "coding",
           "tutorial"
         ]
@@ -1051,6 +1175,15 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding"
+        ]
+      },
+      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -1066,15 +1199,6 @@
           "agents",
           "rag",
           "enterprise ai"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding"
         ]
       }
     ]
@@ -1187,11 +1311,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "evaluation",
+          "rag",
           "tutorial"
         ]
       }
@@ -1229,18 +1353,17 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting",
-          "automation"
+          "prompting"
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -1345,25 +1468,24 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "automation"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "prompting"
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "prompting"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "prompting"
@@ -1424,16 +1546,16 @@
           "agents",
           "evaluation",
           "open-source models",
-          "closed models"
+          "coding"
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "evaluation",
-          "open-source models"
+          "closed models",
+          "coding"
         ]
       }
     ]
@@ -1491,11 +1613,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "evaluation",
+          "rag",
           "tutorial"
         ]
       }
@@ -1605,15 +1727,15 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents"
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents"
         ]
@@ -1653,22 +1775,22 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "rag",
           "evaluation",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai",
           "tutorial"
         ]
       },
@@ -1780,15 +1902,6 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai"
-        ]
-      },
-      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -1798,54 +1911,11 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
-          "enterprise ai"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "BwXremQ-i6I",
-    "videoId": "BwXremQ-i6I",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "Context Engineering for AI Agents: 4 Failure Modes to Avoid",
-    "url": "https://www.youtube.com/watch?v=BwXremQ-i6I",
-    "thumbnailUrl": "https://i3.ytimg.com/vi/BwXremQ-i6I/hqdefault.jpg",
-    "publishedAt": "2026-10-15T11:00:06+00:00",
-    "speaker": "IBM Technology",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "reasoning",
-      "enterprise ai",
-      "automation",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Learn more about Context Engineering here → https://ibm.biz/~5YM1VAeG0 More context should make AI agents better. It often does the opposite.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "reasoning",
           "enterprise ai"
         ]
       },
@@ -1855,17 +1925,7 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "enterprise ai",
-          "automation"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "reasoning"
+          "enterprise ai"
         ]
       }
     ]
@@ -1980,8 +2040,8 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "rag",
@@ -1990,13 +2050,12 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting",
-          "closed models"
+          "prompting"
         ]
       }
     ]
@@ -2044,8 +2103,8 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2054,13 +2113,12 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting",
-          "closed models"
+          "prompting"
         ]
       }
     ]
@@ -2101,15 +2159,15 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents"
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents"
         ]
@@ -2159,8 +2217,8 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2169,13 +2227,12 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting",
-          "closed models"
+          "prompting"
         ]
       }
     ]
@@ -2235,82 +2292,13 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "prompting",
           "closed models",
           "tutorial"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "EuN8WCWQf7g",
-    "videoId": "EuN8WCWQf7g",
-    "channelSlug": "hugging-face",
-    "channelName": "Hugging Face",
-    "channelCategory": "developer-tools",
-    "title": "How to Build Your Own AI Agent (Like PewDiePie)",
-    "url": "https://www.youtube.com/watch?v=EuN8WCWQf7g",
-    "thumbnailUrl": "https://i2.ytimg.com/vi/EuN8WCWQf7g/hqdefault.jpg",
-    "publishedAt": "2026-10-13T03:37:35+00:00",
-    "speaker": "Hugging Face",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "reasoning",
-      "prompting",
-      "fine-tuning",
-      "open-source models",
-      "closed models"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "claude",
-      "llama",
-      "qwen",
-      "mistral",
-      "openai"
-    ],
-    "summary": "PewDiePie is building his own AI assistant, Odysseus, and training a local model, Ajax, to power it. In this video I break down what Odysseus is, how an agent harness works from scratch, what it actually means to run a model locally with llama.cpp and Hugging Face, and how you can fine-tune a small model like Qwen...",
-    "stance": "tutorial",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "reasoning",
-          "prompting",
-          "fine-tuning"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "open-source models",
-          "closed models"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "reasoning",
-          "fine-tuning",
-          "open-source models"
         ]
       }
     ]
@@ -2347,18 +2335,17 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting",
-          "automation"
+          "prompting"
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2408,18 +2395,17 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting",
-          "automation"
+          "prompting"
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2486,7 +2472,6 @@
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
-          "reasoning",
           "closed models",
           "coding"
         ]
@@ -2495,8 +2480,6 @@
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
-          "reasoning",
-          "closed models",
           "coding"
         ]
       }
@@ -2546,8 +2529,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "reasoning",
-          "prompting"
+          "prompting",
+          "fine-tuning"
         ]
       },
       {
@@ -2566,7 +2549,6 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "reasoning",
           "prompting"
         ]
       }
@@ -2607,7 +2589,6 @@
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
-          "reasoning",
           "evaluation",
           "coding",
           "tutorial"
@@ -2673,9 +2654,9 @@
         "name": "Hugging Face",
         "overlapTopics": [
           "rag",
-          "reasoning",
           "prompting",
-          "fine-tuning"
+          "fine-tuning",
+          "evaluation"
         ]
       },
       {
@@ -2742,8 +2723,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "reasoning",
-          "prompting"
+          "prompting",
+          "fine-tuning"
         ]
       },
       {
@@ -2762,7 +2743,6 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "reasoning",
           "prompting"
         ]
       }
@@ -2807,9 +2787,9 @@
         "name": "Hugging Face",
         "overlapTopics": [
           "rag",
-          "reasoning",
           "prompting",
-          "fine-tuning"
+          "fine-tuning",
+          "evaluation"
         ]
       },
       {
@@ -2827,7 +2807,6 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "rag",
-          "reasoning",
           "prompting",
           "coding"
         ]
@@ -2863,19 +2842,17 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
-          "reasoning",
           "coding",
           "tutorial"
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
-          "reasoning",
           "coding",
           "tutorial"
         ]
@@ -2927,8 +2904,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "reasoning",
-          "evaluation"
+          "evaluation",
+          "coding"
         ]
       },
       {
@@ -2947,8 +2924,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "reasoning",
-          "coding"
+          "coding",
+          "tutorial"
         ]
       }
     ]
