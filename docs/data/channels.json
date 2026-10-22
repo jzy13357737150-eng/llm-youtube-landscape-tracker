@@ -237,8 +237,8 @@
       "agents",
       "news",
       "closed models",
-      "coding",
-      "evaluation"
+      "prompting",
+      "tutorial"
     ],
     "dominantFormats": [
       "analysis",
@@ -252,17 +252,7 @@
           "agents",
           "news",
           "closed models",
-          "coding"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "coding",
-          "evaluation"
+          "prompting"
         ]
       },
       {
@@ -271,8 +261,18 @@
         "overlapTopics": [
           "agents",
           "closed models",
-          "coding",
-          "evaluation"
+          "prompting",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "closed models",
+          "prompting",
+          "tutorial"
         ]
       }
     ]
