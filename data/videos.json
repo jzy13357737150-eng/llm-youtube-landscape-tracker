@@ -1,17 +1,131 @@
 [
   {
+    "id": "WLhh5FeLpy0",
+    "videoId": "WLhh5FeLpy0",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "Self-replicating AI, your doctor’s chatbot & agents at dinner",
+    "url": "https://www.youtube.com/watch?v=WLhh5FeLpy0",
+    "thumbnailUrl": "https://i4.ytimg.com/vi/WLhh5FeLpy0/hqdefault.jpg",
+    "publishedAt": "2026-10-23T10:00:30+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "enterprise ai",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "anthropic"
+    ],
+    "summary": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~orPNK02xR What happens when an AI model can copy itself onto the devices in yout hoome? This week on Mixture of Experts, host David Zax is joined by Aili McConnon, Sandhya Iyer and Jacob Repp.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "w6dSNCg9I5k",
+    "videoId": "w6dSNCg9I5k",
+    "channelSlug": "hugging-face",
+    "channelName": "Hugging Face",
+    "channelCategory": "developer-tools",
+    "title": "Llama: Local AI on Your Mac",
+    "url": "https://www.youtube.com/watch?v=w6dSNCg9I5k",
+    "thumbnailUrl": "https://i4.ytimg.com/vi/w6dSNCg9I5k/hqdefault.jpg",
+    "publishedAt": "2026-10-23T07:55:07+00:00",
+    "speaker": "Hugging Face",
+    "guests": [],
+    "primaryTopics": [
+      "fine-tuning",
+      "open-source models"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "llama",
+      "openai"
+    ],
+    "summary": "Meet Llama: run AI models locally on your Mac, right from the menu bar. Find models that fit your Mac, download with one click, and start chatting.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "fine-tuning",
+          "open-source models"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "fine-tuning",
+          "open-source models"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "open-source models"
+        ]
+      }
+    ]
+  },
+  {
     "id": "UC9PdhD6Yxg",
     "videoId": "UC9PdhD6Yxg",
     "channelSlug": "hugging-face",
     "channelName": "Hugging Face",
     "channelCategory": "developer-tools",
-    "title": "Automate CSV to Parquet with Hugging Face Buckets, Webhooks & Jobs",
+    "title": "Automate CSV to Parquet with Buckets, Webhooks & Jobs",
     "url": "https://www.youtube.com/watch?v=UC9PdhD6Yxg",
     "thumbnailUrl": "https://i2.ytimg.com/vi/UC9PdhD6Yxg/hqdefault.jpg",
     "publishedAt": "2026-10-22T12:56:47+00:00",
     "speaker": "Hugging Face",
     "guests": [
-      "Hugging Face Buckets"
+      "Buckets"
     ],
     "primaryTopics": [
       "rag",
@@ -182,7 +296,7 @@
     "channelSlug": "matt-wolfe",
     "channelName": "Matt Wolfe",
     "channelCategory": "creator-news",
-    "title": "AI Breakthroughs Everyone Missed",
+    "title": "11 AI Breakthroughs You Didn’t Know Existed",
     "url": "https://www.youtube.com/watch?v=umGZrkyTRtw",
     "thumbnailUrl": "https://i2.ytimg.com/vi/umGZrkyTRtw/hqdefault.jpg",
     "publishedAt": "2026-10-21T17:45:26+00:00",
@@ -353,68 +467,6 @@
     ]
   },
   {
-    "id": "f9VsJsAIV7E",
-    "videoId": "f9VsJsAIV7E",
-    "channelSlug": "hugging-face",
-    "channelName": "Hugging Face",
-    "channelCategory": "developer-tools",
-    "title": "LIVE STREAM: Training Agents IRL Seminar",
-    "url": "https://www.youtube.com/watch?v=f9VsJsAIV7E",
-    "thumbnailUrl": "https://i3.ytimg.com/vi/f9VsJsAIV7E/hqdefault.jpg",
-    "publishedAt": "2026-10-21T13:59:53+00:00",
-    "speaker": "Hugging Face",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "fine-tuning",
-      "evaluation",
-      "open-source models",
-      "tutorial"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "​An open-source AI community event on reinforcement learning for agentic systems, hosted by GitHub and Hugging Face. ​Join the open-source community at GitHub in San Francisco for an evening with researchers and builders exploring how AI agents are trained and evaluated.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "fine-tuning",
-          "evaluation",
-          "open-source models"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "fine-tuning",
-          "evaluation",
-          "open-source models"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "open-source models",
-          "tutorial"
-        ]
-      }
-    ]
-  },
-  {
     "id": "KnDMnZYEo2M",
     "videoId": "KnDMnZYEo2M",
     "channelSlug": "hugging-face",
@@ -510,7 +562,6 @@
         "overlapTopics": [
           "agents",
           "prompting",
-          "closed models",
           "news"
         ]
       },
@@ -925,8 +976,8 @@
         "overlapTopics": [
           "agents",
           "prompting",
-          "closed models",
-          "tutorial"
+          "tutorial",
+          "news"
         ]
       },
       {
@@ -1165,7 +1216,7 @@
     ],
     "secondaryTopics": [],
     "modelsMentioned": [],
-    "summary": "Learn more about the Memory Wall here → https://ibm.biz/~NjOWdJHJy More GPU compute doesn't always mean faster AI models. Kaoutar El Maghraoui explains the memory wall, arithmetic intensity, and why LLM inference can become memory-bound or compute-bound.",
+    "summary": "Learn more about the Memory Wall here → https://ibm.biz/~NjOWdJHJy More GPU compute doesn't always mean faster AI models. Kaoutar El Maghraoui explains the memory wall, arithmetic intensity, and why LLM inference can become memory-bound or compute-bound.Learn how memory bandwidth, batching, and the roofline model...",
     "stance": "analysis",
     "transcriptSource": "none",
     "transcriptStatus": "disabled",
@@ -1353,8 +1404,8 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -1362,8 +1413,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "rag",
@@ -1468,16 +1519,16 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "prompting"
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "prompting"
@@ -1552,12 +1603,12 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "closed models",
-          "coding"
+          "evaluation",
+          "open-source models"
         ]
       }
     ]
@@ -1620,74 +1671,6 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "tutorial"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "0FBdWvkgNQE",
-    "videoId": "0FBdWvkgNQE",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "Decision models take off & Anthropic bans cruelty to Claude",
-    "url": "https://www.youtube.com/watch?v=0FBdWvkgNQE",
-    "thumbnailUrl": "https://i1.ytimg.com/vi/0FBdWvkgNQE/hqdefault.jpg",
-    "publishedAt": "2026-10-16T10:00:34+00:00",
-    "speaker": "IBM Technology",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "closed models",
-      "enterprise ai",
-      "tutorial",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "claude",
-      "perplexity",
-      "openai",
-      "anthropic"
-    ],
-    "summary": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~ryIAcW59Q This week on Mixture of Experts, host David Zax is joined by Kaoutar El Maghraoui, Nick Gallagher, and Volkmar Uhlig. First, Microsoft, OpenAI, Perplexity, and Cloudflare follow TypeSafe’s Jev in building decision models, a...",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "closed models",
-          "enterprise ai"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "tutorial",
-          "news"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai",
           "tutorial"
         ]
       }
@@ -1777,22 +1760,22 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
           "enterprise ai",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
           "tutorial"
         ]
       },
@@ -1906,21 +1889,21 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
           "enterprise ai"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation"
         ]
       },
       {
@@ -2034,8 +2017,8 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2044,13 +2027,12 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting",
-          "closed models"
+          "prompting"
         ]
       },
       {
@@ -2097,8 +2079,8 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2107,13 +2089,12 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting",
-          "closed models"
+          "prompting"
         ]
       },
       {
@@ -2211,8 +2192,8 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2221,13 +2202,12 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting",
-          "closed models"
+          "prompting"
         ]
       },
       {
@@ -2281,8 +2261,8 @@
         "overlapTopics": [
           "agents",
           "prompting",
-          "closed models",
-          "enterprise ai"
+          "enterprise ai",
+          "tutorial"
         ]
       },
       {
@@ -2339,8 +2319,8 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2348,8 +2328,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2399,8 +2379,8 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2408,8 +2388,8 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "rag",
@@ -2476,7 +2456,6 @@
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
-          "closed models",
           "coding"
         ]
       },
@@ -2846,16 +2825,16 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "coding",
           "tutorial"
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "coding",
           "tutorial"
