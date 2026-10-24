@@ -236,8 +236,8 @@
       "agents",
       "news",
       "closed models",
-      "prompting",
-      "coding"
+      "coding",
+      "open-source models"
     ],
     "dominantFormats": [
       "analysis",
@@ -245,23 +245,23 @@
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "news",
-          "prompting",
-          "coding"
-        ]
-      },
-      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "closed models",
-          "prompting",
-          "coding"
+          "coding",
+          "open-source models"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "news",
+          "coding",
+          "prompting"
         ]
       },
       {
@@ -269,9 +269,9 @@
         "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "prompting",
           "coding",
-          "tutorial"
+          "open-source models",
+          "prompting"
         ]
       }
     ]
