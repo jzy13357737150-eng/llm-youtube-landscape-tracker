@@ -25,21 +25,21 @@
     ],
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "evaluation",
-          "coding",
-          "rag",
-          "fine-tuning"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "reasoning",
           "evaluation",
+          "coding",
+          "rag"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "evaluation",
+          "coding",
           "rag",
           "fine-tuning"
         ]
@@ -145,21 +145,21 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
-          "open-source models",
+          "fine-tuning",
           "coding",
           "tutorial",
           "agents"
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
-          "fine-tuning",
           "open-source models",
+          "coding",
           "tutorial",
           "agents"
         ]
@@ -204,9 +204,9 @@
         "name": "Hugging Face",
         "overlapTopics": [
           "agents",
+          "enterprise ai",
           "rag",
-          "coding",
-          "prompting"
+          "coding"
         ]
       },
       {
@@ -271,8 +271,7 @@
         "overlapTopics": [
           "agents",
           "coding",
-          "open-source models",
-          "prompting"
+          "open-source models"
         ]
       }
     ]
