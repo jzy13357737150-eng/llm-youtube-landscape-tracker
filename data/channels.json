@@ -104,7 +104,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "tutorial"
+          "tutorial",
+          "automation"
         ]
       }
     ]
@@ -182,7 +183,7 @@
       "enterprise ai",
       "rag",
       "news",
-      "tutorial"
+      "coding"
     ],
     "dominantFormats": [
       "analysis"
@@ -199,22 +200,22 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai",
-          "rag",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "rag",
-          "tutorial",
+          "coding",
+          "prompting"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
           "prompting"
         ]
       }
@@ -300,6 +301,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "automation",
+          "prompting",
+          "rag"
+        ]
+      },
+      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -317,15 +328,6 @@
           "prompting",
           "rag",
           "closed models"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "rag"
         ]
       }
     ]

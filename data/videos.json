@@ -1,5 +1,119 @@
 [
   {
+    "id": "SIZsFGvtClM",
+    "videoId": "SIZsFGvtClM",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "Agentic Engineering: 5 Terms Every AI Developer Should Know",
+    "url": "https://www.youtube.com/watch?v=SIZsFGvtClM",
+    "thumbnailUrl": "https://i4.ytimg.com/vi/SIZsFGvtClM/hqdefault.jpg",
+    "publishedAt": "2026-10-26T11:00:26+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "prompting",
+      "coding",
+      "enterprise ai",
+      "automation"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Learn more about Agentic Engineering here → https://ibm.biz/~Tlo2yQJqq AI engineering is becoming more than writing code. Cedric Clyburn breaks down five essential concepts behind agentic engineering, including prompt engineering, context engineering, AI agents, and software factories.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "coding"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "automation"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai",
+          "automation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "B8YFkYY20OY",
+    "videoId": "B8YFkYY20OY",
+    "channelSlug": "matt-wolfe",
+    "channelName": "Matt Wolfe",
+    "channelCategory": "creator-news",
+    "title": "The Robot Butler Will Clean Up After You",
+    "url": "https://www.youtube.com/shorts/B8YFkYY20OY",
+    "thumbnailUrl": "https://i3.ytimg.com/vi/B8YFkYY20OY/hqdefault.jpg",
+    "publishedAt": "2026-10-26T05:18:59+00:00",
+    "speaker": "Matt Wolfe",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow 🧵 Threads: https://www.threads.net/@mr.eflow 🟦...",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "error",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
+    "relatedChannels": [
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents"
+        ]
+      }
+    ]
+  },
+  {
     "id": "UgEA5ictENM",
     "videoId": "UgEA5ictENM",
     "channelSlug": "ibm-technology",
@@ -331,7 +445,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting"
+          "prompting",
+          "automation"
         ]
       },
       {
@@ -389,7 +504,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting"
+          "prompting",
+          "automation"
         ]
       },
       {
@@ -503,7 +619,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting"
+          "prompting",
+          "automation"
         ]
       },
       {
@@ -561,7 +678,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting"
+          "prompting",
+          "automation"
         ]
       },
       {
@@ -617,6 +735,15 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "automation"
+        ]
+      },
+      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -632,14 +759,6 @@
           "agents",
           "prompting",
           "closed models"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "prompting"
         ]
       }
     ]
@@ -703,6 +822,7 @@
         "overlapTopics": [
           "agents",
           "rag",
+          "automation",
           "tutorial"
         ]
       }
@@ -1477,57 +1597,6 @@
     ]
   },
   {
-    "id": "VVBszkWK0Io",
-    "videoId": "VVBszkWK0Io",
-    "channelSlug": "matt-wolfe",
-    "channelName": "Matt Wolfe",
-    "channelCategory": "creator-news",
-    "title": "My favorite new image editing tool",
-    "url": "https://www.youtube.com/shorts/VVBszkWK0Io",
-    "thumbnailUrl": "https://i3.ytimg.com/vi/VVBszkWK0Io/hqdefault.jpg",
-    "publishedAt": "2026-10-20T04:19:39+00:00",
-    "speaker": "Matt Wolfe",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow 🧵 Threads: https://www.threads.net/@mr.eflow 🟦...",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "error",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
-    "relatedChannels": [
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "news"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents"
-        ]
-      }
-    ]
-  },
-  {
     "id": "3-sSbJKb-fQ",
     "videoId": "3-sSbJKb-fQ",
     "channelSlug": "hugging-face",
@@ -1644,69 +1713,6 @@
         "overlapTopics": [
           "agents",
           "rag"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "DQBqh6gcx7U",
-    "videoId": "DQBqh6gcx7U",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "What Is Loop Engineering? Building Better AI Agents",
-    "url": "https://www.youtube.com/watch?v=DQBqh6gcx7U",
-    "thumbnailUrl": "https://i1.ytimg.com/vi/DQBqh6gcx7U/hqdefault.jpg",
-    "publishedAt": "2026-10-19T11:00:06+00:00",
-    "speaker": "IBM Technology",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "prompting",
-      "enterprise ai",
-      "tutorial",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Learn more about Loop Engineering here → https://ibm.biz/~LqlzZo42O AI agents need more than one perfectly written prompt. Martin Keen explains loop engineering and how AI agents act, observe, adjust, and repeat toward measurable goals.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "enterprise ai"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
-          "tutorial"
         ]
       }
     ]
@@ -1996,7 +2002,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "prompting"
+          "prompting",
+          "automation"
         ]
       },
       {
@@ -2054,7 +2061,8 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "prompting"
+          "prompting",
+          "automation"
         ]
       },
       {
@@ -2367,6 +2375,16 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "automation"
+        ]
+      },
+      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -2384,15 +2402,6 @@
           "rag",
           "prompting",
           "closed models"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting"
         ]
       }
     ]
