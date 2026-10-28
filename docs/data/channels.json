@@ -28,10 +28,10 @@
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
-          "reasoning",
           "evaluation",
           "coding",
-          "rag"
+          "rag",
+          "fine-tuning"
         ]
       },
       {
@@ -192,21 +192,21 @@
     ],
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai",
-          "rag",
-          "news"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
+          "coding",
+          "automation"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "news",
           "coding",
           "automation"
         ]
@@ -239,12 +239,11 @@
       "agents",
       "news",
       "coding",
-      "open-source models",
+      "automation",
       "closed models"
     ],
     "dominantFormats": [
-      "analysis",
-      "news"
+      "analysis"
     ],
     "relatedChannels": [
       {
@@ -254,17 +253,7 @@
           "agents",
           "news",
           "coding",
-          "open-source models"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "coding",
-          "open-source models",
-          "enterprise ai"
+          "automation"
         ]
       },
       {
@@ -273,8 +262,17 @@
         "overlapTopics": [
           "agents",
           "coding",
-          "open-source models",
-          "closed models"
+          "closed models",
+          "open-source models"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "coding",
+          "automation"
         ]
       }
     ]
@@ -303,6 +301,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "automation",
+          "prompting",
+          "closed models"
+        ]
+      },
+      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -310,16 +318,6 @@
           "automation",
           "prompting",
           "rag"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "rag",
-          "closed models"
         ]
       },
       {
