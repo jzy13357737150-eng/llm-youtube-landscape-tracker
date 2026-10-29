@@ -25,16 +25,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "evaluation",
-          "coding",
-          "rag",
-          "fine-tuning"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -42,6 +32,16 @@
           "coding",
           "rag",
           "prompting"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "evaluation",
+          "coding",
+          "rag",
+          "fine-tuning"
         ]
       },
       {
@@ -147,20 +147,20 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
-          "fine-tuning",
+          "open-source models",
           "coding",
           "tutorial",
           "agents"
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
-          "open-source models",
+          "fine-tuning",
           "coding",
           "tutorial",
           "agents"
@@ -301,16 +301,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "automation",
-          "prompting",
-          "closed models"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -318,6 +308,16 @@
           "automation",
           "prompting",
           "rag"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "automation",
+          "prompting",
+          "closed models"
         ]
       },
       {
