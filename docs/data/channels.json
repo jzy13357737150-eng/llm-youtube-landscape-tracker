@@ -25,6 +25,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "evaluation",
+          "coding",
+          "rag",
+          "fine-tuning"
+        ]
+      },
+      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -42,16 +52,6 @@
           "coding",
           "rag",
           "prompting"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "evaluation",
-          "coding",
-          "rag",
-          "fine-tuning"
         ]
       }
     ]
@@ -156,10 +156,10 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
-          "open-source models",
+          "fine-tuning",
           "coding",
           "tutorial",
           "agents"
@@ -191,6 +191,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "automation"
+        ]
+      },
+      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -208,16 +218,6 @@
           "enterprise ai",
           "rag",
           "coding"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "coding",
-          "automation"
         ]
       }
     ]
@@ -256,22 +256,22 @@
         ]
       },
       {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "automation",
+          "tutorial",
+          "closed models"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "agents",
           "automation",
           "tutorial",
-          "coding"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "tutorial",
-          "closed models",
           "coding"
         ]
       }
@@ -297,7 +297,8 @@
       "closed models"
     ],
     "dominantFormats": [
-      "analysis"
+      "analysis",
+      "tutorial"
     ],
     "relatedChannels": [
       {
@@ -326,7 +327,8 @@
         "overlapTopics": [
           "agents",
           "automation",
-          "closed models"
+          "closed models",
+          "open-source models"
         ]
       }
     ]
