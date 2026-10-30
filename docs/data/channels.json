@@ -35,16 +35,6 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "evaluation",
-          "coding",
-          "rag",
-          "fine-tuning"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -52,6 +42,16 @@
           "coding",
           "rag",
           "prompting"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "evaluation",
+          "coding",
+          "rag",
+          "fine-tuning"
         ]
       }
     ]
@@ -184,7 +184,7 @@
       "enterprise ai",
       "rag",
       "news",
-      "coding"
+      "automation"
     ],
     "dominantFormats": [
       "analysis"
@@ -196,8 +196,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "coding",
-          "automation"
+          "automation",
+          "coding"
         ]
       },
       {
@@ -206,8 +206,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "coding",
-          "automation"
+          "automation",
+          "coding"
         ]
       },
       {
@@ -256,16 +256,6 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "automation",
-          "tutorial",
-          "closed models"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -273,6 +263,16 @@
           "automation",
           "tutorial",
           "coding"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "automation",
+          "tutorial",
+          "closed models"
         ]
       }
     ]
