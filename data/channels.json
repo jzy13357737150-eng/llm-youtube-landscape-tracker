@@ -237,9 +237,9 @@
     "latestThemes": [
       "agents",
       "news",
+      "tutorial",
       "automation",
-      "closed models",
-      "tutorial"
+      "closed models"
     ],
     "dominantFormats": [
       "analysis"
@@ -251,8 +251,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "automation",
-          "closed models"
+          "tutorial",
+          "automation"
         ]
       },
       {
@@ -261,8 +261,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "automation",
-          "tutorial"
+          "tutorial",
+          "automation"
         ]
       },
       {
@@ -270,8 +270,8 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "automation",
           "tutorial",
+          "automation",
           "coding"
         ]
       }

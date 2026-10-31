@@ -14,6 +14,7 @@
     "primaryTopics": [
       "agents",
       "closed models",
+      "tutorial",
       "news"
     ],
     "secondaryTopics": [],
@@ -37,6 +38,7 @@
         "overlapTopics": [
           "agents",
           "closed models",
+          "tutorial",
           "news"
         ]
       },
@@ -45,6 +47,7 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
+          "tutorial",
           "news"
         ]
       },
@@ -53,7 +56,8 @@
         "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
-          "closed models"
+          "closed models",
+          "tutorial"
         ]
       }
     ]
