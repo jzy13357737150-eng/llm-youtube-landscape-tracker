@@ -183,31 +183,21 @@
       "agents",
       "enterprise ai",
       "rag",
-      "news",
-      "coding"
+      "coding",
+      "evaluation"
     ],
     "dominantFormats": [
       "analysis"
     ],
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "news",
-          "coding",
-          "automation"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
+          "enterprise ai",
           "rag",
-          "news",
-          "automation"
+          "coding"
         ]
       },
       {
@@ -217,7 +207,17 @@
           "agents",
           "rag",
           "coding",
-          "automation"
+          "evaluation"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "evaluation"
         ]
       }
     ]

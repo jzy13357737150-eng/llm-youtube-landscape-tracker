@@ -1,5 +1,68 @@
 [
   {
+    "id": "QUZ4KEDxhCM",
+    "videoId": "QUZ4KEDxhCM",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "What Is torch.compile? Dynamo, PyTorch & Faster AI Models Explained",
+    "url": "https://www.youtube.com/watch?v=QUZ4KEDxhCM",
+    "thumbnailUrl": "https://i2.ytimg.com/vi/QUZ4KEDxhCM/hqdefault.jpg",
+    "publishedAt": "2026-11-01T12:00:15+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "evaluation",
+      "coding",
+      "enterprise ai",
+      "tutorial"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Learn more about Faster AI Models here → https://ibm.biz/~9RJjTpaDF One line can change how your AI model runs. Avery Blanchard explains how torch.compile, Dynamo, AOT Autograd, and Inductor optimize PyTorch models.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "coding"
+        ]
+      }
+    ]
+  },
+  {
     "id": "_9R7QOhJh-o",
     "videoId": "_9R7QOhJh-o",
     "channelSlug": "matt-wolfe",
@@ -1685,67 +1748,6 @@
     ]
   },
   {
-    "id": "UgEA5ictENM",
-    "videoId": "UgEA5ictENM",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "The One-Line Slowdown: Why AI Models Get Slower",
-    "url": "https://www.youtube.com/watch?v=UgEA5ictENM",
-    "thumbnailUrl": "https://i2.ytimg.com/vi/UgEA5ictENM/hqdefault.jpg",
-    "publishedAt": "2026-10-25T11:00:21+00:00",
-    "speaker": "IBM Technology",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "enterprise ai",
-      "tutorial",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Learn more about PyTorch here → https://ibm.biz/~puJVVvyrT One .item() call can cost more performance than you think. ⚡ Antoni Virosi Martin explains how scalar reads can trigger graph breaks and synchronization, interrupt model compilation, and leave accelerators waiting on Python.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "tutorial",
-          "news"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "tutorial",
-          "news"
-        ]
-      }
-    ]
-  },
-  {
     "id": "iOc6f6Dt10A",
     "videoId": "iOc6f6Dt10A",
     "channelSlug": "the-ai-advantage",
@@ -2014,20 +2016,20 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "automation"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "prompting",
+          "automation"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "closed models",
           "automation"
         ]
       },
@@ -2441,18 +2443,18 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "closed models",
-          "coding"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "voice ai",
+          "coding"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "closed models",
           "coding"
         ]
       },
@@ -2826,16 +2828,16 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "coding",
           "tutorial"
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "coding",
           "tutorial"
