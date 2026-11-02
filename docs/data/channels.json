@@ -295,7 +295,7 @@
       "automation",
       "prompting",
       "rag",
-      "closed models"
+      "news"
     ],
     "dominantFormats": [
       "analysis",
@@ -313,23 +313,22 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "automation",
-          "closed models",
-          "news"
-        ]
-      },
-      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "prompting",
           "rag",
-          "closed models"
+          "open-source models"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "automation",
+          "news"
         ]
       }
     ]
