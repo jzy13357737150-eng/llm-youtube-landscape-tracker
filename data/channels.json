@@ -184,7 +184,7 @@
       "enterprise ai",
       "rag",
       "coding",
-      "evaluation"
+      "news"
     ],
     "dominantFormats": [
       "analysis"
@@ -257,16 +257,6 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "tutorial",
-          "automation",
-          "coding"
-        ]
-      },
-      {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
@@ -274,6 +264,16 @@
           "news",
           "tutorial",
           "automation"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "tutorial",
+          "automation",
+          "coding"
         ]
       }
     ]
