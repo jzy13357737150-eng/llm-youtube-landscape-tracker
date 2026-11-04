@@ -31,7 +31,7 @@
           "evaluation",
           "coding",
           "rag",
-          "fine-tuning"
+          "prompting"
         ]
       },
       {
@@ -139,10 +139,10 @@
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
-          "fine-tuning",
           "open-source models",
           "coding",
-          "tutorial"
+          "tutorial",
+          "agents"
         ]
       },
       {
@@ -262,8 +262,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "tutorial",
-          "automation"
+          "automation",
+          "closed models"
         ]
       },
       {
@@ -298,8 +298,7 @@
       "news"
     ],
     "dominantFormats": [
-      "analysis",
-      "tutorial"
+      "analysis"
     ],
     "relatedChannels": [
       {
@@ -323,12 +322,12 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "prompting",
-          "rag",
+          "automation",
+          "news",
           "voice ai"
         ]
       }
