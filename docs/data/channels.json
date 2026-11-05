@@ -25,16 +25,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "evaluation",
-          "coding",
-          "rag",
-          "prompting"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -52,6 +42,16 @@
           "coding",
           "rag",
           "fine-tuning"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "evaluation",
+          "coding",
+          "rag",
+          "prompting"
         ]
       }
     ]
@@ -129,7 +129,7 @@
       "open-source models",
       "coding",
       "tutorial",
-      "agents"
+      "enterprise ai"
     ],
     "dominantFormats": [
       "analysis"
@@ -142,7 +142,7 @@
           "open-source models",
           "coding",
           "tutorial",
-          "agents"
+          "enterprise ai"
         ]
       },
       {
@@ -161,8 +161,8 @@
         "overlapTopics": [
           "coding",
           "tutorial",
-          "agents",
-          "enterprise ai"
+          "enterprise ai",
+          "evaluation"
         ]
       }
     ]
@@ -184,15 +184,15 @@
       "enterprise ai",
       "rag",
       "coding",
-      "news"
+      "evaluation"
     ],
     "dominantFormats": [
       "analysis"
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "enterprise ai",
@@ -201,8 +201,8 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "enterprise ai",
@@ -295,7 +295,7 @@
       "automation",
       "prompting",
       "rag",
-      "news"
+      "closed models"
     ],
     "dominantFormats": [
       "analysis"
@@ -327,8 +327,8 @@
         "overlapTopics": [
           "agents",
           "automation",
-          "news",
-          "voice ai"
+          "closed models",
+          "news"
         ]
       }
     ]
