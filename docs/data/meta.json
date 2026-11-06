@@ -1,7 +1,7 @@
 {
   "mode": "live",
-  "startedAt": "2026-11-05T22:56:20.941Z",
-  "generatedAt": "2026-11-05T22:56:23.999Z",
+  "startedAt": "2026-11-06T03:46:02.333Z",
+  "generatedAt": "2026-11-06T03:46:05.935Z",
   "openAiEnabled": false,
   "trackedChannels": 6,
   "processedVideos": 48,
@@ -16,7 +16,7 @@
     "Reused 8 cached videos for The AI Advantage after fetch failure."
   ],
   "errors": [
-    "Channel fetch failed for Andrej Karpathy: Request failed 500 for https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ",
+    "Channel fetch failed for Andrej Karpathy: Request failed 404 for https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ",
     "Channel fetch failed for LangChain: Request failed 404 for https://www.youtube.com/feeds/videos.xml?channel_id=UCC-lyoTfSrcJzA1ab3APAgw",
     "Channel fetch failed for Hugging Face: Request failed 404 for https://www.youtube.com/feeds/videos.xml?channel_id=UCHlNU7kIZhRgSbhHvFoy72w",
     "Channel fetch failed for IBM Technology: Request failed 500 for https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
