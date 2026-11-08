@@ -25,16 +25,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "evaluation",
-          "coding",
-          "rag",
-          "fine-tuning"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -42,6 +32,16 @@
           "coding",
           "rag",
           "prompting"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "evaluation",
+          "coding",
+          "rag",
+          "fine-tuning"
         ]
       },
       {
@@ -184,7 +184,7 @@
       "enterprise ai",
       "rag",
       "news",
-      "coding"
+      "tutorial"
     ],
     "dominantFormats": [
       "analysis"
@@ -197,7 +197,7 @@
           "agents",
           "enterprise ai",
           "rag",
-          "coding"
+          "tutorial"
         ]
       },
       {
@@ -207,7 +207,7 @@
           "agents",
           "enterprise ai",
           "rag",
-          "coding"
+          "tutorial"
         ]
       },
       {
@@ -216,8 +216,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "coding",
-          "tutorial"
+          "tutorial",
+          "coding"
         ]
       }
     ]
@@ -257,16 +257,6 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "news",
-          "closed models",
-          "voice ai"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -274,6 +264,16 @@
           "news",
           "coding",
           "tutorial"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "news",
+          "closed models",
+          "voice ai"
         ]
       }
     ]
