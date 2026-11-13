@@ -1,5 +1,74 @@
 [
   {
+    "id": "G_Jrexy_5Bg",
+    "videoId": "G_Jrexy_5Bg",
+    "channelSlug": "matt-wolfe",
+    "channelName": "Matt Wolfe",
+    "channelCategory": "creator-news",
+    "title": "AI News: Things Will Never Be The Same",
+    "url": "https://www.youtube.com/watch?v=G_Jrexy_5Bg",
+    "thumbnailUrl": "https://i4.ytimg.com/vi/G_Jrexy_5Bg/hqdefault.jpg",
+    "publishedAt": "2026-11-13T17:21:49+00:00",
+    "speaker": "Matt Wolfe",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "closed models",
+      "coding",
+      "automation",
+      "tutorial",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "chatgpt",
+      "claude",
+      "gemini",
+      "openai",
+      "anthropic"
+    ],
+    "summary": "Try @OpenAI Decisions API here: https://developers.openai.com/api/docs/guides/decisions Here's the AI news from one of the wildest weeks we've ever seen! Jensen Huang steps down as NVIDIA CEO, Anthropic launches Claude Fable 5.2, and Google's Gemini 4 Carbon finally becomes available.",
+    "stance": "news",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "closed models",
+          "coding",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "closed models",
+          "automation",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "coding",
+          "automation",
+          "tutorial"
+        ]
+      }
+    ]
+  },
+  {
     "id": "Az2aRR51fDU",
     "videoId": "Az2aRR51fDU",
     "channelSlug": "ibm-technology",
@@ -33,21 +102,21 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "closed models"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "closed models",
           "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "closed models"
         ]
       },
       {
@@ -106,16 +175,6 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "closed models",
-          "automation"
-        ]
-      },
-      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -123,6 +182,16 @@
           "prompting",
           "evaluation",
           "automation"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "evaluation",
+          "closed models"
         ]
       }
     ]
@@ -416,12 +485,12 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "evaluation",
-          "news"
+          "enterprise ai"
         ]
       }
     ]
@@ -582,19 +651,19 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag"
         ]
       }
     ]
@@ -860,19 +929,19 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag"
         ]
       }
     ]
@@ -924,71 +993,6 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2TM8W66NI_8",
-    "videoId": "2TM8W66NI_8",
-    "channelSlug": "matt-wolfe",
-    "channelName": "Matt Wolfe",
-    "channelCategory": "creator-news",
-    "title": "Anthropic's Fable 5.2 is the World’s Best AI Model",
-    "url": "https://www.youtube.com/watch?v=2TM8W66NI_8",
-    "thumbnailUrl": "https://i3.ytimg.com/vi/2TM8W66NI_8/hqdefault.jpg",
-    "publishedAt": "2026-11-09T23:16:34+00:00",
-    "speaker": "Matt Wolfe",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "evaluation",
-      "closed models",
-      "tutorial",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "claude",
-      "anthropic"
-    ],
-    "summary": "Fable 5.2 from Anthropic just dropped today. Here's the details.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "closed models",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "closed models",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "closed models",
-          "tutorial"
         ]
       }
     ]
@@ -1530,19 +1534,19 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag"
         ]
       }
     ]
@@ -1581,21 +1585,21 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "closed models"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "closed models",
           "automation"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "closed models"
         ]
       },
       {
@@ -1675,11 +1679,12 @@
     "guests": [],
     "primaryTopics": [
       "fine-tuning",
-      "open-source models"
+      "open-source models",
+      "tutorial"
     ],
     "secondaryTopics": [],
     "modelsMentioned": [],
-    "summary": "Hugging Face discusses LLM-related themes in \"What You Missed at Hugging Face Open Together\".",
+    "summary": "The AI revolution will not be centralized. 🤗 Go inside Open Together, Hugging Face’s celebration of the open source AI community at The Midway in San Francisco on October 16, 2026.",
     "stance": "analysis",
     "transcriptSource": "none",
     "transcriptStatus": "disabled",
@@ -1693,7 +1698,8 @@
         "name": "LangChain",
         "overlapTopics": [
           "fine-tuning",
-          "open-source models"
+          "open-source models",
+          "tutorial"
         ]
       },
       {
@@ -1701,14 +1707,16 @@
         "name": "Andrej Karpathy",
         "overlapTopics": [
           "fine-tuning",
-          "open-source models"
+          "open-source models",
+          "tutorial"
         ]
       },
       {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
-          "open-source models"
+          "open-source models",
+          "tutorial"
         ]
       }
     ]
@@ -1892,13 +1900,13 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
           "evaluation",
-          "tutorial",
-          "news"
+          "enterprise ai",
+          "tutorial"
         ]
       }
     ]
@@ -2002,21 +2010,21 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "closed models"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "closed models",
           "automation"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "closed models"
         ]
       },
       {
@@ -2430,16 +2438,16 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "closed models",
           "coding"
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "closed models",
           "coding"
@@ -2566,8 +2574,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "evaluation",
           "coding",
@@ -2575,8 +2583,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "evaluation",
           "coding",
@@ -2816,16 +2824,16 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "coding",
           "tutorial"
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "coding",
           "tutorial"

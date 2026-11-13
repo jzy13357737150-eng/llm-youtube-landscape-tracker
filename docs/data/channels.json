@@ -126,9 +126,9 @@
     "latestThemes": [
       "fine-tuning",
       "open-source models",
+      "tutorial",
       "agents",
-      "coding",
-      "enterprise ai"
+      "coding"
     ],
     "dominantFormats": [
       "analysis"
@@ -140,8 +140,8 @@
         "overlapTopics": [
           "fine-tuning",
           "open-source models",
-          "agents",
-          "coding"
+          "tutorial",
+          "agents"
         ]
       },
       {
@@ -149,9 +149,9 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "open-source models",
+          "tutorial",
           "agents",
-          "coding",
-          "enterprise ai"
+          "coding"
         ]
       },
       {
@@ -160,8 +160,8 @@
         "overlapTopics": [
           "fine-tuning",
           "open-source models",
-          "agents",
-          "coding"
+          "tutorial",
+          "agents"
         ]
       }
     ]
@@ -210,11 +210,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "news",
+          "enterprise ai",
           "evaluation",
           "tutorial"
         ]
@@ -237,12 +237,13 @@
       "agents",
       "news",
       "tutorial",
-      "closed models",
-      "automation"
+      "automation",
+      "closed models"
     ],
     "dominantFormats": [
       "analysis",
-      "tutorial"
+      "tutorial",
+      "news"
     ],
     "relatedChannels": [
       {
@@ -261,8 +262,8 @@
         "overlapTopics": [
           "agents",
           "tutorial",
-          "closed models",
-          "automation"
+          "automation",
+          "closed models"
         ]
       },
       {
