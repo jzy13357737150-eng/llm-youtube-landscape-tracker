@@ -1,5 +1,117 @@
 [
   {
+    "id": "K6ffYKrlPdU",
+    "videoId": "K6ffYKrlPdU",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "AI Model Debugging: Find the First Divergence Across AI Accelerators",
+    "url": "https://www.youtube.com/watch?v=K6ffYKrlPdU",
+    "thumbnailUrl": "https://i4.ytimg.com/vi/K6ffYKrlPdU/hqdefault.jpg",
+    "publishedAt": "2026-11-15T12:00:36+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "enterprise ai",
+      "tutorial",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Learn more about AI Debugging here → https://ibm.biz/~i26jCJsKx The same AI model can produce different results across accelerators. Kaoutar El Maghraoui explains AI model debugging by finding the first observed divergence between executions.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai",
+          "tutorial"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "tutorial",
+          "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "tutorial"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "X3r-mZtPfP8",
+    "videoId": "X3r-mZtPfP8",
+    "channelSlug": "matt-wolfe",
+    "channelName": "Matt Wolfe",
+    "channelCategory": "creator-news",
+    "title": "The Self-Driving Car With Balls",
+    "url": "https://www.youtube.com/shorts/X3r-mZtPfP8",
+    "thumbnailUrl": "https://i1.ytimg.com/vi/X3r-mZtPfP8/hqdefault.jpg",
+    "publishedAt": "2026-11-15T07:12:15+00:00",
+    "speaker": "Matt Wolfe",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow 🧵 Threads: https://www.threads.net/@mr.eflow 🟦...",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "error",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
+    "relatedChannels": [
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "news"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents"
+        ]
+      }
+    ]
+  },
+  {
     "id": "sZg4uJnU9rU",
     "videoId": "sZg4uJnU9rU",
     "channelSlug": "ibm-technology",
@@ -294,13 +406,13 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "rag",
-          "evaluation",
-          "tutorial"
+          "coding",
+          "tutorial",
+          "news"
         ]
       }
     ]
@@ -349,21 +461,21 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "closed models"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "closed models",
           "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "closed models"
         ]
       }
     ]
@@ -893,19 +1005,19 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag"
         ]
       }
     ]
@@ -1167,71 +1279,19 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "news"
         ]
-      }
-    ]
-  },
-  {
-    "id": "GcFRheDNh5U",
-    "videoId": "GcFRheDNh5U",
-    "channelSlug": "matt-wolfe",
-    "channelName": "Matt Wolfe",
-    "channelCategory": "creator-news",
-    "title": "This Airtaxi is Ready For Primetime!",
-    "url": "https://www.youtube.com/shorts/GcFRheDNh5U",
-    "thumbnailUrl": "https://i4.ytimg.com/vi/GcFRheDNh5U/hqdefault.jpg",
-    "publishedAt": "2026-11-10T04:29:38+00:00",
-    "speaker": "Matt Wolfe",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow 🧵 Threads: https://www.threads.net/@mr.eflow 🟦...",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "error",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
-    "relatedChannels": [
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "news"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "news"
-        ]
       },
       {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
-          "agents"
+          "agents",
+          "rag"
         ]
       }
     ]
@@ -1726,63 +1786,6 @@
           "prompting",
           "coding",
           "tutorial"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "H_GJapsoLyU",
-    "videoId": "H_GJapsoLyU",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "Why AI Models Run Faster on Some Chips: The KV Cache Effect",
-    "url": "https://www.youtube.com/watch?v=H_GJapsoLyU",
-    "thumbnailUrl": "https://i1.ytimg.com/vi/H_GJapsoLyU/hqdefault.jpg",
-    "publishedAt": "2026-11-08T12:00:25+00:00",
-    "speaker": "IBM Technology",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "enterprise ai",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Learn more about KV Cache here → https://ibm.biz/~6LPSw4Y8N The same AI model can run differently across chips. Kaoutar El Maghraoui explains how GPUs, TPUs, and AI accelerators store and move KV cache during LLM inference.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai",
-          "news"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "news"
         ]
       }
     ]
