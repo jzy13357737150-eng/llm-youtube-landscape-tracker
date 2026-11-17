@@ -25,6 +25,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "evaluation",
+          "coding",
+          "fine-tuning",
+          "prompting"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -40,18 +50,7 @@
         "overlapTopics": [
           "evaluation",
           "coding",
-          "rag",
-          "prompting"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "evaluation",
-          "coding",
-          "fine-tuning",
-          "prompting"
+          "rag"
         ]
       }
     ]
@@ -127,8 +126,8 @@
       "fine-tuning",
       "open-source models",
       "tutorial",
-      "agents",
-      "coding"
+      "coding",
+      "agents"
     ],
     "dominantFormats": [
       "analysis"
@@ -141,7 +140,7 @@
           "fine-tuning",
           "open-source models",
           "tutorial",
-          "agents"
+          "coding"
         ]
       },
       {
@@ -151,7 +150,7 @@
           "fine-tuning",
           "open-source models",
           "tutorial",
-          "agents"
+          "coding"
         ]
       },
       {
@@ -159,8 +158,8 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "tutorial",
-          "agents",
           "coding",
+          "agents",
           "enterprise ai"
         ]
       }
@@ -247,16 +246,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "news",
-          "tutorial",
-          "automation"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -264,6 +253,16 @@
           "news",
           "tutorial",
           "closed models"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "news",
+          "tutorial",
+          "automation"
         ]
       },
       {
@@ -302,8 +301,8 @@
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "prompting",
@@ -312,13 +311,13 @@
         ]
       },
       {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "prompting",
           "closed models",
-          "rag"
+          "rag",
+          "evaluation"
         ]
       },
       {
