@@ -1,5 +1,64 @@
 [
   {
+    "id": "0MvcuIrects",
+    "videoId": "0MvcuIrects",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "Is AI Really Superintelligence? ANI, AGI & ASI Explained",
+    "url": "https://www.youtube.com/watch?v=0MvcuIrects",
+    "thumbnailUrl": "https://i1.ytimg.com/vi/0MvcuIrects/hqdefault.jpg",
+    "publishedAt": "2026-11-17T12:00:39+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "reasoning",
+      "enterprise ai",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [],
+    "summary": "Learn more about Artificial Superintelligence? here → https://ibm.biz/~ma2KWmdlF Is today’s AI truly superintelligent, or are we overstating its capabilities?",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "enterprise ai",
+          "news"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "reasoning"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "news"
+        ]
+      }
+    ]
+  },
+  {
     "id": "btjS7OaffpM",
     "videoId": "btjS7OaffpM",
     "channelSlug": "matt-wolfe",
@@ -101,8 +160,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "coding",
           "tutorial"
@@ -512,11 +571,11 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "prompting"
+          "closed models"
         ]
       }
     ]
@@ -818,22 +877,22 @@
         ]
       },
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "evaluation",
+          "closed models",
+          "tutorial"
+        ]
+      },
+      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "closed models",
           "automation",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "evaluation",
           "tutorial"
         ]
       }
@@ -1059,21 +1118,21 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "fine-tuning",
-          "evaluation",
-          "coding"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
+          "evaluation",
+          "coding"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
+          "fine-tuning",
           "evaluation",
           "coding"
         ]
@@ -1429,63 +1488,6 @@
     ]
   },
   {
-    "id": "4uvq8Cz3A7Y",
-    "videoId": "4uvq8Cz3A7Y",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "What Is Model Distillation? How Smaller AI Models Learn",
-    "url": "https://www.youtube.com/watch?v=4uvq8Cz3A7Y",
-    "thumbnailUrl": "https://i1.ytimg.com/vi/4uvq8Cz3A7Y/hqdefault.jpg",
-    "publishedAt": "2026-11-10T12:00:24+00:00",
-    "speaker": "IBM Technology",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "enterprise ai",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Learn more about Knowledge Distillation here → https://ibm.biz/~9OAE6ZHmW Small AI models can learn from much larger ones. Aadam Mulla explains model distillation, where student models learn from a teacher’s soft labels and dark knowledge.",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai",
-          "news"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "news"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai"
-        ]
-      }
-    ]
-  },
-  {
     "id": "k8zxn8OvTYU",
     "videoId": "k8zxn8OvTYU",
     "channelSlug": "the-ai-advantage",
@@ -1533,11 +1535,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "automation"
+          "rag"
         ]
       }
     ]
@@ -1585,21 +1587,21 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "automation"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
           "closed models"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "closed models",
+          "automation"
         ]
       }
     ]
@@ -1779,11 +1781,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "automation"
+          "rag"
         ]
       }
     ]
@@ -1838,11 +1840,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "automation"
+          "rag"
         ]
       }
     ]
@@ -1901,8 +1903,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "coding",
@@ -1963,11 +1965,11 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "prompting"
+          "closed models"
         ]
       }
     ]
@@ -2064,8 +2066,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "tutorial"
         ]
@@ -2126,12 +2128,12 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
+          "rag",
           "evaluation",
-          "open-source models",
           "tutorial"
         ]
       }
@@ -2180,21 +2182,21 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "automation"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
           "closed models"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "closed models",
+          "automation"
         ]
       }
     ]
@@ -2409,16 +2411,17 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
+          "reasoning",
           "closed models",
           "coding"
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "closed models",
           "coding"
@@ -2473,6 +2476,16 @@
     "notes": "",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "reasoning",
+          "evaluation"
+        ]
+      },
+      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -2489,16 +2502,6 @@
           "agents",
           "rag",
           "fine-tuning",
-          "evaluation"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
           "evaluation"
         ]
       }
@@ -2536,17 +2539,18 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
+          "reasoning",
           "evaluation",
           "coding",
           "tutorial"
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "evaluation",
           "coding",
@@ -2620,11 +2624,11 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "rag",
-          "prompting",
+          "reasoning",
           "evaluation"
         ]
       }
@@ -2668,6 +2672,16 @@
     "notes": "",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "reasoning",
+          "evaluation"
+        ]
+      },
+      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -2684,16 +2698,6 @@
           "agents",
           "rag",
           "fine-tuning",
-          "evaluation"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "prompting",
           "evaluation"
         ]
       }
@@ -2734,6 +2738,16 @@
     "notes": "",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "rag",
+          "reasoning",
+          "evaluation",
+          "coding"
+        ]
+      },
+      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -2749,15 +2763,6 @@
         "overlapTopics": [
           "rag",
           "fine-tuning",
-          "evaluation",
-          "coding"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "rag",
           "evaluation",
           "coding"
         ]
@@ -2793,6 +2798,15 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "reasoning",
+          "coding",
+          "tutorial"
+        ]
+      },
+      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -2803,14 +2817,6 @@
       {
         "slug": "hugging-face",
         "name": "Hugging Face",
-        "overlapTopics": [
-          "coding",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
         "overlapTopics": [
           "coding",
           "tutorial"
@@ -2855,8 +2861,8 @@
         "overlapTopics": [
           "agents",
           "rag",
-          "evaluation",
-          "coding"
+          "reasoning",
+          "evaluation"
         ]
       },
       {

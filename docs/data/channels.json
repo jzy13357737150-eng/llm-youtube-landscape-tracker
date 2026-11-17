@@ -25,6 +25,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "reasoning",
+          "evaluation",
+          "coding",
+          "rag"
+        ]
+      },
+      {
         "slug": "hugging-face",
         "name": "Hugging Face",
         "overlapTopics": [
@@ -42,15 +52,6 @@
           "coding",
           "rag",
           "fine-tuning"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "evaluation",
-          "coding",
-          "rag"
         ]
       }
     ]
