@@ -25,6 +25,16 @@
     ],
     "relatedChannels": [
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "evaluation",
+          "coding",
+          "rag",
+          "prompting"
+        ]
+      },
+      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
@@ -42,16 +52,6 @@
           "coding",
           "fine-tuning",
           "prompting"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "evaluation",
-          "coding",
-          "rag",
-          "fine-tuning"
         ]
       }
     ]
@@ -80,8 +80,8 @@
     ],
     "relatedChannels": [
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "evaluation",
@@ -90,13 +90,13 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "evaluation",
-          "tutorial",
-          "coding"
+          "rag",
+          "tutorial"
         ]
       },
       {
@@ -135,16 +135,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "fine-tuning",
-          "open-source models",
-          "tutorial",
-          "coding"
-        ]
-      },
-      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
@@ -162,6 +152,15 @@
           "coding",
           "agents",
           "enterprise ai"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "tutorial",
+          "coding",
+          "agents"
         ]
       }
     ]
@@ -190,16 +189,6 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "enterprise ai",
-          "rag",
-          "news"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
@@ -212,6 +201,16 @@
       {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "tutorial",
+          "closed models"
+        ]
+      },
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "rag",
@@ -261,9 +260,9 @@
         "name": "LangChain",
         "overlapTopics": [
           "agents",
-          "news",
           "tutorial",
-          "automation"
+          "automation",
+          "coding"
         ]
       },
       {
@@ -294,21 +293,31 @@
       "agents",
       "automation",
       "prompting",
-      "closed models",
-      "rag"
+      "rag",
+      "closed models"
     ],
     "dominantFormats": [
       "analysis"
     ],
     "relatedChannels": [
       {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "automation",
+          "prompting",
+          "rag"
+        ]
+      },
+      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "prompting",
-          "closed models",
-          "rag"
+          "rag",
+          "closed models"
         ]
       },
       {
@@ -316,18 +325,8 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
+          "rag",
           "closed models",
-          "rag",
-          "evaluation"
-        ]
-      },
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "automation",
-          "rag",
           "evaluation"
         ]
       }
