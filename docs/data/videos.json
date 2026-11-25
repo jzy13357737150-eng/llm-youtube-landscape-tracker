@@ -1,11 +1,144 @@
 [
   {
+    "id": "9mNnoPdT0q0",
+    "videoId": "9mNnoPdT0q0",
+    "channelSlug": "langchain",
+    "channelName": "LangChain",
+    "channelCategory": "developer-tools",
+    "title": "How We Tested Jev as an Agent Eval Judge with LangSmith + Deep Agents",
+    "url": "https://www.youtube.com/watch?v=9mNnoPdT0q0",
+    "thumbnailUrl": "https://i2.ytimg.com/vi/9mNnoPdT0q0/hqdefault.jpg",
+    "publishedAt": "2026-11-25T14:26:25+00:00",
+    "speaker": "LangChain",
+    "guests": [
+      "LangSmith"
+    ],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "evaluation",
+      "closed models",
+      "coding"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "gpt-5",
+      "claude",
+      "langchain"
+    ],
+    "summary": "Seán Roche, Education Engineer at LangChain, walks through how he and Daniel Shea tested TypeSafe AI's Jev as a judge for agent evals, in this talk from the LangChain SF Meetup with TypeSafe AI. They stored five frozen traces from a Deep Agents weather agent in LangSmith and scored them 100 times with Jev and three...",
+    "stance": "benchmark",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "andrej-karpathy",
+        "name": "Andrej Karpathy",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "evaluation",
+          "closed models"
+        ]
+      },
+      {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "closed models",
+          "coding"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "closed models",
+          "coding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "51rbs_HA3m4",
+    "videoId": "51rbs_HA3m4",
+    "channelSlug": "ibm-technology",
+    "channelName": "IBM Technology",
+    "channelCategory": "enterprise",
+    "title": "OpenAI's $1.2M bug hunt, Grok Bot after dark & Optimizely malware",
+    "url": "https://www.youtube.com/watch?v=51rbs_HA3m4",
+    "thumbnailUrl": "https://i2.ytimg.com/vi/51rbs_HA3m4/hqdefault.jpg",
+    "publishedAt": "2026-11-25T10:30:58+00:00",
+    "speaker": "IBM Technology",
+    "guests": [],
+    "primaryTopics": [
+      "agents",
+      "rag",
+      "prompting",
+      "coding",
+      "enterprise ai",
+      "news"
+    ],
+    "secondaryTopics": [],
+    "modelsMentioned": [
+      "openai"
+    ],
+    "summary": "Visit Security Intelligence podcast page to get more AI content → https://ibm.biz/~NbOgTyIYe What does a $1.2 million AI bug hunt get you? For OpenAI, 948 working Linux kernel exploits.",
+    "stance": "analysis",
+    "transcriptSource": "none",
+    "transcriptStatus": "disabled",
+    "transcriptSnippet": "",
+    "summarySource": "heuristic-metadata",
+    "processingStatus": "partial",
+    "notes": "Captions are disabled for this video.",
+    "relatedChannels": [
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "coding"
+        ]
+      },
+      {
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "coding",
+          "news"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "news"
+        ]
+      }
+    ]
+  },
+  {
     "id": "PQYURWk9-w0",
     "videoId": "PQYURWk9-w0",
     "channelSlug": "matt-wolfe",
     "channelName": "Matt Wolfe",
     "channelCategory": "creator-news",
-    "title": "This helmet tells you when to turn ⮑",
+    "title": "Most futuristic helmet ever!",
     "url": "https://www.youtube.com/shorts/PQYURWk9-w0",
     "thumbnailUrl": "https://i1.ytimg.com/vi/PQYURWk9-w0/hqdefault.jpg",
     "publishedAt": "2026-11-24T20:11:42+00:00",
@@ -95,6 +228,16 @@
         ]
       },
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "coding"
+        ]
+      },
+      {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
@@ -102,16 +245,6 @@
           "rag",
           "prompting",
           "evaluation"
-        ]
-      },
-      {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "evaluation",
-          "coding"
         ]
       }
     ]
@@ -165,8 +298,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag"
@@ -294,8 +427,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -369,7 +502,7 @@
     "channelSlug": "matt-wolfe",
     "channelName": "Matt Wolfe",
     "channelCategory": "creator-news",
-    "title": "This robot face is NOT AI!",
+    "title": "We know who will REALLY be using this (Not AI)",
     "url": "https://www.youtube.com/shorts/u1ozwejEwBo",
     "thumbnailUrl": "https://i2.ytimg.com/vi/u1ozwejEwBo/hqdefault.jpg",
     "publishedAt": "2026-11-23T21:09:34+00:00",
@@ -470,13 +603,13 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
           "prompting",
-          "evaluation"
+          "enterprise ai"
         ]
       }
     ]
@@ -530,8 +663,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag"
@@ -592,8 +725,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -634,21 +767,22 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "automation"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
           "prompting"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "automation"
         ]
       },
       {
@@ -692,21 +826,22 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "automation"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
           "prompting"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "automation"
         ]
       },
       {
@@ -750,6 +885,16 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "automation"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
@@ -759,83 +904,12 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "automation"
-        ]
-      },
-      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
           "agents",
           "rag",
           "prompting"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "0vz5slHWAp8",
-    "videoId": "0vz5slHWAp8",
-    "channelSlug": "langchain",
-    "channelName": "LangChain",
-    "channelCategory": "developer-tools",
-    "title": "Jev Explained: How TypeSafe's System One Model Fits into Your Agents",
-    "url": "https://www.youtube.com/watch?v=0vz5slHWAp8",
-    "thumbnailUrl": "https://i1.ytimg.com/vi/0vz5slHWAp8/hqdefault.jpg",
-    "publishedAt": "2026-11-23T14:25:33+00:00",
-    "speaker": "LangChain",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "evaluation",
-      "tutorial"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [
-      "langchain"
-    ],
-    "summary": "Sydney Runkle, product manager for open source at LangChain, talks with Sasha Sheng, co-founder of TypeSafe AI, whose team builds the training data behind Jev. Sasha explains why TypeSafe built a model that returns typed answers with a confidence score rather than generated text, and how to break a fuzzy problem...",
-    "stance": "analysis",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "andrej-karpathy",
-        "name": "Andrej Karpathy",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "evaluation",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "tutorial"
         ]
       }
     ]
@@ -1154,21 +1228,21 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "automation",
+          "tutorial"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "agents",
           "prompting",
-          "tutorial",
-          "news"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "automation",
           "tutorial",
           "news"
         ]
@@ -1428,8 +1502,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "coding",
@@ -1674,68 +1748,6 @@
     ]
   },
   {
-    "id": "Bn8DhYpy-qI",
-    "videoId": "Bn8DhYpy-qI",
-    "channelSlug": "ibm-technology",
-    "channelName": "IBM Technology",
-    "channelCategory": "enterprise",
-    "title": "Grok Build leaks apps and Outlook goes dark worldwide",
-    "url": "https://www.youtube.com/watch?v=Bn8DhYpy-qI",
-    "thumbnailUrl": "https://i3.ytimg.com/vi/Bn8DhYpy-qI/hqdefault.jpg",
-    "publishedAt": "2026-11-18T09:30:38+00:00",
-    "speaker": "IBM Technology",
-    "guests": [],
-    "primaryTopics": [
-      "agents",
-      "rag",
-      "enterprise ai",
-      "tutorial",
-      "news"
-    ],
-    "secondaryTopics": [],
-    "modelsMentioned": [],
-    "summary": "Visit Security Intelligence podcast page to get more AI content →https://ibm.biz/~NqgBKzBGg What happens when your private AI app isn't so private? This week on Security Intelligence, Austin Zeizel, Sophie Cunningham and Bryan Clark join host Patrick Austin to unpack this week's cybersecurity news.",
-    "stance": "tutorial",
-    "transcriptSource": "none",
-    "transcriptStatus": "disabled",
-    "transcriptSnippet": "",
-    "summarySource": "heuristic-metadata",
-    "processingStatus": "partial",
-    "notes": "Captions are disabled for this video.",
-    "relatedChannels": [
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "enterprise ai",
-          "tutorial"
-        ]
-      },
-      {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "tutorial",
-          "news"
-        ]
-      },
-      {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "tutorial",
-          "news"
-        ]
-      }
-    ]
-  },
-  {
     "id": "hJH9TcNfrZY",
     "videoId": "hJH9TcNfrZY",
     "channelSlug": "the-ai-advantage",
@@ -1768,8 +1780,8 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",
@@ -1778,13 +1790,13 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
-          "closed models",
-          "automation"
+          "prompting",
+          "closed models"
         ]
       },
       {
@@ -1829,21 +1841,22 @@
     "notes": "[YoutubeTranscript] 🚨 Impossible to retrieve Youtube video ID.",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "prompting",
+          "automation"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "agents",
           "rag",
           "prompting"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "automation"
         ]
       },
       {
@@ -1906,8 +1919,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "coding",
           "tutorial"
@@ -1949,21 +1962,22 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "closed models",
+          "automation"
+        ]
+      },
+      {
         "slug": "langchain",
         "name": "LangChain",
         "overlapTopics": [
           "agents",
           "prompting",
           "closed models"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "automation"
         ]
       },
       {
@@ -2022,6 +2036,16 @@
         ]
       },
       {
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
+        "overlapTopics": [
+          "agents",
+          "prompting",
+          "closed models",
+          "automation"
+        ]
+      },
+      {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
         "overlapTopics": [
@@ -2029,16 +2053,6 @@
           "prompting",
           "evaluation",
           "closed models"
-        ]
-      },
-      {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "automation",
-          "tutorial"
         ]
       }
     ]
@@ -2146,10 +2160,11 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
+          "prompting",
           "coding",
           "tutorial"
         ]
@@ -2246,8 +2261,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "tutorial"
         ]
@@ -2417,8 +2432,8 @@
     "notes": "Captions are disabled for this video.",
     "relatedChannels": [
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "closed models",
           "voice ai",
@@ -2426,8 +2441,8 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "closed models",
           "voice ai",
@@ -2565,8 +2580,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "coding",
           "tutorial"
@@ -2764,12 +2779,12 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "rag",
           "prompting",
-          "evaluation"
+          "coding"
         ]
       }
     ]
@@ -2812,16 +2827,16 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "coding",
           "tutorial"
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "coding",
           "tutorial"
@@ -2881,8 +2896,8 @@
         ]
       },
       {
-        "slug": "matt-wolfe",
-        "name": "Matt Wolfe",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "rag",

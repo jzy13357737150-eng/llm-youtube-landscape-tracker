@@ -45,10 +45,10 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
-          "evaluation",
+          "coding",
           "rag",
           "prompting"
         ]
@@ -72,10 +72,11 @@
       "evaluation",
       "rag",
       "coding",
-      "open-source models"
+      "closed models"
     ],
     "dominantFormats": [
-      "analysis"
+      "analysis",
+      "benchmark"
     ],
     "relatedChannels": [
       {
@@ -89,23 +90,23 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
+        "slug": "ibm-technology",
+        "name": "IBM Technology",
         "overlapTopics": [
           "agents",
-          "evaluation",
+          "rag",
           "coding",
-          "open-source models"
+          "closed models"
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "matt-wolfe",
+        "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
-          "evaluation",
           "rag",
-          "prompting"
+          "coding",
+          "closed models"
         ]
       }
     ]
@@ -182,11 +183,10 @@
       "enterprise ai",
       "rag",
       "news",
-      "tutorial"
+      "automation"
     ],
     "dominantFormats": [
-      "analysis",
-      "tutorial"
+      "analysis"
     ],
     "relatedChannels": [
       {
@@ -200,23 +200,23 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
-        "overlapTopics": [
-          "agents",
-          "rag",
-          "news",
-          "tutorial"
-        ]
-      },
-      {
         "slug": "matt-wolfe",
         "name": "Matt Wolfe",
         "overlapTopics": [
           "agents",
           "rag",
           "news",
-          "tutorial"
+          "coding"
+        ]
+      },
+      {
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
+        "overlapTopics": [
+          "agents",
+          "rag",
+          "news",
+          "automation"
         ]
       }
     ]
@@ -301,21 +301,21 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "prompting",
-          "rag",
-          "closed models"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "automation",
+          "prompting",
+          "rag"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "prompting",
           "rag",
           "closed models"
         ]
