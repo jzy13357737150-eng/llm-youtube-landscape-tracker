@@ -72,11 +72,12 @@
       "evaluation",
       "rag",
       "coding",
-      "closed models"
+      "open-source models"
     ],
     "dominantFormats": [
       "analysis",
-      "benchmark"
+      "benchmark",
+      "tutorial"
     ],
     "relatedChannels": [
       {
@@ -90,13 +91,13 @@
         ]
       },
       {
-        "slug": "ibm-technology",
-        "name": "IBM Technology",
+        "slug": "hugging-face",
+        "name": "Hugging Face",
         "overlapTopics": [
           "agents",
-          "rag",
+          "evaluation",
           "coding",
-          "closed models"
+          "open-source models"
         ]
       },
       {
@@ -106,7 +107,7 @@
           "agents",
           "rag",
           "coding",
-          "closed models"
+          "tutorial"
         ]
       }
     ]
@@ -196,7 +197,7 @@
           "agents",
           "enterprise ai",
           "rag",
-          "news"
+          "coding"
         ]
       },
       {
@@ -236,9 +237,9 @@
     "latestThemes": [
       "agents",
       "news",
+      "closed models",
       "coding",
-      "rag",
-      "closed models"
+      "rag"
     ],
     "dominantFormats": [
       "analysis",
@@ -246,21 +247,21 @@
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "news",
-          "coding",
-          "rag"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
           "news",
+          "closed models",
+          "coding"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "closed models",
           "coding",
           "rag"
         ]
@@ -271,8 +272,8 @@
         "overlapTopics": [
           "agents",
           "news",
-          "rag",
-          "closed models"
+          "closed models",
+          "rag"
         ]
       }
     ]
