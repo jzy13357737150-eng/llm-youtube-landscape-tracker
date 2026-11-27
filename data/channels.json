@@ -25,22 +25,22 @@
     ],
     "relatedChannels": [
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "reasoning",
-          "evaluation",
-          "coding",
-          "fine-tuning"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "reasoning",
+          "evaluation",
           "coding",
-          "rag",
+          "rag"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "reasoning",
+          "coding",
+          "fine-tuning",
           "prompting"
         ]
       },
@@ -92,22 +92,22 @@
         ]
       },
       {
-        "slug": "hugging-face",
-        "name": "Hugging Face",
-        "overlapTopics": [
-          "agents",
-          "evaluation",
-          "coding",
-          "open-source models"
-        ]
-      },
-      {
         "slug": "ibm-technology",
         "name": "IBM Technology",
         "overlapTopics": [
           "agents",
+          "evaluation",
           "rag",
+          "coding"
+        ]
+      },
+      {
+        "slug": "hugging-face",
+        "name": "Hugging Face",
+        "overlapTopics": [
+          "agents",
           "coding",
+          "open-source models",
           "tutorial"
         ]
       }
@@ -129,23 +129,13 @@
       "fine-tuning",
       "open-source models",
       "tutorial",
-      "coding",
-      "agents"
+      "agents",
+      "coding"
     ],
     "dominantFormats": [
       "analysis"
     ],
     "relatedChannels": [
-      {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "open-source models",
-          "tutorial",
-          "coding",
-          "agents"
-        ]
-      },
       {
         "slug": "andrej-karpathy",
         "name": "Andrej Karpathy",
@@ -153,6 +143,16 @@
           "fine-tuning",
           "open-source models",
           "tutorial",
+          "agents"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "open-source models",
+          "tutorial",
+          "agents",
           "coding"
         ]
       },
@@ -161,9 +161,9 @@
         "name": "IBM Technology",
         "overlapTopics": [
           "tutorial",
-          "coding",
           "agents",
-          "enterprise ai"
+          "coding",
+          "prompting"
         ]
       }
     ]
@@ -185,20 +185,20 @@
       "enterprise ai",
       "rag",
       "news",
-      "automation"
+      "coding"
     ],
     "dominantFormats": [
       "analysis"
     ],
     "relatedChannels": [
       {
-        "slug": "langchain",
-        "name": "LangChain",
+        "slug": "the-ai-advantage",
+        "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
-          "enterprise ai",
           "rag",
-          "coding"
+          "news",
+          "automation"
         ]
       },
       {
@@ -212,13 +212,13 @@
         ]
       },
       {
-        "slug": "the-ai-advantage",
-        "name": "The AI Advantage",
+        "slug": "langchain",
+        "name": "LangChain",
         "overlapTopics": [
           "agents",
+          "enterprise ai",
           "rag",
-          "news",
-          "automation"
+          "coding"
         ]
       }
     ]
@@ -258,22 +258,22 @@
         ]
       },
       {
-        "slug": "langchain",
-        "name": "LangChain",
-        "overlapTopics": [
-          "agents",
-          "closed models",
-          "coding",
-          "rag"
-        ]
-      },
-      {
         "slug": "the-ai-advantage",
         "name": "The AI Advantage",
         "overlapTopics": [
           "agents",
           "news",
           "closed models",
+          "rag"
+        ]
+      },
+      {
+        "slug": "langchain",
+        "name": "LangChain",
+        "overlapTopics": [
+          "agents",
+          "closed models",
+          "coding",
           "rag"
         ]
       }
